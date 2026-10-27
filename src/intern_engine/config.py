@@ -24,7 +24,7 @@ DEFAULTS = {
 }
 
 
-_FALLBACK_REPO = "Rohan-droid7341/job-for-freshers"
+_FALLBACK_REPO = "Rohan-droid7/jobs-fresher-india"
 
 
 
