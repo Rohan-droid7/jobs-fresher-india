@@ -1,23 +1,47 @@
-# Python
+# Python & environments
 .venv/
+venv/
+env/
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+
+# Testing & linting
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
 
 # Local database files
 *.db
 *.sqlite3
+*.sqlite
+*.db-shm
+*.db-wal
 
-# Secrets (API keys, etc.) — never commit these
-.env
+# Secrets & Credentials (NEVER commit these)
+.env*
+*.env
+*.pem
+*.key
+*.token
+*.p12
+*.pfx
+credentials*.json
+service_account*.json
+*_secret*
 
-# Local artifacts from the email test tool
+# Local artifacts
 tools/digest_preview.html
+audit_filter_gates_sample.csv
 
-# Personal / local-only files (planning, learning notes, experiments) —
-# kept on your machine, never pushed to the public repo.
+# Personal / local-only files
 PLAN.md
 phase1_greenhouse.py
 LEARN.md
 docs/LEARN.md
 scratchpad/
 LAUNCH.md
+
+audit_pipeline_gates.py

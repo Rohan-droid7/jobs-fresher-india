@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/Rohan-droid7341/job-for-freshers/actions/workflows/ci.yml/badge.svg)](https://github.com/Rohan-droid7341/job-for-freshers/actions/workflows/ci.yml) ![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Frohan-droid7341.github.io%2Fjob-for-freshers%2Fapi%2Fstats.json&color=2f81f7) ![Updates](https://img.shields.io/badge/updates-every%204h-3fb950) [![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22)](https://rohan-droid7341.github.io/job-for-freshers/feed.xml)
 
-A self-updating engine that tracks **full-time fresher & new-grad tech jobs** for the **2026 & 2027 batch** across India — so you don't have to. Instead of refreshing Naukri, LinkedIn, and a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
+
 
 **22 open roles · 24 new this week · 5,293 companies tracked · updated Oct 03, 2026 at 17:35 UTC**
 
@@ -50,7 +50,7 @@ This is an engine, not a hand-kept list. It polls company career feeds several t
 - **Real posted dates on every role** — pulled from each ATS directly, so newest-first actually means newest.
 - **Skill tags + pay, extracted** — every posting's text is scanned for the stack it wants (Python, Java, C++, SQL, ...) and the CTC / stipend it states — searchable on the [dashboard](https://rohan-droid7341.github.io/job-for-freshers/), included in the CSV and API.
 - **Alerts your way** — [email digests](https://rohan-droid7341.github.io/job-for-freshers/#subscribe), [RSS](https://rohan-droid7341.github.io/job-for-freshers/feed.xml), or Discord — plus a [live dashboard](https://rohan-droid7341.github.io/job-for-freshers/) with search and custom filters.
-- **Covers the full India fresher ecosystem** — Naukri (fresher filter), Unstop (off-campus drives), Internshala, direct ATS (Greenhouse, Workday, Lever…), and custom scrapers for Flipkart, Swiggy, Razorpay, and more.
+
 - **An engine, not a spreadsheet** — polled every 4 hours across all platforms with full source in this repo.
 
 ## Scope
@@ -62,7 +62,7 @@ This is an engine, not a hand-kept list. It polls company career feeds several t
 
 ## About
 
-I built this engine because finding fresher jobs in India is painful — Naukri floods you with spam, LinkedIn shows you senior roles, and off-campus drives close before you even hear about them. This engine watches everything automatically and surfaces only what's relevant for the 2026/2027 batch. Apply early — freshers who apply in the first 48 hours have a significantly higher callback rate.
+
 
 ## How to use
 
@@ -138,9 +138,9 @@ _Engine (last run): 5,299 companies across 19 ATS platforms · 97% fetch success
 ## Platforms Scraped
 
 The engine currently extracts live data from the following platforms:
-- **Indian Job Portals:** Naukri (experience=0 / fresher filter), Internshala, Wellfound
+
 - **Direct ATS (Applicant Tracking Systems):** Greenhouse, Lever, Ashby, SmartRecruiters, Workable, Workday, Breezy, Recruitee, Rippling, Eightfold, Oracle
-- **Direct Enterprise & Custom Scrapers:** Amazon (India Jobs), Custom Playwright Scrapers (Flipkart, Swiggy, Razorpay, CRED, InMobi, Rapido, Blinkit, Groww, CARS24, Urban Company, Delhivery)
+
 
 ## Contributing
 

@@ -57,13 +57,13 @@ CONNECTORS = {
     "recruitee": recruitee.fetch,
     "eightfold": eightfold.fetch,
     # "unstop": unstop.fetch,        # disabled: low quality / irrelevant
-    "internshala": internshala.fetch,
+    # "internshala": internshala.fetch,  # disabled
     # "instahyre": instahyre.fetch,  # disabled/removed from flow
     # "linkedin": linkedin.fetch,    # disabled: frequently blocking/rate-limited
-    "naukri": naukri.fetch,
-    "custom": custom_careers.fetch,
+    # "naukri": naukri.fetch,  # disabled
+    # "custom": custom_careers.fetch,  # disabled
     # "indeed": indeed.fetch,        # disabled: frequently blocking/rate-limited
-    "wellfound": wellfound.fetch,
+    # "wellfound": wellfound.fetch,  # disabled
 }
 
 

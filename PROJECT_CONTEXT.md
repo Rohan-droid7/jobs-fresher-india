@@ -48,7 +48,7 @@ internship-engine-india/
 1. **Connector Isolation & Unstable Feed Disabling**:
    - Connector fetch functions are registered in `CONNECTORS` inside `src/intern_engine/pipeline.py`.
    - Direct ATS: Greenhouse, Lever, Ashby, SmartRecruiters, Workable, Workday, Breezy, Recruitee, Rippling, Eightfold, Oracle.
-   - Direct Tech Portals: Amazon (India jobs), Custom Playwright Scrapers for Indian unicorns (Flipkart, Swiggy, Razorpay, CRED, etc.).
+
    - India Portals: Internshala, Naukri, Wellfound. Unstable or unwanted aggregators (Unstop, Instahyre, LinkedIn, Indeed) are disabled from `pipeline.py`'s `CONNECTORS` map.
    - Never add blocking network calls to main loops. One failing company feed must never crash the run (wrap in isolated error handlers).
 
