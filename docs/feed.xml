@@ -5,7 +5,15 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-10-27T15:50:48Z</updated>
+  <updated>2026-10-27T18:45:51Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4047718-1</id>
+    <title>GE Healthcare: Graduate Engineer Trainee</title>
+    <link href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Graduate-Engineer-Trainee_R4047718-1"/>
+    <updated>2026-10-27T18:45:51Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · Bengaluru</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:rippling:rippling:acf82f7d-5595-47c4-8e08-45c9d9a93529</id>
     <title>Rippling: Software Engineer I - FullStack</title>
@@ -149,14 +157,6 @@
     <updated>2026-10-27T13:03:51Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Other · Navi Mumbai (IND) · Java, JavaScript, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4047566-2</id>
-    <title>GE Healthcare: Graduate Engineer Trainee</title>
-    <link href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Graduate-Engineer-Trainee_R4047566-2"/>
-    <updated>2026-10-27T13:03:51Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Bengaluru</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5880</id>
