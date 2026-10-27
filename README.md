@@ -1,44 +1,54 @@
 # Indian Fresher & New-Grad Jobs
 
-[![CI](https://github.com/Rohan-droid7341/job-for-freshers/actions/workflows/ci.yml/badge.svg)](https://github.com/Rohan-droid7341/job-for-freshers/actions/workflows/ci.yml) ![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Frohan-droid7341.github.io%2Fjob-for-freshers%2Fapi%2Fstats.json&color=2f81f7) ![Updates](https://img.shields.io/badge/updates-every%204h-3fb950) [![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22)](https://rohan-droid7341.github.io/job-for-freshers/feed.xml)
+[![CI](https://github.com/Rohan-droid7/jobs-fresher-india/actions/workflows/ci.yml/badge.svg)](https://github.com/Rohan-droid7/jobs-fresher-india/actions/workflows/ci.yml) ![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Frohan-droid7.github.io%2Fjobs-fresher-india%2Fapi%2Fstats.json&color=2f81f7) ![Updates](https://img.shields.io/badge/updates-every%204h-3fb950) [![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22)](https://rohan-droid7.github.io/jobs-fresher-india/feed.xml)
 
+A self-updating engine that tracks **full-time fresher & new-grad tech jobs** for the **2026 & 2027 batch** across India — so you don't have to. Instead of refreshing Naukri, LinkedIn, and a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-
-**22 open roles · 24 new this week · 5,293 companies tracked · updated Oct 03, 2026 at 17:35 UTC**
+**32 open roles · 23 new this week · 5,293 companies tracked · updated Oct 27, 2026 at 13:03 UTC**
 
 **⭐ Star this repo ⭐** to save it and get notified when new roles land.
 
-**Live:** [dashboard](https://rohan-droid7341.github.io/job-for-freshers/) · [RSS feed](https://rohan-droid7341.github.io/job-for-freshers/feed.xml) (instant alerts in any RSS app) · [JSON API](https://rohan-droid7341.github.io/job-for-freshers/api/jobs.json)
+**Live:** [dashboard](https://rohan-droid7.github.io/jobs-fresher-india/) · [RSS feed](https://rohan-droid7.github.io/jobs-fresher-india/feed.xml) (instant alerts in any RSS app) · [JSON API](https://rohan-droid7.github.io/jobs-fresher-india/api/jobs.json)
 
-**🔔 New roles in your inbox:** [subscribe by email](https://rohan-droid7341.github.io/job-for-freshers/#subscribe) - one email a day, only when new jobs actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FRohan-droid7341%2Fjob-for-freshers%2Fmain%2Fdocs%2Ffeed.xml).)
+**🔔 New roles in your inbox:** [subscribe by email](https://rohan-droid7.github.io/jobs-fresher-india/#subscribe) - one email a day, only when new jobs actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FRohan-droid7%2Fjobs-fresher-india%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## New Grad — Entry Level (All Batches)  (22 open)
+## New Grad — Entry Level (All Batches)  (32 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Shell | Associate QA Analyst - Endur 🆕 | Other | B.Tech/BS | Bangalore RMZ-ECO WORLD | Oct 02, 2026 | [Apply](https://shell.wd3.myworkdayjobs.com/ShellCareers/job/Bangalore-RMZ-ECO-WORLD/Associate-QA-Analyst---Endur_R208390-1) |
-| Cigna Group | Automation Engineer Associate Analyst 🆕 | Software | B.Tech/BS | Bengaluru, India | Oct 01, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012027) |
-| Amazon | Software Development Engineer, Prime Video Live Events - Sports Data Platform 🆕 | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Bengaluru, Karnataka, India | Sep 30, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10565511/software-development-engineer-prime-video-live-events-sports-data-platform) |
-| Global Payments | Associate SDET Specialist 🆕 | Other | B.Tech/BS | PUNE, , INDIA | Sep 30, 2026 | [Apply](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Associate-SDET-Specialist_R0075179) |
-| Amazon | SDE I FTC 🆕 | Other | B.Tech/BS | Hyderabad, Telangana, India | Sep 29, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10563602/sde-i-ftc) |
-| PTC | Associate Software Analyst 🆕 | Software | B.Tech/BS | Pune, India | Sep 29, 2026 | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Pune-India/Associate-Software-Analyst_JR112163) |
-| Cohere Health | Associate Software Engineer 🆕 | Software | B.Tech/BS | Hyderabad, Telangana, India | Sep 28, 2026 | [Apply](https://job-boards.greenhouse.io/coherehealth/jobs/7728230003) |
-| Amazon | SDE-I, Rewards 🆕 | Other | B.Tech/BS | Gurugram, Haryana, India | Sep 22, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10555910/sde-i-rewards) |
-| Netomi | Data Engineer I 🆕 | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Remote - India | Sep 21, 2026 | [Apply](https://jobs.lever.co/netomi/02b45afd-5a49-41b2-a244-b0ca76306692) |
-| Priceline | Associate Software Engineer 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Mumbai | Sep 21, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5715) |
-| Amazon | SDE-1, Expansions Tech and Product 🆕 | Other | B.Tech/BS | Hyderabad, Telangana, India | Sep 18, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10553343/sde-1-expansions-tech-and-product) |
-| Amazon | Software Dev Engineer I FTC 🆕 | Software | B.Tech/BS | Bengaluru, Karnataka, India | Sep 17, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10551515/software-dev-engineer-i-ftc) |
-| Aera Technology | Associate Data Scientist – Modeling, Analytics & Pipelines 🆕 | Data & ML/AI | B.Tech/BS | Pune, India | Sep 17, 2026 | [Apply](https://jobs.lever.co/aeratechnology/4860f299-72d8-41d5-97ff-ae063765f617) |
-| Cohere Health | Associate SDET Engineer 🆕 | Software | — | Hyderabad, Telangana, India | Sep 16, 2026 | [Apply](https://job-boards.greenhouse.io/coherehealth/jobs/7693298003) |
-| R1 RCM | Software Engineer I 🆕 | Software | B.Tech/BS | Noida, India | Aug 28, 2026 | [Apply](https://r1rcm.wd1.myworkdayjobs.com/R1RCM/job/Noida-India/Software-Engineer-I_R260000005491) |
-| AiPrise | Software Engineer I (Bangalore, India) 🆕 | Software | ₹15L – ₹30L • Offers Bonus<br>2+ Yrs<br>B.Tech/BS | Bengaluru | Aug 24, 2026 | [Apply](https://jobs.ashbyhq.com/aiprise/3763c791-a387-4078-9ca4-00cbfbf9b1a6) |
-| Ema | AI/Data Resident 🆕 | Data & ML/AI | B.Tech/BS | India - remote | Aug 24, 2026 | [Apply](https://jobs.ashbyhq.com/ema/e0511c0c-998f-4079-b62c-d2f164bf2c86) |
-| ReliaQuest | Associate Software Engineer 🆕 | Software | 0-1 Yr | Pune India Office | Aug 19, 2026 | [Apply](https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers/job/Pune-India-Office/Associate-Software-Engineer_R15032) |
-| AspenTech | Software Quality Engineer I 🆕 | Software | B.Tech/BS | Noida | Jul 07, 2026 | [Apply](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Noida/Software-Quality-Engineer-I_R9206) |
-| Varex Imaging Corporation | Applications System Engineer 🆕 | Software | B.Tech/BS | Pune | Jun 09, 2026 | [Apply](https://vareximaging.wd103.myworkdayjobs.com/External_Career_Site/job/Pune/Applications-System-Engineer_R0004962) |
-| Silicon Laboratories | Engineer I - Software QA 🆕 | Software | B.Tech/BS | Hyderabad | Feb 17, 2026 | [Apply](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Hyderabad/Engineer-I---Software-QA_20641-1) |
-| Mykaarma | Software Developer I 🆕 | Software | — | NOIDA, India | — | [Apply](https://ats.rippling.com/mykaarma/jobs/854ee9f5-885b-4c76-8e6f-0330a11cdc54) |
+| UiPath | Software Engineer I 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Bangalore | Oct 27, 2026 | [Apply](https://jobs.ashbyhq.com/uipath/a6ed0fbe-3505-46ab-9ec5-469d8356f8d8) |
+| Arctic Wolf | Developer 1 🆕 | Software | — | Bengaluru, IND | Oct 26, 2026 | [Apply](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Developer-1_R26_1148) |
+| GE Healthcare | Graduate Engineer Trainee 🆕 | Software | — | Bengaluru | Oct 26, 2026 | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Graduate-Engineer-Trainee_R4047566-2) |
+| Point72 | 2027 Software Engineer - Campus Graduate Program - IIT BHU 🆕 | Software | B.Tech/BS | India, Bengaluru | Oct 25, 2026 | [Apply](https://boards.greenhouse.io/point72/jobs/8893940002?gh_jid=8893940002) |
+| Point72 | 2027 Software Engineer - Campus Graduate Program - IIT Hyderabad 🆕 | Software | B.Tech/BS | India, Bengaluru | Oct 25, 2026 | [Apply](https://boards.greenhouse.io/point72/jobs/8893936002?gh_jid=8893936002) |
+| Point72 | 2027 Software Engineer - Campus Graduate Program - IIT Kanpur 🆕 | Software | B.Tech/BS | India, Bengaluru | Oct 25, 2026 | [Apply](https://boards.greenhouse.io/point72/jobs/8893939002?gh_jid=8893939002) |
+| Point72 | 2027 Software Engineer - Campus Graduate Program - IIT Madras 🆕 | Software | B.Tech/BS | India, Bengaluru | Oct 25, 2026 | [Apply](https://boards.greenhouse.io/point72/jobs/8893935002?gh_jid=8893935002) |
+| CME Group | Site Reliability Engineer I -  India 🆕 | Software | B.Tech/BS | Bangalore - Bagmane Tridib | Oct 23, 2026 | [Apply](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Site-Reliability-Engineer-I----India_34762) |
+| Dow Chemical Company | Information Technology Analyst 🆕 | Other | B.Tech/BS | Navi Mumbai (IND) | Oct 23, 2026 | [Apply](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Information-Technology-Analyst_R2068912) |
+| The Hartford | IND Associate Software Engineer -  Red Team Engineer 🆕 | Software | B.Tech/BS | India GCC-Puppalaguda Village | Oct 23, 2026 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341) |
+| TriNet | Associate Data Analyst 🆕 | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Hyderabad, Telangana, India | Oct 22, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004251) |
+| Wex | Software Development Engineer 1 🆕 | Software | B.Tech/BS | India - Bangalore | Oct 22, 2026 | [Apply](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Software-Development-Engineer-1_R22746) |
+| Abnormal Security | Software Engineer 1 - Platform & Infrastructure 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Hybrid - Bangalore, India | Oct 20, 2026 | [Apply](https://abnormal.ai/careers/jobs/8016870003?gh_jid=8016870003) |
+| Eurofins | IT Infrastructure System Engineer - Linux 🆕 | Software | B.Tech/BS | Bengaluru, KA, India | Oct 19, 2026 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000156229723) |
+| Priceline | Associate Software Engineer 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Mumbai | Oct 19, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5880) |
+| Amazon | Software Development Engineer I 🆕 | Software | B.Tech/BS | Hyderabad, Telangana, India | Oct 15, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10580014/software-development-engineer-i) |
+| Amazon | Software Development Engineer I FTC 🆕 | Software | B.Tech/BS | Hyderabad, Telangana, India | Oct 15, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10580010/software-development-engineer-i-ftc) |
+| TriNet | Associate Data Scientist 🆕 | Data & ML/AI | B.Tech/BS | Hyderabad, Telangana, India | Oct 14, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004076) |
+| Wabtec | System Engineer ( Doors) 🆕 | Software | B.Tech/BS | Bengaluru, India | Oct 08, 2026 | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990015987115) |
+| Amazon | Software Development Engineer, Prime Video Live Events - Sports Data Platform | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Bengaluru, Karnataka, India | Sep 30, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10565511/software-development-engineer-prime-video-live-events-sports-data-platform) |
+| Amazon | SDE I FTC | Other | B.Tech/BS | Hyderabad, Telangana, India | Sep 29, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10563602/sde-i-ftc) |
+| PTC | Associate Software Analyst | Software | B.Tech/BS | Pune, India | Sep 29, 2026 | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Pune-India/Associate-Software-Analyst_JR112163) |
+| Amazon | SDE-1 🆕 | Other | B.Tech/BS | Hyderabad, Telangana, India | Sep 28, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10561468/sde-1) |
+| Netomi | Data Engineer I | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Remote - India | Sep 21, 2026 | [Apply](https://jobs.lever.co/netomi/02b45afd-5a49-41b2-a244-b0ca76306692) |
+| CommerceIQ | DevOps Engineer I 🆕 | Software | 2+ Yrs | Bengaluru, Karnataka, India | Sep 15, 2026 | [Apply](https://job-boards.greenhouse.io/commerceiq/jobs/7995557003) |
+| R1 RCM | Software Engineer I | Software | B.Tech/BS | Noida, India | Aug 28, 2026 | [Apply](https://r1rcm.wd1.myworkdayjobs.com/R1RCM/job/Noida-India/Software-Engineer-I_R260000005491) |
+| ReliaQuest | Associate Software Engineer | Software | 0-1 Yr | Pune India Office | Aug 19, 2026 | [Apply](https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers/job/Pune-India-Office/Associate-Software-Engineer_R15032) |
+| AspenTech | Software Quality Engineer I | Software | B.Tech/BS | Noida | Jul 07, 2026 | [Apply](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Noida/Software-Quality-Engineer-I_R9206) |
+| Silicon Laboratories | Engineer I - Software QA | Software | B.Tech/BS | Hyderabad | Feb 17, 2026 | [Apply](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Hyderabad/Engineer-I---Software-QA_20641-1) |
+| Perle | Elite Research Scientist - Frontier AI Evaluation 🆕 | Data & ML/AI | — | India (Remote) | — | [Apply](https://ats.rippling.com/perle/jobs/f14c681e-5431-4677-8faa-a7ab38464863) |
+| Rippling | Software Engineer I 🆕 | Software | — | Bangalore, India | — | [Apply](https://ats.rippling.com/rippling/jobs/472ecc5e-9610-477b-bbb9-8b075c8f5a67) |
+| Mykaarma | Software Developer I | Software | — | NOIDA, India | — | [Apply](https://ats.rippling.com/mykaarma/jobs/854ee9f5-885b-4c76-8e6f-0330a11cdc54) |
 
 ## What this is
 
@@ -48,9 +58,9 @@ This is an engine, not a hand-kept list. It polls company career feeds several t
 
 - **🎓 Fresher-specific detection** — finds roles by what companies actually write: `2026 batch`, `Graduate Engineer Trainee`, `0-1 years`, `no active backlogs`, `CGPA ≥ 7.0`, `PPO`, `TCS NQT` — not just title keywords.
 - **Real posted dates on every role** — pulled from each ATS directly, so newest-first actually means newest.
-- **Skill tags + pay, extracted** — every posting's text is scanned for the stack it wants (Python, Java, C++, SQL, ...) and the CTC / stipend it states — searchable on the [dashboard](https://rohan-droid7341.github.io/job-for-freshers/), included in the CSV and API.
-- **Alerts your way** — [email digests](https://rohan-droid7341.github.io/job-for-freshers/#subscribe), [RSS](https://rohan-droid7341.github.io/job-for-freshers/feed.xml), or Discord — plus a [live dashboard](https://rohan-droid7341.github.io/job-for-freshers/) with search and custom filters.
-
+- **Skill tags + pay, extracted** — every posting's text is scanned for the stack it wants (Python, Java, C++, SQL, ...) and the CTC / stipend it states — searchable on the [dashboard](https://rohan-droid7.github.io/jobs-fresher-india/), included in the CSV and API.
+- **Alerts your way** — [email digests](https://rohan-droid7.github.io/jobs-fresher-india/#subscribe), [RSS](https://rohan-droid7.github.io/jobs-fresher-india/feed.xml), or Discord — plus a [live dashboard](https://rohan-droid7.github.io/jobs-fresher-india/) with search and custom filters.
+- **Covers the full India fresher ecosystem** — Naukri (fresher filter), Unstop (off-campus drives), Internshala, direct ATS (Greenhouse, Workday, Lever…), and custom scrapers for Flipkart, Swiggy, Razorpay, and more.
 - **An engine, not a spreadsheet** — polled every 4 hours across all platforms with full source in this repo.
 
 ## Scope
@@ -62,7 +72,7 @@ This is an engine, not a hand-kept list. It polls company career feeds several t
 
 ## About
 
-
+I built this engine because finding fresher jobs in India is painful — Naukri floods you with spam, LinkedIn shows you senior roles, and off-campus drives close before you even hear about them. This engine watches everything automatically and surfaces only what's relevant for the 2026/2027 batch. Apply early — freshers who apply in the first 48 hours have a significantly higher callback rate.
 
 ## How to use
 
@@ -114,9 +124,31 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Roblox | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Stripe | ~Sep | ~Sep · any day now | ⏳ waiting |
 | D.E. Shaw | ~Oct | ~Oct · any day now | ⏳ waiting |
-| Coinbase | ~Dec | ~Dec | ⏳ waiting |
+| Coinbase | ~Dec | ~Dec · in ~35d | ⏳ waiting |
 
-_42 companies on the [full radar](https://rohan-droid7341.github.io/job-for-freshers/#radar). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_42 companies on the [full radar](https://rohan-droid7.github.io/jobs-fresher-india/#radar). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+
+<details>
+<summary><strong>Recently closed</strong> — 14 roles taken down in the last 14 days</summary>
+
+| Company | Role | Cycle | Closed |
+|---|---|---|---|
+| Amazon | Software Development Engineer -I, IESP Merchant Tech | new_grad | 2026-10-27 |
+| Amazon | SDE-1 (FTC) | new_grad | 2026-10-27 |
+| Amazon | SDE-1, Expansions Tech and Product | new_grad | 2026-10-27 |
+| Amazon | SDE-I, Rewards | new_grad | 2026-10-27 |
+| AiPrise | Software Engineer I (Bangalore, India) | new_grad | 2026-10-27 |
+| Ema | AI/Data Resident | new_grad | 2026-10-27 |
+| Cohere Health | Associate SDET Engineer | new_grad | 2026-10-27 |
+| Cohere Health | Associate Software Engineer | new_grad | 2026-10-27 |
+| Aera Technology | Associate Data Scientist – Modeling, Analytics & Pipelines | new_grad | 2026-10-27 |
+| Cigna Group | Automation Engineer Associate Analyst | new_grad | 2026-10-27 |
+| Priceline | Associate Software Engineer | new_grad | 2026-10-27 |
+| Shell | Associate QA Analyst - Endur | new_grad | 2026-10-27 |
+| Global Payments | Associate SDET Specialist | new_grad | 2026-10-27 |
+| Varex Imaging Corporation | Applications System Engineer | new_grad | 2026-10-27 |
+
+</details>
 
 ---
 
@@ -133,14 +165,13 @@ Fresher job postings per week, from each role's real published date — redrawn 
 
 A Python engine reads public company hiring feeds directly, keeps the roles that match the fresher/new-grad scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions every 4 hours. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,299 companies across 19 ATS platforms · 97% fetch success · completed in 519.8s · median detection latency 677 min · real posted dates on 42% of open roles._
+_Engine (last run): 5,293 companies across 18 ATS platforms · 92% fetch success · completed in 398.7s · median detection latency 1086 min · real posted dates on 90% of open roles._
 
-## Platforms Scraped
+## Platforms Monitored
 
 The engine currently extracts live data from the following platforms:
-
 - **Direct ATS (Applicant Tracking Systems):** Greenhouse, Lever, Ashby, SmartRecruiters, Workable, Workday, Breezy, Recruitee, Rippling, Eightfold, Oracle
-
+- **Direct Enterprise APIs:** Amazon (India Jobs)
 
 ## Contributing
 

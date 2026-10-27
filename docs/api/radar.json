@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-03T17:35:14Z",
+ "generated_at": "2026-10-27T13:03:51Z",
  "cycle": "2026",
- "source": "https://github.com/Rohan-droid7341/job-for-freshers",
+ "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
  "companies": [
   {
    "company": "Amazon",
@@ -12,7 +12,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-07-01",
-   "days_until": -94,
+   "days_until": -118,
    "status": "waiting",
    "url": "",
    "note": "rolling from mid-summer, very early"
@@ -26,7 +26,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -63,
+   "days_until": -87,
    "status": "waiting",
    "url": "",
    "note": "opens ~Aug-Sep"
@@ -40,7 +40,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -63,
+   "days_until": -87,
    "status": "waiting",
    "url": "",
    "note": "Aug-Oct"
@@ -54,7 +54,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -63,
+   "days_until": -87,
    "status": "waiting",
    "url": "",
    "note": "Aug-Oct"
@@ -68,7 +68,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -63,
+   "days_until": -87,
    "status": "waiting",
    "url": "",
    "note": "rolling from Aug"
@@ -82,7 +82,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -63,
+   "days_until": -87,
    "status": "waiting",
    "url": "",
    "note": "opens ~Aug-Sep"
@@ -96,7 +96,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -63,
+   "days_until": -87,
    "status": "waiting",
    "url": "",
    "note": "opens ~Aug, early mover"
@@ -110,7 +110,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -63,
+   "days_until": -87,
    "status": "waiting",
    "url": "",
    "note": "opens ~Aug, very early"
@@ -124,7 +124,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -63,
+   "days_until": -87,
    "status": "waiting",
    "url": "",
    "note": "Aug-Oct main window"
@@ -138,7 +138,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -63,
+   "days_until": -87,
    "status": "waiting",
    "url": "",
    "note": "opens ~Aug, rolling"
@@ -152,7 +152,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -63,
+   "days_until": -87,
    "status": "waiting",
    "url": "",
    "note": "late Aug, rolling into Nov"
@@ -166,7 +166,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -63,
+   "days_until": -87,
    "status": "waiting",
    "url": "",
    "note": "opens ~Aug for next summer"
@@ -180,7 +180,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -63,
+   "days_until": -87,
    "status": "waiting",
    "url": "",
    "note": "opens late summer for next year"
@@ -194,7 +194,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -63,
+   "days_until": -87,
    "status": "waiting",
    "url": "",
    "note": "Futureforce, opens late summer"
@@ -208,7 +208,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -63,
+   "days_until": -87,
    "status": "waiting",
    "url": "",
    "note": "Susquehanna, opens ~Aug"
@@ -222,7 +222,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -63,
+   "days_until": -87,
    "status": "waiting",
    "url": "",
    "note": "opens ~Aug, rolling"
@@ -236,7 +236,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -63,
+   "days_until": -87,
    "status": "waiting",
    "url": "",
    "note": "opens ~Aug-Sep"
@@ -250,7 +250,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-08-01",
-   "days_until": -63,
+   "days_until": -87,
    "status": "waiting",
    "url": "",
    "note": "opens late summer, rolling"
@@ -264,7 +264,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": -32,
+   "days_until": -56,
    "status": "waiting",
    "url": "",
    "note": "Sep-Oct main window"
@@ -278,7 +278,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": -32,
+   "days_until": -56,
    "status": "waiting",
    "url": "",
    "note": "opens ~Sep"
@@ -292,7 +292,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": -32,
+   "days_until": -56,
    "status": "waiting",
    "url": "",
    "note": "opens early fall, rolling review"
@@ -306,7 +306,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": -32,
+   "days_until": -56,
    "status": "waiting",
    "url": "",
    "note": "opens ~Sep"
@@ -320,7 +320,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": -32,
+   "days_until": -56,
    "status": "waiting",
    "url": "",
    "note": "opens fall, closes early Feb"
@@ -334,7 +334,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": -32,
+   "days_until": -56,
    "status": "waiting",
    "url": "",
    "note": "opens fall"
@@ -348,7 +348,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": -32,
+   "days_until": -56,
    "status": "waiting",
    "url": "",
    "note": "Cubist/academy, opens fall"
@@ -362,7 +362,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": -32,
+   "days_until": -56,
    "status": "waiting",
    "url": "",
    "note": "opens fall"
@@ -376,7 +376,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": -32,
+   "days_until": -56,
    "status": "waiting",
    "url": "",
    "note": "opens fall for next summer"
@@ -390,7 +390,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-09-01",
-   "days_until": -32,
+   "days_until": -56,
    "status": "waiting",
    "url": "",
    "note": "early Sept, closes mid-Nov"
@@ -404,7 +404,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-10-01",
-   "days_until": -2,
+   "days_until": -26,
    "status": "waiting",
    "url": "",
    "note": "apply by end of prior year; class set early Q1"
@@ -418,7 +418,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-12-01",
-   "days_until": 59,
+   "days_until": 35,
    "status": "waiting",
    "url": "",
    "note": "Dec-Jan, peak hiring Feb"
@@ -432,7 +432,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-12-01",
-   "days_until": 59,
+   "days_until": 35,
    "status": "waiting",
    "url": "",
    "note": "Dec-Jan early movers"
@@ -446,7 +446,7 @@
    "confidence": "window",
    "source": "known",
    "expected": "2026-12-01",
-   "days_until": 59,
+   "days_until": 35,
    "status": "waiting",
    "url": "",
    "note": "opens ~Dec, deadline late Feb"
