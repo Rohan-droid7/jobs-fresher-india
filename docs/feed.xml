@@ -5,7 +5,15 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-10-27T18:45:51Z</updated>
+  <updated>2026-10-27T21:33:10Z</updated>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Eurofins:744000157805820</id>
+    <title>Eurofins: IT Infrastructure System Engineer - Windows</title>
+    <link href="https://jobs.smartrecruiters.com/Eurofins/744000157805820"/>
+    <updated>2026-10-27T21:33:10Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · Coimbatore, TN, India · Azure, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4047718-1</id>
     <title>GE Healthcare: Graduate Engineer Trainee</title>

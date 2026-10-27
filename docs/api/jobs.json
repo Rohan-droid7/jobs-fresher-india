@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-27T18:45:51Z",
+ "generated_at": "2026-10-27T21:33:10Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 32,
+ "count": 33,
  "jobs": [
   {
    "id": "workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4047718-1",
@@ -18,6 +18,25 @@
    "stipend": null,
    "skills": [],
    "source": "workday"
+  },
+  {
+   "id": "smartrecruiters:Eurofins:744000157805820",
+   "company": "Eurofins",
+   "title": "IT Infrastructure System Engineer - Windows",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Coimbatore, TN, India",
+   "url": "https://jobs.smartrecruiters.com/Eurofins/744000157805820",
+   "posted_at": "2026-10-26T12:53:05.339Z",
+   "first_seen_at": "2026-10-27T21:33:10Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Azure",
+    "Linux"
+   ],
+   "source": "smartrecruiters"
   },
   {
    "id": "greenhouse:point72:8893935002",
