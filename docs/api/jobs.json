@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-10-28T12:48:02Z",
+ "generated_at": "2026-10-28T15:50:08Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 33,
+ "count": 34,
  "jobs": [
+  {
+   "id": "workday:cigna:/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26012292",
+   "company": "Cigna Group",
+   "title": "Machine Learning Associate Analyst - HIH - Evernorth",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "Hyderabad, India",
+   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26012292",
+   "posted_at": "2026-10-28T00:00:00Z",
+   "first_seen_at": "2026-10-28T15:50:08Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Python",
+    "LLMs"
+   ],
+   "source": "workday"
+  },
   {
    "id": "greenhouse:stripe:8130876",
    "company": "Stripe",

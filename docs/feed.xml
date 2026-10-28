@@ -5,7 +5,15 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-10-28T12:48:02Z</updated>
+  <updated>2026-10-28T15:50:08Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:cigna:/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26012292</id>
+    <title>Cigna Group: Machine Learning Associate Analyst - HIH - Evernorth</title>
+    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26012292"/>
+    <updated>2026-10-28T15:50:08Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Data &amp; ML/AI · Hyderabad, India · Python, LLMs</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:stripe:8130876</id>
     <title>Stripe: Software Engineer, New Grad</title>
