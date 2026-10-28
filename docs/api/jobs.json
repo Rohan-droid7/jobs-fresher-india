@@ -1,32 +1,43 @@
 {
- "generated_at": "2026-10-28T06:47:10Z",
+ "generated_at": "2026-10-28T09:48:53Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
  "count": 33,
  "jobs": [
   {
-   "id": "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:37403",
-   "company": "Nokia",
-   "title": "Junior Software Developer",
+   "id": "workday:cigna:/job/Bengaluru-India/QA---Testing-Associate-Analyst---Cigna-Healthcare_26012801",
+   "company": "Cigna Group",
+   "title": "QA & Testing Associate Analyst - Cigna Healthcare",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Other",
+   "location": "Bengaluru, India",
+   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/QA---Testing-Associate-Analyst---Cigna-Healthcare_26012801",
+   "posted_at": "2026-10-28T00:00:00Z",
+   "first_seen_at": "2026-10-28T09:48:53Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [],
+   "source": "workday"
+  },
+  {
+   "id": "greenhouse:stripe:8130876",
+   "company": "Stripe",
+   "title": "Software Engineer, New Grad",
    "season": "new_grad",
    "season_inferred": false,
    "category": "Software",
-   "location": "India",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37403",
-   "posted_at": "2026-10-28",
-   "first_seen_at": "2026-10-28T06:47:10Z",
+   "location": "Bangalore",
+   "url": "https://stripe.com/jobs/search?gh_jid=8130876",
+   "posted_at": "2026-10-28T05:19:59-04:00",
+   "first_seen_at": "2026-10-28T09:48:53Z",
    "salary": null,
    "stipend": null,
    "skills": [
-    "Python",
-    "TypeScript",
+    "Java",
     "JavaScript",
-    "React",
-    "Angular",
-    "Vue",
-    "GCP",
-    "Git"
+    "Scala"
    ],
-   "source": "oracle"
+   "source": "greenhouse"
   },
   {
    "id": "workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4047718-1",
@@ -460,22 +471,6 @@
    "source": "workday"
   },
   {
-   "id": "amazon:amazon:10561468",
-   "company": "Amazon",
-   "title": "SDE-1",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Other",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://www.amazon.jobs/en/jobs/10561468/sde-1",
-   "posted_at": "2026-09-28T00:00:00Z",
-   "first_seen_at": "2026-10-27T13:03:51Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [],
-   "source": "amazon"
-  },
-  {
    "id": "lever:netomi:02b45afd-5a49-41b2-a244-b0ca76306692",
    "company": "Netomi",
    "title": "Data Engineer I",
@@ -607,6 +602,22 @@
    "source": "workday"
   },
   {
+   "id": "rippling:rippling:28e76743-13cf-4e30-94f2-bbaa021a2d9b",
+   "company": "Rippling",
+   "title": "Software Engineer I -Data Infrastructure",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "Bangalore, India",
+   "url": "https://ats.rippling.com/rippling/jobs/28e76743-13cf-4e30-94f2-bbaa021a2d9b",
+   "posted_at": null,
+   "first_seen_at": "2026-10-28T09:48:53Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [],
+   "source": "rippling"
+  },
+  {
    "id": "rippling:rippling:acf82f7d-5595-47c4-8e08-45c9d9a93529",
    "company": "Rippling",
    "title": "Software Engineer I - FullStack",
@@ -631,22 +642,6 @@
    "category": "Data & ML/AI",
    "location": "India (Remote)",
    "url": "https://ats.rippling.com/perle/jobs/f14c681e-5431-4677-8faa-a7ab38464863",
-   "posted_at": null,
-   "first_seen_at": "2026-10-27T13:03:51Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [],
-   "source": "rippling"
-  },
-  {
-   "id": "rippling:rippling:472ecc5e-9610-477b-bbb9-8b075c8f5a67",
-   "company": "Rippling",
-   "title": "Software Engineer I",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bangalore, India",
-   "url": "https://ats.rippling.com/rippling/jobs/472ecc5e-9610-477b-bbb9-8b075c8f5a67",
    "posted_at": null,
    "first_seen_at": "2026-10-27T13:03:51Z",
    "salary": null,

@@ -5,14 +5,30 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-10-28T06:47:10Z</updated>
+  <updated>2026-10-28T09:48:53Z</updated>
   <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:37403</id>
-    <title>Nokia: Junior Software Developer</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37403"/>
-    <updated>2026-10-28T06:47:10Z</updated>
+    <id>urn:intern-engine:workday:cigna:/job/Bengaluru-India/QA---Testing-Associate-Analyst---Cigna-Healthcare_26012801</id>
+    <title>Cigna Group: QA &amp; Testing Associate Analyst - Cigna Healthcare</title>
+    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/QA---Testing-Associate-Analyst---Cigna-Healthcare_26012801"/>
+    <updated>2026-10-28T09:48:53Z</updated>
     <category term="new_grad"/>
-    <summary>new_grad · Software · India · Python, TypeScript, JavaScript, React, Angular</summary>
+    <summary>new_grad · Other · Bengaluru, India</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:stripe:8130876</id>
+    <title>Stripe: Software Engineer, New Grad</title>
+    <link href="https://stripe.com/jobs/search?gh_jid=8130876"/>
+    <updated>2026-10-28T09:48:53Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · Bangalore · Java, JavaScript, Scala</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:rippling:rippling:28e76743-13cf-4e30-94f2-bbaa021a2d9b</id>
+    <title>Rippling: Software Engineer I -Data Infrastructure</title>
+    <link href="https://ats.rippling.com/rippling/jobs/28e76743-13cf-4e30-94f2-bbaa021a2d9b"/>
+    <updated>2026-10-28T09:48:53Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Data &amp; ML/AI · Bangalore, India</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Eurofins:744000157805820</id>
@@ -37,14 +53,6 @@
     <updated>2026-10-27T15:50:48Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · Bangalore, India</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10561468</id>
-    <title>Amazon: SDE-1</title>
-    <link href="https://www.amazon.jobs/en/jobs/10561468/sde-1"/>
-    <updated>2026-10-27T13:03:51Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Other · Hyderabad, Telangana, India</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10580010</id>
@@ -125,14 +133,6 @@
     <updated>2026-10-27T13:03:51Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Data &amp; ML/AI · India (Remote)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:rippling:rippling:472ecc5e-9610-477b-bbb9-8b075c8f5a67</id>
-    <title>Rippling: Software Engineer I</title>
-    <link href="https://ats.rippling.com/rippling/jobs/472ecc5e-9610-477b-bbb9-8b075c8f5a67"/>
-    <updated>2026-10-27T13:03:51Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Bangalore, India</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Eurofins:744000156229723</id>
