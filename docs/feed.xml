@@ -5,7 +5,15 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-10-28T03:44:49Z</updated>
+  <updated>2026-10-28T06:47:10Z</updated>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:37403</id>
+    <title>Nokia: Junior Software Developer</title>
+    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37403"/>
+    <updated>2026-10-28T06:47:10Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · India · Python, TypeScript, JavaScript, React, Angular</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Eurofins:744000157805820</id>
     <title>Eurofins: IT Infrastructure System Engineer - Windows</title>
@@ -61,14 +69,6 @@
     <updated>2026-10-27T13:03:51Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · Hybrid - Bangalore, India · Python, LLMs, Kubernetes, Docker, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:commerceiq:7995557003</id>
-    <title>CommerceIQ: DevOps Engineer I</title>
-    <link href="https://job-boards.greenhouse.io/commerceiq/jobs/7995557003"/>
-    <updated>2026-10-27T13:03:51Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Bengaluru, Karnataka, India · Python, Java, AWS, GCP, Kubernetes</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:point72:8893935002</id>

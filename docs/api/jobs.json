@@ -1,8 +1,33 @@
 {
- "generated_at": "2026-10-28T03:44:49Z",
+ "generated_at": "2026-10-28T06:47:10Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
  "count": 33,
  "jobs": [
+  {
+   "id": "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:37403",
+   "company": "Nokia",
+   "title": "Junior Software Developer",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "India",
+   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37403",
+   "posted_at": "2026-10-28",
+   "first_seen_at": "2026-10-28T06:47:10Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Angular",
+    "Vue",
+    "GCP",
+    "Git"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4047718-1",
    "company": "GE Healthcare",
@@ -490,31 +515,6 @@
    "stipend": null,
    "skills": [],
    "source": "amazon"
-  },
-  {
-   "id": "greenhouse:commerceiq:7995557003",
-   "company": "CommerceIQ",
-   "title": "DevOps Engineer I",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://job-boards.greenhouse.io/commerceiq/jobs/7995557003",
-   "posted_at": "2026-09-15T06:40:06-04:00",
-   "first_seen_at": "2026-10-27T13:03:51Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "Java",
-    "AWS",
-    "GCP",
-    "Kubernetes",
-    "Docker",
-    "Terraform",
-    "Linux"
-   ],
-   "source": "greenhouse"
   },
   {
    "id": "workday:r1rcm:/job/Noida-India/Software-Engineer-I_R260000005491",
