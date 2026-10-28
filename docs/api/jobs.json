@@ -1,24 +1,8 @@
 {
- "generated_at": "2026-10-28T09:48:53Z",
+ "generated_at": "2026-10-28T12:48:02Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
  "count": 33,
  "jobs": [
-  {
-   "id": "workday:cigna:/job/Bengaluru-India/QA---Testing-Associate-Analyst---Cigna-Healthcare_26012801",
-   "company": "Cigna Group",
-   "title": "QA & Testing Associate Analyst - Cigna Healthcare",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Other",
-   "location": "Bengaluru, India",
-   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/QA---Testing-Associate-Analyst---Cigna-Healthcare_26012801",
-   "posted_at": "2026-10-28T00:00:00Z",
-   "first_seen_at": "2026-10-28T09:48:53Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [],
-   "source": "workday"
-  },
   {
    "id": "greenhouse:stripe:8130876",
    "company": "Stripe",
@@ -38,6 +22,22 @@
     "Scala"
    ],
    "source": "greenhouse"
+  },
+  {
+   "id": "workday:cigna:/job/Bengaluru-India/QA---Testing-Associate-Analyst---Cigna-Healthcare_26012801",
+   "company": "Cigna Group",
+   "title": "QA & Testing Associate Analyst - Cigna Healthcare",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Other",
+   "location": "Bengaluru, India",
+   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/QA---Testing-Associate-Analyst---Cigna-Healthcare_26012801",
+   "posted_at": "2026-10-28T00:00:00Z",
+   "first_seen_at": "2026-10-28T09:48:53Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [],
+   "source": "workday"
   },
   {
    "id": "workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4047718-1",

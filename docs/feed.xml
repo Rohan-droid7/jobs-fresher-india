@@ -5,15 +5,7 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-10-28T09:48:53Z</updated>
-  <entry>
-    <id>urn:intern-engine:workday:cigna:/job/Bengaluru-India/QA---Testing-Associate-Analyst---Cigna-Healthcare_26012801</id>
-    <title>Cigna Group: QA &amp; Testing Associate Analyst - Cigna Healthcare</title>
-    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/QA---Testing-Associate-Analyst---Cigna-Healthcare_26012801"/>
-    <updated>2026-10-28T09:48:53Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Other · Bengaluru, India</summary>
-  </entry>
+  <updated>2026-10-28T12:48:02Z</updated>
   <entry>
     <id>urn:intern-engine:greenhouse:stripe:8130876</id>
     <title>Stripe: Software Engineer, New Grad</title>
@@ -29,6 +21,14 @@
     <updated>2026-10-28T09:48:53Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Data &amp; ML/AI · Bangalore, India</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cigna:/job/Bengaluru-India/QA---Testing-Associate-Analyst---Cigna-Healthcare_26012801</id>
+    <title>Cigna Group: QA &amp; Testing Associate Analyst - Cigna Healthcare</title>
+    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/QA---Testing-Associate-Analyst---Cigna-Healthcare_26012801"/>
+    <updated>2026-10-28T09:48:53Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Other · Bengaluru, India</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Eurofins:744000157805820</id>
