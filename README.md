@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks **full-time fresher & new-grad tech jobs** for the **2026 & 2027 batch** across India — so you don't have to. Instead of refreshing Naukri, LinkedIn, and a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**35 open roles · 25 new this week · 5,293 companies tracked · updated Oct 29, 2026 at 15:51 UTC**
+**34 open roles · 24 new this week · 5,293 companies tracked · updated Oct 29, 2026 at 18:46 UTC**
 
 **⭐ Star this repo ⭐** to save it and get notified when new roles land.
 
@@ -13,14 +13,13 @@ A self-updating engine that tracks **full-time fresher & new-grad tech jobs** fo
 **🔔 New roles in your inbox:** [subscribe by email](https://rohan-droid7.github.io/jobs-fresher-india/#subscribe) - one email a day, only when new jobs actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FRohan-droid7%2Fjobs-fresher-india%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## New Grad — Entry Level (All Batches)  (35 open)
+## New Grad — Entry Level (All Batches)  (34 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Cigna Group | Automation Engineer Associate Analyst 🆕 | Software | B.Tech/BS | Bengaluru, India | Oct 29, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812) |
 | Abnormal Security | Software Engineer 1 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Hybrid - Bangalore, India | Oct 29, 2026 | [Apply](https://abnormal.ai/careers/jobs/8016939003?gh_jid=8016939003) |
 | Stripe | Software Engineer, New Grad 🆕 | Software | B.Tech/BS | Bangalore | Oct 28, 2026 | [Apply](https://stripe.com/jobs/search?gh_jid=8130876) |
-| GE Healthcare | Graduate Engineer Trainee 🆕 | Software | B.Tech/BS | Bengaluru | Oct 27, 2026 | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Graduate-Engineer-Trainee_R4047718-1) |
+| GE Healthcare | Graduate Engineer Trainee | Software | B.Tech/BS | Bengaluru | Oct 27, 2026 | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Graduate-Engineer-Trainee_R4047718-1) |
 | UiPath | Software Engineer I | Software | 2+ Yrs<br>B.Tech/BS | Bangalore | Oct 27, 2026 | [Apply](https://jobs.ashbyhq.com/uipath/a6ed0fbe-3505-46ab-9ec5-469d8356f8d8) |
 | Eurofins | IT Infrastructure System Engineer - Windows 🆕 | Software | B.Tech/BS | Coimbatore, TN, India | Oct 26, 2026 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000157805820) |
 | Point72 | 2027 Software Engineer - Campus Graduate Program - IIT Madras | Software | B.Tech/BS | India, Bengaluru | Oct 25, 2026 | [Apply](https://boards.greenhouse.io/point72/jobs/8893935002?gh_jid=8893935002) |
@@ -132,10 +131,11 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _42 companies on the [full radar](https://rohan-droid7.github.io/jobs-fresher-india/#radar). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 23 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 24 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Cigna Group | Automation Engineer Associate Analyst | new_grad | 2026-10-29 |
 | Cigna Group | QA & Testing Associate Analyst - Cigna Healthcare | new_grad | 2026-10-29 |
 | Crowe | Junior Data Engineer | new_grad | 2026-10-29 |
 | Cigna Group | Machine Learning Associate Analyst - HIH - Evernorth | new_grad | 2026-10-28 |
@@ -177,7 +177,7 @@ Fresher job postings per week, from each role's real published date — redrawn 
 
 A Python engine reads public company hiring feeds directly, keeps the roles that match the fresher/new-grad scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions every 4 hours. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,293 companies across 18 ATS platforms · 98% fetch success · completed in 378.4s · median detection latency 957 min · real posted dates on 88% of open roles._
+_Engine (last run): 5,293 companies across 18 ATS platforms · 99% fetch success · completed in 404.1s · median detection latency 957 min · real posted dates on 88% of open roles._
 
 ## Platforms Monitored
 

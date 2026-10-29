@@ -1,28 +1,8 @@
 {
- "generated_at": "2026-10-29T15:51:20Z",
+ "generated_at": "2026-10-29T18:46:50Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 35,
+ "count": 34,
  "jobs": [
-  {
-   "id": "workday:cigna:/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812",
-   "company": "Cigna Group",
-   "title": "Automation Engineer Associate Analyst",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bengaluru, India",
-   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812",
-   "posted_at": "2026-10-29T00:00:00Z",
-   "first_seen_at": "2026-10-29T15:51:20Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "C#",
-    "Azure"
-   ],
-   "source": "workday"
-  },
   {
    "id": "greenhouse:abnormalsecurity:8016939003",
    "company": "Abnormal Security",
