@@ -5,7 +5,15 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-10-29T09:51:42Z</updated>
+  <updated>2026-10-29T12:46:17Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:crowe:/job/Hyderabad-Telangana-India/Junior-Data-Engineer_R-51712-1</id>
+    <title>Crowe: Junior Data Engineer</title>
+    <link href="https://crowe.wd12.myworkdayjobs.com/external_careers/job/Hyderabad-Telangana-India/Junior-Data-Engineer_R-51712-1"/>
+    <updated>2026-10-29T12:46:17Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Data &amp; ML/AI · Hyderabad Telangana India · Python, SQL, Azure, Git, Spark</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:abnormalsecurity:8016939003</id>
     <title>Abnormal Security: Software Engineer 1</title>
