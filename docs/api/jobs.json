@@ -1,8 +1,33 @@
 {
- "generated_at": "2026-10-29T03:46:04Z",
+ "generated_at": "2026-10-29T06:48:43Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 33,
+ "count": 34,
  "jobs": [
+  {
+   "id": "greenhouse:abnormalsecurity:8016939003",
+   "company": "Abnormal Security",
+   "title": "Software Engineer 1",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Hybrid - Bangalore, India",
+   "url": "https://abnormal.ai/careers/jobs/8016939003?gh_jid=8016939003",
+   "posted_at": "2026-10-29T01:14:03-04:00",
+   "first_seen_at": "2026-10-29T06:48:43Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Python",
+    "React",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Kubernetes",
+    "Docker",
+    "Kafka"
+   ],
+   "source": "greenhouse"
+  },
   {
    "id": "greenhouse:stripe:8130876",
    "company": "Stripe",
