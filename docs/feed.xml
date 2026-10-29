@@ -5,14 +5,14 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-10-29T12:46:17Z</updated>
+  <updated>2026-10-29T15:51:20Z</updated>
   <entry>
-    <id>urn:intern-engine:workday:crowe:/job/Hyderabad-Telangana-India/Junior-Data-Engineer_R-51712-1</id>
-    <title>Crowe: Junior Data Engineer</title>
-    <link href="https://crowe.wd12.myworkdayjobs.com/external_careers/job/Hyderabad-Telangana-India/Junior-Data-Engineer_R-51712-1"/>
-    <updated>2026-10-29T12:46:17Z</updated>
+    <id>urn:intern-engine:workday:cigna:/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812</id>
+    <title>Cigna Group: Automation Engineer Associate Analyst</title>
+    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812"/>
+    <updated>2026-10-29T15:51:20Z</updated>
     <category term="new_grad"/>
-    <summary>new_grad · Data &amp; ML/AI · Hyderabad Telangana India · Python, SQL, Azure, Git, Spark</summary>
+    <summary>new_grad · Software · Bengaluru, India · Python, C#, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:abnormalsecurity:8016939003</id>
@@ -37,14 +37,6 @@
     <updated>2026-10-28T09:48:53Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Data &amp; ML/AI · Bangalore, India</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cigna:/job/Bengaluru-India/QA---Testing-Associate-Analyst---Cigna-Healthcare_26012801</id>
-    <title>Cigna Group: QA &amp; Testing Associate Analyst - Cigna Healthcare</title>
-    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/QA---Testing-Associate-Analyst---Cigna-Healthcare_26012801"/>
-    <updated>2026-10-28T09:48:53Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Other · Bengaluru, India</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Eurofins:744000157805820</id>

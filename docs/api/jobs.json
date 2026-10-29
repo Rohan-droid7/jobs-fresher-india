@@ -1,27 +1,25 @@
 {
- "generated_at": "2026-10-29T12:46:17Z",
+ "generated_at": "2026-10-29T15:51:20Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 36,
+ "count": 35,
  "jobs": [
   {
-   "id": "workday:crowe:/job/Hyderabad-Telangana-India/Junior-Data-Engineer_R-51712-1",
-   "company": "Crowe",
-   "title": "Junior Data Engineer",
+   "id": "workday:cigna:/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812",
+   "company": "Cigna Group",
+   "title": "Automation Engineer Associate Analyst",
    "season": "new_grad",
    "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad Telangana India",
-   "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Hyderabad-Telangana-India/Junior-Data-Engineer_R-51712-1",
+   "category": "Software",
+   "location": "Bengaluru, India",
+   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812",
    "posted_at": "2026-10-29T00:00:00Z",
-   "first_seen_at": "2026-10-29T12:46:17Z",
+   "first_seen_at": "2026-10-29T15:51:20Z",
    "salary": null,
    "stipend": null,
    "skills": [
     "Python",
-    "SQL",
-    "Azure",
-    "Git",
-    "Spark"
+    "C#",
+    "Azure"
    ],
    "source": "workday"
   },
@@ -69,22 +67,6 @@
     "Scala"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "workday:cigna:/job/Bengaluru-India/QA---Testing-Associate-Analyst---Cigna-Healthcare_26012801",
-   "company": "Cigna Group",
-   "title": "QA & Testing Associate Analyst - Cigna Healthcare",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Other",
-   "location": "Bengaluru, India",
-   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/QA---Testing-Associate-Analyst---Cigna-Healthcare_26012801",
-   "posted_at": "2026-10-28T00:00:00Z",
-   "first_seen_at": "2026-10-28T09:48:53Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [],
-   "source": "workday"
   },
   {
    "id": "workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4047718-1",
