@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-10-30T00:46:07Z",
+ "generated_at": "2026-10-30T03:46:17Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 34,
+ "count": 35,
  "jobs": [
+  {
+   "id": "smartrecruiters:WesternDigital:744000158660509",
+   "company": "Western Digital",
+   "title": "Developer 1, Programming",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Bengaluru, KA, India",
+   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000158660509",
+   "posted_at": "2026-10-30T03:42:16.578Z",
+   "first_seen_at": "2026-10-30T03:46:17Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Python",
+    "LLMs"
+   ],
+   "source": "smartrecruiters"
+  },
   {
    "id": "greenhouse:abnormalsecurity:8016939003",
    "company": "Abnormal Security",

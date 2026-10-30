@@ -5,7 +5,15 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-10-30T00:46:07Z</updated>
+  <updated>2026-10-30T03:46:17Z</updated>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:WesternDigital:744000158660509</id>
+    <title>Western Digital: Developer 1, Programming</title>
+    <link href="https://jobs.smartrecruiters.com/WesternDigital/744000158660509"/>
+    <updated>2026-10-30T03:46:17Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · Bengaluru, KA, India · Python, LLMs</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:abnormalsecurity:8016939003</id>
     <title>Abnormal Security: Software Engineer 1</title>
