@@ -5,14 +5,14 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-10-30T06:48:30Z</updated>
+  <updated>2026-10-30T09:51:08Z</updated>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:WesternDigital:744000158660509</id>
-    <title>Western Digital: Developer 1, Programming</title>
-    <link href="https://jobs.smartrecruiters.com/WesternDigital/744000158660509"/>
-    <updated>2026-10-30T03:46:17Z</updated>
+    <id>urn:intern-engine:workday:philips:/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732</id>
+    <title>Philips: Apprentice Trainee (Software Developer Level 1)</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732"/>
+    <updated>2026-10-30T09:51:08Z</updated>
     <category term="new_grad"/>
-    <summary>new_grad · Software · Bengaluru, KA, India · Python, LLMs</summary>
+    <summary>new_grad · Software · Bangalore</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:abnormalsecurity:8016939003</id>
@@ -261,14 +261,6 @@
     <updated>2026-10-03T14:05:49Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Data &amp; ML/AI · Bengaluru, Karnataka, India</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ptc:/job/Pune-India/Associate-Software-Analyst_JR112163</id>
-    <title>PTC: Associate Software Analyst</title>
-    <link href="https://ptc.wd1.myworkdayjobs.com/ptc/job/Pune-India/Associate-Software-Analyst_JR112163"/>
-    <updated>2026-10-03T14:05:49Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Pune, India</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:reliaquest:/job/Pune-India-Office/Associate-Software-Engineer_R15032</id>

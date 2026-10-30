@@ -1,26 +1,23 @@
 {
- "generated_at": "2026-10-30T06:48:30Z",
+ "generated_at": "2026-10-30T09:51:08Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 34,
+ "count": 33,
  "jobs": [
   {
-   "id": "smartrecruiters:WesternDigital:744000158660509",
-   "company": "Western Digital",
-   "title": "Developer 1, Programming",
+   "id": "workday:philips:/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732",
+   "company": "Philips",
+   "title": "Apprentice Trainee (Software Developer Level 1)",
    "season": "new_grad",
    "season_inferred": false,
    "category": "Software",
-   "location": "Bengaluru, KA, India",
-   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000158660509",
-   "posted_at": "2026-10-30T03:42:16.578Z",
-   "first_seen_at": "2026-10-30T03:46:17Z",
+   "location": "Bangalore",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732",
+   "posted_at": "2026-10-30T00:00:00Z",
+   "first_seen_at": "2026-10-30T09:51:08Z",
    "salary": null,
    "stipend": null,
-   "skills": [
-    "Python",
-    "LLMs"
-   ],
-   "source": "smartrecruiters"
+   "skills": [],
+   "source": "workday"
   },
   {
    "id": "greenhouse:abnormalsecurity:8016939003",
@@ -501,22 +498,6 @@
    "stipend": null,
    "skills": [],
    "source": "amazon"
-  },
-  {
-   "id": "workday:ptc:/job/Pune-India/Associate-Software-Analyst_JR112163",
-   "company": "PTC",
-   "title": "Associate Software Analyst",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Pune, India",
-   "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Pune-India/Associate-Software-Analyst_JR112163",
-   "posted_at": "2026-09-29T00:00:00Z",
-   "first_seen_at": "2026-10-03T14:05:49Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [],
-   "source": "workday"
   },
   {
    "id": "lever:netomi:02b45afd-5a49-41b2-a244-b0ca76306692",
