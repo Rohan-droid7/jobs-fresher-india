@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T12:48:54Z",
+ "generated_at": "2026-10-30T15:50:36Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
  "count": 33,
  "jobs": [
@@ -83,26 +83,6 @@
     "Scala"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "ashby:uipath:a6ed0fbe-3505-46ab-9ec5-469d8356f8d8",
-   "company": "UiPath",
-   "title": "Software Engineer I",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bangalore",
-   "url": "https://jobs.ashbyhq.com/uipath/a6ed0fbe-3505-46ab-9ec5-469d8356f8d8",
-   "posted_at": "2026-10-27T04:43:34.529+00:00",
-   "first_seen_at": "2026-10-27T13:03:51Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "TypeScript",
-    "JavaScript"
-   ],
-   "source": "ashby"
   },
   {
    "id": "smartrecruiters:Eurofins:744000157805820",
@@ -645,6 +625,22 @@
    "url": "https://ats.rippling.com/rippling/jobs/28e76743-13cf-4e30-94f2-bbaa021a2d9b",
    "posted_at": null,
    "first_seen_at": "2026-10-28T09:48:53Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [],
+   "source": "rippling"
+  },
+  {
+   "id": "rippling:rippling:acf82f7d-5595-47c4-8e08-45c9d9a93529",
+   "company": "Rippling",
+   "title": "Software Engineer I - FullStack",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Bangalore, India",
+   "url": "https://ats.rippling.com/rippling/jobs/acf82f7d-5595-47c4-8e08-45c9d9a93529",
+   "posted_at": null,
+   "first_seen_at": "2026-10-27T15:50:48Z",
    "salary": null,
    "stipend": null,
    "skills": [],
