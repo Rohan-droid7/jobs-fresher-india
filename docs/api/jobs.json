@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-30T03:46:17Z",
+ "generated_at": "2026-10-30T06:48:30Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 35,
+ "count": 34,
  "jobs": [
   {
    "id": "smartrecruiters:WesternDigital:744000158660509",
@@ -660,22 +660,6 @@
    "url": "https://ats.rippling.com/rippling/jobs/28e76743-13cf-4e30-94f2-bbaa021a2d9b",
    "posted_at": null,
    "first_seen_at": "2026-10-28T09:48:53Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [],
-   "source": "rippling"
-  },
-  {
-   "id": "rippling:rippling:acf82f7d-5595-47c4-8e08-45c9d9a93529",
-   "company": "Rippling",
-   "title": "Software Engineer I - FullStack",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bangalore, India",
-   "url": "https://ats.rippling.com/rippling/jobs/acf82f7d-5595-47c4-8e08-45c9d9a93529",
-   "posted_at": null,
-   "first_seen_at": "2026-10-27T15:50:48Z",
    "salary": null,
    "stipend": null,
    "skills": [],
