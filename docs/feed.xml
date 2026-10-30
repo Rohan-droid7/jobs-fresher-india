@@ -5,14 +5,22 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-10-30T09:51:08Z</updated>
+  <updated>2026-10-30T12:48:54Z</updated>
   <entry>
-    <id>urn:intern-engine:workday:philips:/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732</id>
-    <title>Philips: Apprentice Trainee (Software Developer Level 1)</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732"/>
-    <updated>2026-10-30T09:51:08Z</updated>
+    <id>urn:intern-engine:workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4048338</id>
+    <title>GE Healthcare: Graduate Engineer Trainee</title>
+    <link href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Graduate-Engineer-Trainee_R4048338"/>
+    <updated>2026-10-30T12:48:54Z</updated>
     <category term="new_grad"/>
-    <summary>new_grad · Software · Bangalore</summary>
+    <summary>new_grad · Software · Bengaluru</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cigna:/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812</id>
+    <title>Cigna Group: Automation Engineer Associate Analyst</title>
+    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812"/>
+    <updated>2026-10-29T15:51:20Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · Bengaluru, India · Python, C#, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:abnormalsecurity:8016939003</id>
@@ -45,14 +53,6 @@
     <updated>2026-10-27T21:33:10Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · Coimbatore, TN, India · Azure, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4047718-1</id>
-    <title>GE Healthcare: Graduate Engineer Trainee</title>
-    <link href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Graduate-Engineer-Trainee_R4047718-1"/>
-    <updated>2026-10-27T18:45:51Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Bengaluru</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10580010</id>

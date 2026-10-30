@@ -1,22 +1,42 @@
 {
- "generated_at": "2026-10-30T09:51:08Z",
+ "generated_at": "2026-10-30T12:48:54Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
  "count": 33,
  "jobs": [
   {
-   "id": "workday:philips:/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732",
-   "company": "Philips",
-   "title": "Apprentice Trainee (Software Developer Level 1)",
+   "id": "workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4048338",
+   "company": "GE Healthcare",
+   "title": "Graduate Engineer Trainee",
    "season": "new_grad",
    "season_inferred": false,
    "category": "Software",
-   "location": "Bangalore",
-   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732",
+   "location": "Bengaluru",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Graduate-Engineer-Trainee_R4048338",
    "posted_at": "2026-10-30T00:00:00Z",
-   "first_seen_at": "2026-10-30T09:51:08Z",
+   "first_seen_at": "2026-10-30T12:48:54Z",
    "salary": null,
    "stipend": null,
    "skills": [],
+   "source": "workday"
+  },
+  {
+   "id": "workday:cigna:/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812",
+   "company": "Cigna Group",
+   "title": "Automation Engineer Associate Analyst",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Bengaluru, India",
+   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812",
+   "posted_at": "2026-10-29T00:00:00Z",
+   "first_seen_at": "2026-10-29T15:51:20Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Python",
+    "C#",
+    "Azure"
+   ],
    "source": "workday"
   },
   {
@@ -63,22 +83,6 @@
     "Scala"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4047718-1",
-   "company": "GE Healthcare",
-   "title": "Graduate Engineer Trainee",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bengaluru",
-   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Graduate-Engineer-Trainee_R4047718-1",
-   "posted_at": "2026-10-27T00:00:00Z",
-   "first_seen_at": "2026-10-27T18:45:51Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [],
-   "source": "workday"
   },
   {
    "id": "ashby:uipath:a6ed0fbe-3505-46ab-9ec5-469d8356f8d8",
