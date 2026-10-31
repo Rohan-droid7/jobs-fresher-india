@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-31T09:37:01Z",
+ "generated_at": "2026-10-31T12:44:40Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 33,
+ "count": 34,
  "jobs": [
   {
    "id": "workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4048338",
@@ -83,6 +83,26 @@
     "Scala"
    ],
    "source": "greenhouse"
+  },
+  {
+   "id": "ashby:uipath:a6ed0fbe-3505-46ab-9ec5-469d8356f8d8",
+   "company": "UiPath",
+   "title": "Software Engineer I",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Bangalore",
+   "url": "https://jobs.ashbyhq.com/uipath/a6ed0fbe-3505-46ab-9ec5-469d8356f8d8",
+   "posted_at": "2026-10-27T04:43:34.529+00:00",
+   "first_seen_at": "2026-10-27T13:03:51Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Python",
+    "TypeScript",
+    "JavaScript"
+   ],
+   "source": "ashby"
   },
   {
    "id": "smartrecruiters:Eurofins:744000157805820",
