@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks **full-time fresher & new-grad tech jobs** for the **2026 & 2027 batch** across India — so you don't have to. Instead of refreshing Naukri, LinkedIn, and a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**33 open roles · 24 new this week · 5,293 companies tracked · updated Oct 31, 2026 at 06:43 UTC**
+**33 open roles · 24 new this week · 5,293 companies tracked · updated Oct 31, 2026 at 09:37 UTC**
 
 **⭐ Star this repo ⭐** to save it and get notified when new roles land.
 
@@ -19,7 +19,7 @@ A self-updating engine that tracks **full-time fresher & new-grad tech jobs** fo
 |---|---|---|---|---|---|---|
 | GE Healthcare | Graduate Engineer Trainee 🆕 | Software | B.Tech/BS | Bengaluru | Oct 30, 2026 | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Graduate-Engineer-Trainee_R4048338) |
 | Cigna Group | Automation Engineer Associate Analyst 🆕 | Software | B.Tech/BS | Bengaluru, India | Oct 29, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812) |
-| Abnormal Security | Software Engineer 1 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Hybrid - Bangalore, India | Oct 29, 2026 | [Apply](https://abnormal.ai/careers/jobs/8016939003?gh_jid=8016939003) |
+| Abnormal Security | Software Engineer 1 | Software | 2+ Yrs<br>B.Tech/BS | Hybrid - Bangalore, India | Oct 29, 2026 | [Apply](https://abnormal.ai/careers/jobs/8016939003?gh_jid=8016939003) |
 | Stripe | Software Engineer, New Grad | Software | B.Tech/BS | Bangalore | Oct 28, 2026 | [Apply](https://stripe.com/jobs/search?gh_jid=8130876) |
 | Eurofins | IT Infrastructure System Engineer - Windows | Software | B.Tech/BS | Coimbatore, TN, India | Oct 26, 2026 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000157805820) |
 | Point72 | 2027 Software Engineer - Campus Graduate Program - IIT Madras | Software | B.Tech/BS | India, Bengaluru | Oct 25, 2026 | [Apply](https://boards.greenhouse.io/point72/jobs/8893935002?gh_jid=8893935002) |
@@ -180,7 +180,7 @@ Fresher job postings per week, from each role's real published date — redrawn 
 
 A Python engine reads public company hiring feeds directly, keeps the roles that match the fresher/new-grad scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions every 4 hours. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,293 companies across 18 ATS platforms · 73% fetch success · completed in 206.2s · median detection latency 951 min · real posted dates on 87% of open roles._
+_Engine (last run): 5,293 companies across 18 ATS platforms · 98% fetch success · completed in 345.3s · median detection latency 951 min · real posted dates on 87% of open roles._
 
 ## Platforms Monitored
 
