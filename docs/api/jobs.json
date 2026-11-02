@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-11-02T03:52:22Z",
+ "generated_at": "2026-11-02T07:15:31Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
  "count": 34,
  "jobs": [
+  {
+   "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004048",
+   "company": "TriNet",
+   "title": "Associate Data Scientist",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004048",
+   "posted_at": "2026-11-02",
+   "first_seen_at": "2026-11-02T07:15:31Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Python",
+    "LLMs"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4048338",
    "company": "GE Healthcare",
@@ -435,25 +454,6 @@
    "stipend": null,
    "skills": [],
    "source": "amazon"
-  },
-  {
-   "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004076",
-   "company": "TriNet",
-   "title": "Associate Data Scientist",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004076",
-   "posted_at": "2026-10-14",
-   "first_seen_at": "2026-10-27T13:03:51Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "LLMs"
-   ],
-   "source": "oracle"
   },
   {
    "id": "smartrecruiters:Wabtec:3743990015987115",
