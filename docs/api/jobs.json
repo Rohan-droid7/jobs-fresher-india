@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-11-02T07:15:31Z",
+ "generated_at": "2026-11-02T09:59:05Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 34,
+ "count": 29,
  "jobs": [
+  {
+   "id": "greenhouse:solarwinds:4743100005",
+   "company": "SolarWinds",
+   "title": "Associate Software Engineer",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Bangalore, India",
+   "url": "https://jobs.solarwinds.com/job-detail/?gh_jid=4743100005&gh_jid=4743100005",
+   "posted_at": "2026-11-02T04:14:13-05:00",
+   "first_seen_at": "2026-11-02T09:59:05Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Java",
+    "JavaScript",
+    "SQL",
+    "Angular"
+   ],
+   "source": "greenhouse"
+  },
   {
    "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004048",
    "company": "TriNet",
@@ -104,26 +125,6 @@
    "source": "greenhouse"
   },
   {
-   "id": "ashby:uipath:a6ed0fbe-3505-46ab-9ec5-469d8356f8d8",
-   "company": "UiPath",
-   "title": "Software Engineer I",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bangalore",
-   "url": "https://jobs.ashbyhq.com/uipath/a6ed0fbe-3505-46ab-9ec5-469d8356f8d8",
-   "posted_at": "2026-10-27T04:43:34.529+00:00",
-   "first_seen_at": "2026-10-27T13:03:51Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "TypeScript",
-    "JavaScript"
-   ],
-   "source": "ashby"
-  },
-  {
    "id": "smartrecruiters:Eurofins:744000157805820",
    "company": "Eurofins",
    "title": "IT Infrastructure System Engineer - Windows",
@@ -141,106 +142,6 @@
     "Linux"
    ],
    "source": "smartrecruiters"
-  },
-  {
-   "id": "greenhouse:point72:8893935002",
-   "company": "Point72",
-   "title": "2027 Software Engineer - Campus Graduate Program - IIT Madras",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "India, Bengaluru",
-   "url": "https://boards.greenhouse.io/point72/jobs/8893935002?gh_jid=8893935002",
-   "posted_at": "2026-10-25T08:11:24-04:00",
-   "first_seen_at": "2026-10-27T13:03:51Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "LLMs",
-    "React",
-    "Node.js",
-    "AWS",
-    "Kubernetes"
-   ],
-   "source": "greenhouse"
-  },
-  {
-   "id": "greenhouse:point72:8893936002",
-   "company": "Point72",
-   "title": "2027 Software Engineer - Campus Graduate Program - IIT Hyderabad",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "India, Bengaluru",
-   "url": "https://boards.greenhouse.io/point72/jobs/8893936002?gh_jid=8893936002",
-   "posted_at": "2026-10-25T08:10:31-04:00",
-   "first_seen_at": "2026-10-27T13:03:51Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "LLMs",
-    "React",
-    "Node.js",
-    "AWS",
-    "Kubernetes"
-   ],
-   "source": "greenhouse"
-  },
-  {
-   "id": "greenhouse:point72:8893939002",
-   "company": "Point72",
-   "title": "2027 Software Engineer - Campus Graduate Program - IIT Kanpur",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "India, Bengaluru",
-   "url": "https://boards.greenhouse.io/point72/jobs/8893939002?gh_jid=8893939002",
-   "posted_at": "2026-10-25T08:11:02-04:00",
-   "first_seen_at": "2026-10-27T13:03:51Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "LLMs",
-    "React",
-    "Node.js",
-    "AWS",
-    "Kubernetes"
-   ],
-   "source": "greenhouse"
-  },
-  {
-   "id": "greenhouse:point72:8893940002",
-   "company": "Point72",
-   "title": "2027 Software Engineer - Campus Graduate Program - IIT BHU",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "India, Bengaluru",
-   "url": "https://boards.greenhouse.io/point72/jobs/8893940002?gh_jid=8893940002",
-   "posted_at": "2026-10-25T08:09:50-04:00",
-   "first_seen_at": "2026-10-27T13:03:51Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "LLMs",
-    "React",
-    "Node.js",
-    "AWS",
-    "Kubernetes"
-   ],
-   "source": "greenhouse"
   },
   {
    "id": "workday:cmegroup:/job/Bangalore---Bagmane-Tridib/Site-Reliability-Engineer-I----India_34762",
@@ -633,22 +534,6 @@
     "Python"
    ],
    "source": "workday"
-  },
-  {
-   "id": "rippling:rippling:28e76743-13cf-4e30-94f2-bbaa021a2d9b",
-   "company": "Rippling",
-   "title": "Software Engineer I -Data Infrastructure",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Bangalore, India",
-   "url": "https://ats.rippling.com/rippling/jobs/28e76743-13cf-4e30-94f2-bbaa021a2d9b",
-   "posted_at": null,
-   "first_seen_at": "2026-10-28T09:48:53Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [],
-   "source": "rippling"
   },
   {
    "id": "rippling:rippling:acf82f7d-5595-47c4-8e08-45c9d9a93529",
