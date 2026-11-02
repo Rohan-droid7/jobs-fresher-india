@@ -5,7 +5,7 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-02T09:59:05Z</updated>
+  <updated>2026-11-02T13:00:58Z</updated>
   <entry>
     <id>urn:intern-engine:greenhouse:solarwinds:4743100005</id>
     <title>SolarWinds: Associate Software Engineer</title>
@@ -37,14 +37,6 @@
     <updated>2026-10-29T15:51:20Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · Bengaluru, India · Python, C#, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:abnormalsecurity:8016939003</id>
-    <title>Abnormal Security: Software Engineer 1</title>
-    <link href="https://abnormal.ai/careers/jobs/8016939003?gh_jid=8016939003"/>
-    <updated>2026-10-29T06:48:43Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Hybrid - Bangalore, India · Python, React, AWS, GCP, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:stripe:8130876</id>
@@ -93,6 +85,14 @@
     <updated>2026-10-27T13:03:51Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · Hybrid - Bangalore, India · Python, LLMs, Kubernetes, Docker, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:point72:8893940002</id>
+    <title>Point72: 2027 Software Engineer - Campus Graduate Program - IIT BHU</title>
+    <link href="https://boards.greenhouse.io/point72/jobs/8893940002?gh_jid=8893940002"/>
+    <updated>2026-10-27T13:03:51Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · India, Bengaluru · Python, Java, C++, LLMs, React</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004251</id>

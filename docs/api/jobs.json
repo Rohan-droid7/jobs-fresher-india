@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T09:59:05Z",
+ "generated_at": "2026-11-02T13:00:58Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
  "count": 29,
  "jobs": [
@@ -80,31 +80,6 @@
    "source": "workday"
   },
   {
-   "id": "greenhouse:abnormalsecurity:8016939003",
-   "company": "Abnormal Security",
-   "title": "Software Engineer 1",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Hybrid - Bangalore, India",
-   "url": "https://abnormal.ai/careers/jobs/8016939003?gh_jid=8016939003",
-   "posted_at": "2026-10-29T01:14:03-04:00",
-   "first_seen_at": "2026-10-29T06:48:43Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "React",
-    "AWS",
-    "GCP",
-    "Azure",
-    "Kubernetes",
-    "Docker",
-    "Kafka"
-   ],
-   "source": "greenhouse"
-  },
-  {
    "id": "greenhouse:stripe:8130876",
    "company": "Stripe",
    "title": "Software Engineer, New Grad",
@@ -142,6 +117,31 @@
     "Linux"
    ],
    "source": "smartrecruiters"
+  },
+  {
+   "id": "greenhouse:point72:8893940002",
+   "company": "Point72",
+   "title": "2027 Software Engineer - Campus Graduate Program - IIT BHU",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "India, Bengaluru",
+   "url": "https://boards.greenhouse.io/point72/jobs/8893940002?gh_jid=8893940002",
+   "posted_at": "2026-10-25T08:09:50-04:00",
+   "first_seen_at": "2026-10-27T13:03:51Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++",
+    "LLMs",
+    "React",
+    "Node.js",
+    "AWS",
+    "Kubernetes"
+   ],
+   "source": "greenhouse"
   },
   {
    "id": "workday:cmegroup:/job/Bangalore---Bagmane-Tridib/Site-Reliability-Engineer-I----India_34762",
