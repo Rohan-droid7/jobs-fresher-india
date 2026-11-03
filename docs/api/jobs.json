@@ -1,8 +1,24 @@
 {
- "generated_at": "2026-11-03T03:51:06Z",
+ "generated_at": "2026-11-03T07:02:29Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 30,
+ "count": 32,
  "jobs": [
+  {
+   "id": "workday:lnw:/job/Pune-India/Associate-QA-Engineer_R322953",
+   "company": "Light & Wonder",
+   "title": "Associate QA Engineer",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Pune, India",
+   "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Pune-India/Associate-QA-Engineer_R322953",
+   "posted_at": "2026-11-03T00:00:00Z",
+   "first_seen_at": "2026-11-03T07:02:29Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [],
+   "source": "workday"
+  },
   {
    "id": "greenhouse:solarwinds:4743100005",
    "company": "SolarWinds",
@@ -117,6 +133,31 @@
     "Linux"
    ],
    "source": "smartrecruiters"
+  },
+  {
+   "id": "greenhouse:point72:8893939002",
+   "company": "Point72",
+   "title": "2027 Software Engineer - Campus Graduate Program - IIT Kanpur",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "India, Bengaluru",
+   "url": "https://boards.greenhouse.io/point72/jobs/8893939002?gh_jid=8893939002",
+   "posted_at": "2026-10-25T08:11:02-04:00",
+   "first_seen_at": "2026-10-27T13:03:51Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++",
+    "LLMs",
+    "React",
+    "Node.js",
+    "AWS",
+    "Kubernetes"
+   ],
+   "source": "greenhouse"
   },
   {
    "id": "greenhouse:point72:8893940002",
@@ -305,26 +346,6 @@
    "source": "smartrecruiters"
   },
   {
-   "id": "workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5880",
-   "company": "Priceline",
-   "title": "Associate Software Engineer",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Mumbai",
-   "url": "https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5880",
-   "posted_at": "2026-10-19T00:00:00Z",
-   "first_seen_at": "2026-10-27T13:03:51Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Java",
-    "SQL",
-    "Spring"
-   ],
-   "source": "workday"
-  },
-  {
    "id": "amazon:amazon:10580010",
    "company": "Amazon",
    "title": "Software Development Engineer I FTC",
@@ -355,6 +376,29 @@
    "stipend": null,
    "skills": [],
    "source": "amazon"
+  },
+  {
+   "id": "workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5712",
+   "company": "Priceline",
+   "title": "Associate Software Engineer",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Mumbai",
+   "url": "https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5712",
+   "posted_at": "2026-10-09T00:00:00Z",
+   "first_seen_at": "2026-11-03T07:02:29Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Python",
+    "Java",
+    "Kotlin",
+    "LLMs",
+    "React",
+    "Angular"
+   ],
+   "source": "workday"
   },
   {
    "id": "smartrecruiters:Wabtec:3743990015987115",

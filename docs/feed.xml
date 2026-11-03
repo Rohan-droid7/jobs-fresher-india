@@ -5,7 +5,23 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-03T03:51:06Z</updated>
+  <updated>2026-11-03T07:02:29Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:lnw:/job/Pune-India/Associate-QA-Engineer_R322953</id>
+    <title>Light &amp; Wonder: Associate QA Engineer</title>
+    <link href="https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Pune-India/Associate-QA-Engineer_R322953"/>
+    <updated>2026-11-03T07:02:29Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · Pune, India</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5712</id>
+    <title>Priceline: Associate Software Engineer</title>
+    <link href="https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5712"/>
+    <updated>2026-11-03T07:02:29Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · Mumbai · Python, Java, Kotlin, LLMs, React</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:rippling:rippling:277b7caf-3092-44a7-9e8c-45769e5a3ea5</id>
     <title>Rippling: Software Engineer-1</title>
@@ -95,6 +111,14 @@
     <summary>new_grad · Software · Hybrid - Bangalore, India · Python, LLMs, Kubernetes, Docker, Git</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:point72:8893939002</id>
+    <title>Point72: 2027 Software Engineer - Campus Graduate Program - IIT Kanpur</title>
+    <link href="https://boards.greenhouse.io/point72/jobs/8893939002?gh_jid=8893939002"/>
+    <updated>2026-10-27T13:03:51Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · India, Bengaluru · Python, Java, C++, LLMs, React</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:greenhouse:point72:8893940002</id>
     <title>Point72: 2027 Software Engineer - Campus Graduate Program - IIT BHU</title>
     <link href="https://boards.greenhouse.io/point72/jobs/8893940002?gh_jid=8893940002"/>
@@ -149,14 +173,6 @@
     <updated>2026-10-27T13:03:51Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Other · Navi Mumbai (IND) · Java, JavaScript, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5880</id>
-    <title>Priceline: Associate Software Engineer</title>
-    <link href="https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5880"/>
-    <updated>2026-10-27T13:03:51Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Mumbai · Java, SQL, Spring</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:thehartford:/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341</id>
