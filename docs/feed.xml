@@ -5,7 +5,15 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-03T12:58:37Z</updated>
+  <updated>2026-11-03T15:48:39Z</updated>
+  <entry>
+    <id>urn:intern-engine:lever:dnb:6b932d16-6d58-4716-8be4-d7c9f3cdce8c</id>
+    <title>Dun &amp; Bradstreet: Data Engineer I (R-20055)</title>
+    <link href="https://jobs.lever.co/dnb/6b932d16-6d58-4716-8be4-d7c9f3cdce8c"/>
+    <updated>2026-11-03T15:48:39Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Data &amp; ML/AI · Hyderabad - India · Python, SQL, AWS, Azure</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:boeing:/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1</id>
     <title>The Boeing Company: Associate Software Engineer - Analytics</title>
@@ -63,14 +71,6 @@
     <summary>new_grad · Software · Bengaluru</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:philips:/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732</id>
-    <title>Philips: Apprentice Trainee (Software Developer Level 1)</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732"/>
-    <updated>2026-10-30T09:51:08Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Bangalore</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:cigna:/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812</id>
     <title>Cigna Group: Automation Engineer Associate Analyst</title>
     <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812"/>
@@ -117,14 +117,6 @@
     <updated>2026-10-27T13:03:51Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · Hyderabad, Telangana, India</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:uipath:a6ed0fbe-3505-46ab-9ec5-469d8356f8d8</id>
-    <title>UiPath: Software Engineer I</title>
-    <link href="https://jobs.ashbyhq.com/uipath/a6ed0fbe-3505-46ab-9ec5-469d8356f8d8"/>
-    <updated>2026-10-27T13:03:51Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Bangalore · Python, TypeScript, JavaScript</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:abnormalsecurity:8016870003</id>
