@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks **full-time fresher & new-grad tech jobs** for the **2026 & 2027 batch** across India — so you don't have to. Instead of refreshing Naukri, LinkedIn, and a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**33 open roles · 12 new this week · 5,293 companies tracked · updated Nov 03, 2026 at 15:48 UTC**
+**33 open roles · 11 new this week · 5,293 companies tracked · updated Nov 03, 2026 at 18:46 UTC**
 
 **⭐ Star this repo ⭐** to save it and get notified when new roles land.
 
@@ -32,10 +32,10 @@ A self-updating engine that tracks **full-time fresher & new-grad tech jobs** fo
 | TriNet | Associate Data Analyst | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Hyderabad, Telangana, India | Oct 22, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004251) |
 | Wex | Software Development Engineer 1 | Software | B.Tech/BS | India - Bangalore | Oct 22, 2026 | [Apply](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Software-Development-Engineer-1_R22746) |
 | Abnormal Security | Software Engineer 1 - Platform & Infrastructure | Software | 2+ Yrs<br>B.Tech/BS | Hybrid - Bangalore, India | Oct 20, 2026 | [Apply](https://abnormal.ai/careers/jobs/8016870003?gh_jid=8016870003) |
-| Dun & Bradstreet | Data Engineer I (R-20055) 🆕 | Data & ML/AI | B.Tech/BS | Hyderabad - India | Oct 19, 2026 | [Apply](https://jobs.lever.co/dnb/6b932d16-6d58-4716-8be4-d7c9f3cdce8c) |
 | Eurofins | IT Infrastructure System Engineer - Linux | Software | B.Tech/BS | Bengaluru, KA, India | Oct 19, 2026 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000156229723) |
 | Amazon | Software Development Engineer I FTC | Software | B.Tech/BS | Hyderabad, Telangana, India | Oct 15, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10580010/software-development-engineer-i-ftc) |
 | Amazon | Software Development Engineer I | Software | B.Tech/BS | Hyderabad, Telangana, India | Oct 15, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10580014/software-development-engineer-i) |
+| Coupa Software | Associate Security Engineer - 11925 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Pune, India | Oct 09, 2026 | [Apply](https://jobs.lever.co/coupa/15c1666e-c0df-49b5-8296-8c664166413a) |
 | Priceline | Associate Software Engineer 🆕 | Software | B.Tech/BS | Mumbai | Oct 09, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5712) |
 | Wabtec | System Engineer ( Doors) | Software | B.Tech/BS | Bengaluru, India | Oct 08, 2026 | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990015987115) |
 | Amazon | Software Development Engineer, Prime Video Live Events - Sports Data Platform | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Bengaluru, Karnataka, India | Sep 30, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10565511/software-development-engineer-prime-video-live-events-sports-data-platform) |
@@ -130,10 +130,11 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _42 companies on the [full radar](https://rohan-droid7.github.io/jobs-fresher-india/#radar). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 35 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 36 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Dun & Bradstreet | Data Engineer I (R-20055) | new_grad | 2026-11-03 |
 | UiPath | Software Engineer I | new_grad | 2026-11-03 |
 | Philips | Apprentice Trainee (Software Developer Level 1) | new_grad | 2026-11-03 |
 | Point72 | 2027 Software Engineer - Campus Graduate Program - IIT Kanpur | new_grad | 2026-11-03 |
@@ -187,7 +188,7 @@ Fresher job postings per week, from each role's real published date — redrawn 
 
 A Python engine reads public company hiring feeds directly, keeps the roles that match the fresher/new-grad scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions every 4 hours. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,293 companies across 18 ATS platforms · 99% fetch success · completed in 330.4s · median detection latency 931 min · real posted dates on 87% of open roles._
+_Engine (last run): 5,293 companies across 18 ATS platforms · 100% fetch success · completed in 313.2s · median detection latency 931 min · real posted dates on 87% of open roles._
 
 ## Platforms Monitored
 

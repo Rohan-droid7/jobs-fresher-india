@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T15:48:39Z",
+ "generated_at": "2026-11-03T18:46:47Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
  "count": 33,
  "jobs": [
@@ -316,27 +316,6 @@
    "source": "greenhouse"
   },
   {
-   "id": "lever:dnb:6b932d16-6d58-4716-8be4-d7c9f3cdce8c",
-   "company": "Dun & Bradstreet",
-   "title": "Data Engineer I (R-20055)",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad - India",
-   "url": "https://jobs.lever.co/dnb/6b932d16-6d58-4716-8be4-d7c9f3cdce8c",
-   "posted_at": "2026-10-19T04:24:44Z",
-   "first_seen_at": "2026-11-03T15:48:39Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "AWS",
-    "Azure"
-   ],
-   "source": "lever"
-  },
-  {
    "id": "smartrecruiters:Eurofins:744000156229723",
    "company": "Eurofins",
    "title": "IT Infrastructure System Engineer - Linux",
@@ -391,6 +370,29 @@
    "stipend": null,
    "skills": [],
    "source": "amazon"
+  },
+  {
+   "id": "lever:coupa:15c1666e-c0df-49b5-8296-8c664166413a",
+   "company": "Coupa Software",
+   "title": "Associate Security Engineer - 11925",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Pune, India",
+   "url": "https://jobs.lever.co/coupa/15c1666e-c0df-49b5-8296-8c664166413a",
+   "posted_at": "2026-10-09T22:38:29Z",
+   "first_seen_at": "2026-11-03T18:46:47Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Python",
+    "JavaScript",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Kubernetes"
+   ],
+   "source": "lever"
   },
   {
    "id": "workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5712",
