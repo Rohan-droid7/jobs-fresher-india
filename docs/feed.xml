@@ -5,7 +5,15 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-03T09:56:49Z</updated>
+  <updated>2026-11-03T12:58:37Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:boeing:/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1</id>
+    <title>The Boeing Company: Associate Software Engineer - Analytics</title>
+    <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1"/>
+    <updated>2026-11-03T12:58:37Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Data &amp; ML/AI · IND - Bangalore, India · Python, MATLAB</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:lnw:/job/Pune-India/Associate-QA-Engineer_R322953</id>
     <title>Light &amp; Wonder: Associate QA Engineer</title>
@@ -127,17 +135,9 @@
     <summary>new_grad · Software · Hybrid - Bangalore, India · Python, LLMs, Kubernetes, Docker, Git</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:point72:8893939002</id>
-    <title>Point72: 2027 Software Engineer - Campus Graduate Program - IIT Kanpur</title>
-    <link href="https://boards.greenhouse.io/point72/jobs/8893939002?gh_jid=8893939002"/>
-    <updated>2026-10-27T13:03:51Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · India, Bengaluru · Python, Java, C++, LLMs, React</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:point72:8893940002</id>
-    <title>Point72: 2027 Software Engineer - Campus Graduate Program - IIT BHU</title>
-    <link href="https://boards.greenhouse.io/point72/jobs/8893940002?gh_jid=8893940002"/>
+    <id>urn:intern-engine:greenhouse:point72:8893936002</id>
+    <title>Point72: 2027 Software Engineer - Campus Graduate Program - IIT Hyderabad</title>
+    <link href="https://boards.greenhouse.io/point72/jobs/8893936002?gh_jid=8893936002"/>
     <updated>2026-10-27T13:03:51Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · India, Bengaluru · Python, Java, C++, LLMs, React</summary>

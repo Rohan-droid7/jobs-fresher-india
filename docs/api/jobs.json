@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-11-03T09:56:49Z",
+ "generated_at": "2026-11-03T12:58:37Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
  "count": 34,
  "jobs": [
+  {
+   "id": "workday:boeing:/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1",
+   "company": "The Boeing Company",
+   "title": "Associate Software Engineer - Analytics",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "IND - Bangalore, India",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1",
+   "posted_at": "2026-11-03T00:00:00Z",
+   "first_seen_at": "2026-11-03T12:58:37Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Python",
+    "MATLAB"
+   ],
+   "source": "workday"
+  },
   {
    "id": "workday:lnw:/job/Pune-India/Associate-QA-Engineer_R322953",
    "company": "Light & Wonder",
@@ -171,40 +190,15 @@
    "source": "smartrecruiters"
   },
   {
-   "id": "greenhouse:point72:8893939002",
+   "id": "greenhouse:point72:8893936002",
    "company": "Point72",
-   "title": "2027 Software Engineer - Campus Graduate Program - IIT Kanpur",
+   "title": "2027 Software Engineer - Campus Graduate Program - IIT Hyderabad",
    "season": "new_grad",
    "season_inferred": false,
    "category": "Software",
    "location": "India, Bengaluru",
-   "url": "https://boards.greenhouse.io/point72/jobs/8893939002?gh_jid=8893939002",
-   "posted_at": "2026-10-25T08:11:02-04:00",
-   "first_seen_at": "2026-10-27T13:03:51Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "LLMs",
-    "React",
-    "Node.js",
-    "AWS",
-    "Kubernetes"
-   ],
-   "source": "greenhouse"
-  },
-  {
-   "id": "greenhouse:point72:8893940002",
-   "company": "Point72",
-   "title": "2027 Software Engineer - Campus Graduate Program - IIT BHU",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "India, Bengaluru",
-   "url": "https://boards.greenhouse.io/point72/jobs/8893940002?gh_jid=8893940002",
-   "posted_at": "2026-10-25T08:09:50-04:00",
+   "url": "https://boards.greenhouse.io/point72/jobs/8893936002?gh_jid=8893936002",
+   "posted_at": "2026-10-25T08:10:31-04:00",
    "first_seen_at": "2026-10-27T13:03:51Z",
    "salary": null,
    "stipend": null,
