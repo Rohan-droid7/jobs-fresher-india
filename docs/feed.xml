@@ -5,7 +5,7 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-04T07:04:23Z</updated>
+  <updated>2026-11-04T10:00:44Z</updated>
   <entry>
     <id>urn:intern-engine:lever:coupa:15c1666e-c0df-49b5-8296-8c664166413a</id>
     <title>Coupa Software: Associate Security Engineer - 11925</title>
@@ -181,14 +181,6 @@
     <updated>2026-10-27T13:03:51Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · India GCC-Puppalaguda Village · Python, C#, Rust, LLMs, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/India---Bangalore/Software-Development-Engineer-1_R22746</id>
-    <title>Wex: Software Development Engineer 1</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Software-Development-Engineer-1_R22746"/>
-    <updated>2026-10-27T13:03:51Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · India - Bangalore · Python, Java, TypeScript, JavaScript, Angular</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10551515</id>

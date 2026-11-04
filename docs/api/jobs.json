@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-04T07:04:23Z",
+ "generated_at": "2026-11-04T10:00:44Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 32,
+ "count": 31,
  "jobs": [
   {
    "id": "workday:boeing:/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1",
@@ -245,31 +245,6 @@
     "GCP",
     "Azure",
     "Linux"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:wexinc:/job/India---Bangalore/Software-Development-Engineer-1_R22746",
-   "company": "Wex",
-   "title": "Software Development Engineer 1",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "India - Bangalore",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Software-Development-Engineer-1_R22746",
-   "posted_at": "2026-10-22T00:00:00Z",
-   "first_seen_at": "2026-10-27T13:03:51Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "Java",
-    "TypeScript",
-    "JavaScript",
-    "Angular",
-    "Spring",
-    "Docker",
-    "Git"
    ],
    "source": "workday"
   },
