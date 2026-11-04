@@ -1,8 +1,28 @@
 {
- "generated_at": "2026-11-04T10:00:44Z",
+ "generated_at": "2026-11-04T12:59:51Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
  "count": 31,
  "jobs": [
+  {
+   "id": "workday:cigna:/job/Bengaluru-India/Automation-Engineer-Associate-Analysts---Cigna-Healthcare_26013237",
+   "company": "Cigna Group",
+   "title": "Automation Engineer Associate Analyst - Cigna Healthcare",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Bengaluru, India",
+   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Automation-Engineer-Associate-Analysts---Cigna-Healthcare_26013237",
+   "posted_at": "2026-11-04T00:00:00Z",
+   "first_seen_at": "2026-11-04T12:59:50Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Python",
+    "C#",
+    "Azure"
+   ],
+   "source": "workday"
+  },
   {
    "id": "workday:boeing:/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1",
    "company": "The Boeing Company",
@@ -152,31 +172,6 @@
     "Linux"
    ],
    "source": "smartrecruiters"
-  },
-  {
-   "id": "greenhouse:point72:8893936002",
-   "company": "Point72",
-   "title": "2027 Software Engineer - Campus Graduate Program - IIT Hyderabad",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "India, Bengaluru",
-   "url": "https://boards.greenhouse.io/point72/jobs/8893936002?gh_jid=8893936002",
-   "posted_at": "2026-10-25T08:10:31-04:00",
-   "first_seen_at": "2026-10-27T13:03:51Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "LLMs",
-    "React",
-    "Node.js",
-    "AWS",
-    "Kubernetes"
-   ],
-   "source": "greenhouse"
   },
   {
    "id": "workday:cmegroup:/job/Bangalore---Bagmane-Tridib/Site-Reliability-Engineer-I----India_34762",
