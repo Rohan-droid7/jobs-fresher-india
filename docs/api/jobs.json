@@ -1,8 +1,31 @@
 {
- "generated_at": "2026-11-05T01:00:36Z",
+ "generated_at": "2026-11-05T03:57:03Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 31,
+ "count": 32,
  "jobs": [
+  {
+   "id": "workday:illumina:/job/India---Bengaluru---Manyata/Data-Engineer-1_43788-JOB",
+   "company": "Illumina",
+   "title": "Data Engineer 1",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "India - Bengaluru - Manyata",
+   "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/India---Bengaluru---Manyata/Data-Engineer-1_43788-JOB",
+   "posted_at": "2026-11-05T00:00:00Z",
+   "first_seen_at": "2026-11-05T03:57:02Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Git"
+   ],
+   "source": "workday"
+  },
   {
    "id": "workday:cigna:/job/Bengaluru-India/Automation-Engineer-Associate-Analysts---Cigna-Healthcare_26013237",
    "company": "Cigna Group",
