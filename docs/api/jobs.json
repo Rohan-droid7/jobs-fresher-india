@@ -1,8 +1,28 @@
 {
- "generated_at": "2026-11-05T10:00:01Z",
+ "generated_at": "2026-11-05T13:01:51Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 32,
+ "count": 33,
  "jobs": [
+  {
+   "id": "workday:cigna:/job/India-Work-at-Home/Automation-Engineer-Associate-Analyst---Cigna-Healthcare_26013380",
+   "company": "Cigna Group",
+   "title": "Automation Engineer Associate Analyst - Cigna Healthcare",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "India Work at Home",
+   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/India-Work-at-Home/Automation-Engineer-Associate-Analyst---Cigna-Healthcare_26013380",
+   "posted_at": "2026-11-05T00:00:00Z",
+   "first_seen_at": "2026-11-05T13:01:51Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Python",
+    "Java",
+    "SQL"
+   ],
+   "source": "workday"
+  },
   {
    "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004321",
    "company": "TriNet",
@@ -22,26 +42,6 @@
     "Tableau"
    ],
    "source": "oracle"
-  },
-  {
-   "id": "workday:cigna:/job/Bengaluru-India/Automation-Engineer-Associate-Analysts---Cigna-Healthcare_26013237",
-   "company": "Cigna Group",
-   "title": "Automation Engineer Associate Analyst - Cigna Healthcare",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bengaluru, India",
-   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Automation-Engineer-Associate-Analysts---Cigna-Healthcare_26013237",
-   "posted_at": "2026-11-04T00:00:00Z",
-   "first_seen_at": "2026-11-04T12:59:50Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "C#",
-    "Azure"
-   ],
-   "source": "workday"
   },
   {
    "id": "workday:boeing:/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1",
@@ -173,6 +173,26 @@
     "Scala"
    ],
    "source": "greenhouse"
+  },
+  {
+   "id": "ashby:uipath:a6ed0fbe-3505-46ab-9ec5-469d8356f8d8",
+   "company": "UiPath",
+   "title": "Software Engineer I",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Bangalore",
+   "url": "https://jobs.ashbyhq.com/uipath/a6ed0fbe-3505-46ab-9ec5-469d8356f8d8",
+   "posted_at": "2026-10-27T04:43:34.529+00:00",
+   "first_seen_at": "2026-10-27T13:03:51Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Python",
+    "TypeScript",
+    "JavaScript"
+   ],
+   "source": "ashby"
   },
   {
    "id": "smartrecruiters:Eurofins:744000157805820",
