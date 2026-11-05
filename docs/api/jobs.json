@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-05T16:01:20Z",
+ "generated_at": "2026-11-05T18:53:38Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 33,
+ "count": 32,
  "jobs": [
   {
    "id": "workday:cigna:/job/India-Work-at-Home/Automation-Engineer-Associate-Analyst---Cigna-Healthcare_26013380",
@@ -235,26 +235,6 @@
     "Kubernetes",
     "Docker",
     "Linux"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:dow:/job/Navi-Mumbai-IND/Information-Technology-Analyst_R2068912",
-   "company": "Dow Chemical Company",
-   "title": "Information Technology Analyst",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Other",
-   "location": "Navi Mumbai (IND)",
-   "url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Information-Technology-Analyst_R2068912",
-   "posted_at": "2026-10-23T00:00:00Z",
-   "first_seen_at": "2026-10-27T13:03:51Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Java",
-    "JavaScript",
-    "SQL"
    ],
    "source": "workday"
   },

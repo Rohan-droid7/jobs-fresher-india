@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks **full-time fresher & new-grad tech jobs** for the **2026 & 2027 batch** across India — so you don't have to. Instead of refreshing Naukri, LinkedIn, and a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**33 open roles · 10 new this week · 5,293 companies tracked · updated Nov 05, 2026 at 16:01 UTC**
+**32 open roles · 10 new this week · 5,293 companies tracked · updated Nov 05, 2026 at 18:53 UTC**
 
 **⭐ Star this repo ⭐** to save it and get notified when new roles land.
 
@@ -13,7 +13,7 @@ A self-updating engine that tracks **full-time fresher & new-grad tech jobs** fo
 **🔔 New roles in your inbox:** [subscribe by email](https://rohan-droid7.github.io/jobs-fresher-india/#subscribe) - one email a day, only when new jobs actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FRohan-droid7%2Fjobs-fresher-india%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## New Grad — Entry Level (All Batches)  (33 open)
+## New Grad — Entry Level (All Batches)  (32 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -29,13 +29,12 @@ A self-updating engine that tracks **full-time fresher & new-grad tech jobs** fo
 | UiPath | Software Engineer I | Software | 2+ Yrs<br>B.Tech/BS | Bangalore | Oct 27, 2026 | [Apply](https://jobs.ashbyhq.com/uipath/a6ed0fbe-3505-46ab-9ec5-469d8356f8d8) |
 | Eurofins | IT Infrastructure System Engineer - Windows | Software | B.Tech/BS | Coimbatore, TN, India | Oct 26, 2026 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000157805820) |
 | CME Group | Site Reliability Engineer I -  India | Software | B.Tech/BS | Bangalore - Bagmane Tridib | Oct 23, 2026 | [Apply](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Site-Reliability-Engineer-I----India_34762) |
-| Dow Chemical Company | Information Technology Analyst | Other | B.Tech/BS | Navi Mumbai (IND) | Oct 23, 2026 | [Apply](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Information-Technology-Analyst_R2068912) |
 | The Hartford | IND Associate Software Engineer -  Red Team Engineer | Software | B.Tech/BS | India GCC-Puppalaguda Village | Oct 23, 2026 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341) |
 | Abnormal Security | Software Engineer 1 - Platform & Infrastructure | Software | 2+ Yrs<br>B.Tech/BS | Hybrid - Bangalore, India | Oct 20, 2026 | [Apply](https://abnormal.ai/careers/jobs/8016870003?gh_jid=8016870003) |
 | Eurofins | IT Infrastructure System Engineer - Linux | Software | B.Tech/BS | Bengaluru, KA, India | Oct 19, 2026 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000156229723) |
 | Amazon | Software Development Engineer I FTC | Software | B.Tech/BS | Hyderabad, Telangana, India | Oct 15, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10580010/software-development-engineer-i-ftc) |
 | Amazon | Software Development Engineer I | Software | B.Tech/BS | Hyderabad, Telangana, India | Oct 15, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10580014/software-development-engineer-i) |
-| Coupa Software | Associate Security Engineer - 11925 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Pune, India | Oct 09, 2026 | [Apply](https://jobs.lever.co/coupa/15c1666e-c0df-49b5-8296-8c664166413a) |
+| Coupa Software | Associate Security Engineer - 11925 | Software | 2+ Yrs<br>B.Tech/BS | Pune, India | Oct 09, 2026 | [Apply](https://jobs.lever.co/coupa/15c1666e-c0df-49b5-8296-8c664166413a) |
 | Priceline | Associate Software Engineer | Software | B.Tech/BS | Mumbai | Oct 09, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5712) |
 | Wabtec | System Engineer ( Doors) | Software | B.Tech/BS | Bengaluru, India | Oct 08, 2026 | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990015987115) |
 | Amazon | Software Development Engineer, Prime Video Live Events - Sports Data Platform | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Bengaluru, Karnataka, India | Sep 30, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10565511/software-development-engineer-prime-video-live-events-sports-data-platform) |
@@ -134,6 +133,7 @@ _42 companies on the [full radar](https://rohan-droid7.github.io/jobs-fresher-in
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Dow Chemical Company | Information Technology Analyst | new_grad | 2026-11-05 |
 | Cigna Group | Automation Engineer Associate Analyst - Cigna Healthcare | new_grad | 2026-11-05 |
 | New Relic | Software Engineer 1 | new_grad | 2026-11-05 |
 | Illumina | Data Engineer 1 | new_grad | 2026-11-05 |
@@ -173,7 +173,6 @@ _42 companies on the [full radar](https://rohan-droid7.github.io/jobs-fresher-in
 | Aera Technology | Associate Data Scientist – Modeling, Analytics & Pipelines | new_grad | 2026-10-27 |
 | Cigna Group | Automation Engineer Associate Analyst | new_grad | 2026-10-27 |
 | Priceline | Associate Software Engineer | new_grad | 2026-10-27 |
-| Shell | Associate QA Analyst - Endur | new_grad | 2026-10-27 |
 
 </details>
 
@@ -192,7 +191,7 @@ Fresher job postings per week, from each role's real published date — redrawn 
 
 A Python engine reads public company hiring feeds directly, keeps the roles that match the fresher/new-grad scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions every 4 hours. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,293 companies across 18 ATS platforms · 98% fetch success · completed in 530.2s · median detection latency 855 min · real posted dates on 87% of open roles._
+_Engine (last run): 5,293 companies across 18 ATS platforms · 93% fetch success · completed in 470.3s · median detection latency 855 min · real posted dates on 87% of open roles._
 
 ## Platforms Monitored
 
