@@ -1,32 +1,8 @@
 {
- "generated_at": "2026-11-04T21:48:38Z",
+ "generated_at": "2026-11-05T01:00:36Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 32,
+ "count": 31,
  "jobs": [
-  {
-   "id": "workday:jll:/job/Bengaluru-KA/Data-Engineer-1_REQ544992",
-   "company": "Jones Lang LaSalle (JLL)",
-   "title": "Data Engineer 1",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, KA",
-   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Data-Engineer-1_REQ544992",
-   "posted_at": "2026-11-04T00:00:00Z",
-   "first_seen_at": "2026-11-04T15:54:21Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "Azure",
-    "Linux",
-    "Spark",
-    "Kafka",
-    "MongoDB"
-   ],
-   "source": "workday"
-  },
   {
    "id": "workday:cigna:/job/Bengaluru-India/Automation-Engineer-Associate-Analysts---Cigna-Healthcare_26013237",
    "company": "Cigna Group",
