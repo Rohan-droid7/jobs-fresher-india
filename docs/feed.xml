@@ -5,22 +5,14 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-05T07:10:10Z</updated>
+  <updated>2026-11-05T10:00:01Z</updated>
   <entry>
-    <id>urn:intern-engine:greenhouse:newrelic:5417516008</id>
-    <title>New Relic: Software Engineer 1</title>
-    <link href="https://job-boards.greenhouse.io/newrelic/jobs/5417516008"/>
-    <updated>2026-11-05T07:10:10Z</updated>
+    <id>urn:intern-engine:oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004321</id>
+    <title>TriNet: Associate Data Analyst</title>
+    <link href="https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004321"/>
+    <updated>2026-11-05T10:00:01Z</updated>
     <category term="new_grad"/>
-    <summary>new_grad · Software · Hyderabad, India · Java, TypeScript, React, Node.js, GraphQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:illumina:/job/India---Bengaluru---Manyata/Data-Engineer-1_43788-JOB</id>
-    <title>Illumina: Data Engineer 1</title>
-    <link href="https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/India---Bengaluru---Manyata/Data-Engineer-1_43788-JOB"/>
-    <updated>2026-11-05T03:57:02Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Data &amp; ML/AI · India - Bengaluru - Manyata · Python, SQL, AWS, GCP, Azure</summary>
+    <summary>new_grad · Data &amp; ML/AI · Hyderabad, Telangana, India · Python, SQL, Tableau</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cigna:/job/Bengaluru-India/Automation-Engineer-Associate-Analysts---Cigna-Healthcare_26013237</id>
