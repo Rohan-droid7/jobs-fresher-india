@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-05T18:53:38Z",
+ "generated_at": "2026-11-05T21:47:24Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 32,
+ "count": 31,
  "jobs": [
   {
    "id": "workday:cigna:/job/India-Work-at-Home/Automation-Engineer-Associate-Analyst---Cigna-Healthcare_26013380",
@@ -117,22 +117,6 @@
     "LLMs"
    ],
    "source": "oracle"
-  },
-  {
-   "id": "workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4048338",
-   "company": "GE Healthcare",
-   "title": "Graduate Engineer Trainee",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bengaluru",
-   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Graduate-Engineer-Trainee_R4048338",
-   "posted_at": "2026-10-30T00:00:00Z",
-   "first_seen_at": "2026-10-30T12:48:54Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [],
-   "source": "workday"
   },
   {
    "id": "workday:cigna:/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812",
