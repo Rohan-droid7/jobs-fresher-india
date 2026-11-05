@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-05T03:57:03Z",
+ "generated_at": "2026-11-05T07:10:10Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 32,
+ "count": 33,
  "jobs": [
   {
    "id": "workday:illumina:/job/India---Bengaluru---Manyata/Data-Engineer-1_43788-JOB",
@@ -25,6 +25,31 @@
     "Git"
    ],
    "source": "workday"
+  },
+  {
+   "id": "greenhouse:newrelic:5417516008",
+   "company": "New Relic",
+   "title": "Software Engineer 1",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Hyderabad, India",
+   "url": "https://job-boards.greenhouse.io/newrelic/jobs/5417516008",
+   "posted_at": "2026-11-04T23:41:43-05:00",
+   "first_seen_at": "2026-11-05T07:10:10Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Java",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "GraphQL",
+    "AWS",
+    "GCP",
+    "Azure"
+   ],
+   "source": "greenhouse"
   },
   {
    "id": "workday:cigna:/job/Bengaluru-India/Automation-Engineer-Associate-Analysts---Cigna-Healthcare_26013237",
