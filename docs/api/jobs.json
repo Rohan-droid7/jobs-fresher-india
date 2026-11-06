@@ -1,8 +1,24 @@
 {
- "generated_at": "2026-11-06T07:08:34Z",
+ "generated_at": "2026-11-06T10:01:51Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 31,
+ "count": 32,
  "jobs": [
+  {
+   "id": "greenhouse:newrelic:5467941008",
+   "company": "New Relic",
+   "title": "Software Engineer 1",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Hyderabad, India",
+   "url": "https://job-boards.greenhouse.io/newrelic/jobs/5467941008",
+   "posted_at": "2026-11-05T11:05:23-05:00",
+   "first_seen_at": "2026-11-06T10:01:51Z",
+   "salary": null,
+   "stipend": null,
+   "skills": null,
+   "source": "greenhouse"
+  },
   {
    "id": "workday:cigna:/job/India-Work-at-Home/Automation-Engineer-Associate-Analyst---Cigna-Healthcare_26013380",
    "company": "Cigna Group",

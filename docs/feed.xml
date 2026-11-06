@@ -5,7 +5,15 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-06T07:08:34Z</updated>
+  <updated>2026-11-06T10:01:51Z</updated>
+  <entry>
+    <id>urn:intern-engine:greenhouse:newrelic:5467941008</id>
+    <title>New Relic: Software Engineer 1</title>
+    <link href="https://job-boards.greenhouse.io/newrelic/jobs/5467941008"/>
+    <updated>2026-11-06T10:01:51Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · Hyderabad, India</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:cigna:/job/India-Work-at-Home/Automation-Engineer-Associate-Analyst---Cigna-Healthcare_26013380</id>
     <title>Cigna Group: Automation Engineer Associate Analyst - Cigna Healthcare</title>
