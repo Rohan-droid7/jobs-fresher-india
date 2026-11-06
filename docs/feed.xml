@@ -5,7 +5,15 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-06T12:58:17Z</updated>
+  <updated>2026-11-06T15:48:19Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4048826-1</id>
+    <title>GE Healthcare: Graduate Engineer Trainee</title>
+    <link href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Graduate-Engineer-Trainee_R4048826-1"/>
+    <updated>2026-11-06T15:48:19Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · Bengaluru</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:arcticwolf:/job/Bengaluru-IND/Developer-1_R26_1210</id>
     <title>Arctic Wolf: Developer 1</title>
@@ -21,14 +29,6 @@
     <updated>2026-11-06T12:58:17Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Data &amp; ML/AI · Bengaluru India · GCP</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:sophos:d196359a-0eb8-4991-93c3-6a92da22b919</id>
-    <title>Sophos: Software Engineer 1 (Java Developer)</title>
-    <link href="https://jobs.lever.co/sophos/d196359a-0eb8-4991-93c3-6a92da22b919"/>
-    <updated>2026-11-06T12:58:17Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · India · Java, Spring, AWS, Kubernetes, Docker</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:zebra:/job/Bengaluru-India/Software-Engineer--1_JR103559</id>
