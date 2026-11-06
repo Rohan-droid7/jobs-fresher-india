@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks **full-time fresher & new-grad tech jobs** for the **2026 & 2027 batch** across India — so you don't have to. Instead of refreshing Naukri, LinkedIn, and a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**32 open roles · 10 new this week · 5,293 companies tracked · updated Nov 06, 2026 at 10:01 UTC**
+**34 open roles · 13 new this week · 5,293 companies tracked · updated Nov 06, 2026 at 12:58 UTC**
 
 **⭐ Star this repo ⭐** to save it and get notified when new roles land.
 
@@ -13,11 +13,14 @@ A self-updating engine that tracks **full-time fresher & new-grad tech jobs** fo
 **🔔 New roles in your inbox:** [subscribe by email](https://rohan-droid7.github.io/jobs-fresher-india/#subscribe) - one email a day, only when new jobs actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FRohan-droid7%2Fjobs-fresher-india%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## New Grad — Entry Level (All Batches)  (32 open)
+## New Grad — Entry Level (All Batches)  (34 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| New Relic | Software Engineer 1 🆕 | Software | — | Hyderabad, India | Nov 05, 2026 | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5467941008) |
+| Arctic Wolf | Developer 1 🆕 | Software | B.Tech/BS | Bengaluru, IND | Nov 06, 2026 | [Apply](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Developer-1_R26_1210) |
+| LabCorp | Associate Data Analyst 🆕 | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Bengaluru India | Nov 06, 2026 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Bengaluru-India/Associate-Data-Analyst_2639837-1) |
+| Sophos | Software Engineer 1 (Java Developer) 🆕 | Software | 1-2 Yrs<br>B.Tech/BS | India | Nov 06, 2026 | [Apply](https://jobs.lever.co/sophos/d196359a-0eb8-4991-93c3-6a92da22b919) |
+| Zebra Technologies | Software Engineer -1 🆕 | Software | B.Tech/BS | Bengaluru, India | Nov 06, 2026 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Software-Engineer--1_JR103559) |
 | Cigna Group | Automation Engineer Associate Analyst - Cigna Healthcare 🆕 | Software | B.Tech/BS | India Work at Home | Nov 05, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/India-Work-at-Home/Automation-Engineer-Associate-Analyst---Cigna-Healthcare_26013380) |
 | TriNet | Associate Data Analyst 🆕 | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Hyderabad, Telangana, India | Nov 05, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004321) |
 | The Boeing Company | Associate Software Engineer - Analytics | Data & ML/AI | B.Tech/BS | IND - Bangalore, India | Nov 03, 2026 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1) |
@@ -26,7 +29,6 @@ A self-updating engine that tracks **full-time fresher & new-grad tech jobs** fo
 | TriNet | Associate Data Scientist | Data & ML/AI | B.Tech/BS | Hyderabad, Telangana, India | Nov 02, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004048) |
 | Cigna Group | Automation Engineer Associate Analyst | Software | B.Tech/BS | Bengaluru, India | Oct 29, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812) |
 | Stripe | Software Engineer, New Grad | Software | B.Tech/BS | Bangalore | Oct 28, 2026 | [Apply](https://stripe.com/jobs/search?gh_jid=8130876) |
-| UiPath | Software Engineer I | Software | 2+ Yrs<br>B.Tech/BS | Bangalore | Oct 27, 2026 | [Apply](https://jobs.ashbyhq.com/uipath/a6ed0fbe-3505-46ab-9ec5-469d8356f8d8) |
 | Eurofins | IT Infrastructure System Engineer - Windows | Software | B.Tech/BS | Coimbatore, TN, India | Oct 26, 2026 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000157805820) |
 | CME Group | Site Reliability Engineer I -  India | Software | B.Tech/BS | Bangalore - Bagmane Tridib | Oct 23, 2026 | [Apply](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Site-Reliability-Engineer-I----India_34762) |
 | The Hartford | IND Associate Software Engineer -  Red Team Engineer | Software | B.Tech/BS | India GCC-Puppalaguda Village | Oct 23, 2026 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341) |
@@ -133,6 +135,8 @@ _42 companies on the [full radar](https://rohan-droid7.github.io/jobs-fresher-in
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| UiPath | Software Engineer I | new_grad | 2026-11-06 |
+| New Relic | Software Engineer 1 | new_grad | 2026-11-06 |
 | GE Healthcare | Graduate Engineer Trainee | new_grad | 2026-11-05 |
 | Dow Chemical Company | Information Technology Analyst | new_grad | 2026-11-05 |
 | Cigna Group | Automation Engineer Associate Analyst - Cigna Healthcare | new_grad | 2026-11-05 |
@@ -171,8 +175,6 @@ _42 companies on the [full radar](https://rohan-droid7.github.io/jobs-fresher-in
 | Ema | AI/Data Resident | new_grad | 2026-10-27 |
 | Cohere Health | Associate SDET Engineer | new_grad | 2026-10-27 |
 | Cohere Health | Associate Software Engineer | new_grad | 2026-10-27 |
-| Aera Technology | Associate Data Scientist – Modeling, Analytics & Pipelines | new_grad | 2026-10-27 |
-| Cigna Group | Automation Engineer Associate Analyst | new_grad | 2026-10-27 |
 
 </details>
 
@@ -191,7 +193,7 @@ Fresher job postings per week, from each role's real published date — redrawn 
 
 A Python engine reads public company hiring feeds directly, keeps the roles that match the fresher/new-grad scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions every 4 hours. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,293 companies across 18 ATS platforms · 98% fetch success · completed in 406.1s · median detection latency 855 min · real posted dates on 87% of open roles._
+_Engine (last run): 5,293 companies across 18 ATS platforms · 98% fetch success · completed in 370.0s · median detection latency 779 min · real posted dates on 88% of open roles._
 
 ## Platforms Monitored
 
