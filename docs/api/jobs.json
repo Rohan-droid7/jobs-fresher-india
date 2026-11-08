@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-08T15:33:32Z",
+ "generated_at": "2026-11-08T18:41:01Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 34,
+ "count": 33,
  "jobs": [
   {
    "id": "workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4048826-1",
@@ -56,25 +56,6 @@
    "stipend": null,
    "skills": [
     "GCP"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:zebra:/job/Bengaluru-India/Software-Engineer--1_JR103559",
-   "company": "Zebra Technologies",
-   "title": "Software Engineer -1",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bengaluru, India",
-   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Software-Engineer--1_JR103559",
-   "posted_at": "2026-11-06T00:00:00Z",
-   "first_seen_at": "2026-11-06T12:58:17Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Java",
-    "Kotlin"
    ],
    "source": "workday"
   },
