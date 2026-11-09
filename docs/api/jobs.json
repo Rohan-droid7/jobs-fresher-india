@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-09T07:19:58Z",
+ "generated_at": "2026-11-09T10:03:10Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 33,
+ "count": 32,
  "jobs": [
   {
    "id": "workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4048826-1",
@@ -17,28 +17,6 @@
    "salary": null,
    "stipend": null,
    "skills": [],
-   "source": "workday"
-  },
-  {
-   "id": "workday:arcticwolf:/job/Bengaluru-IND/Developer-1_R26_1210",
-   "company": "Arctic Wolf",
-   "title": "Developer 1",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bengaluru, IND",
-   "url": "https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Developer-1_R26_1210",
-   "posted_at": "2026-11-06T00:00:00Z",
-   "first_seen_at": "2026-11-06T12:58:17Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "Go",
-    "LLMs",
-    "AWS",
-    "Kubernetes"
-   ],
    "source": "workday"
   },
   {
