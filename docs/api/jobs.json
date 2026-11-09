@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-09T10:03:10Z",
+ "generated_at": "2026-11-09T13:03:45Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 32,
+ "count": 29,
  "jobs": [
   {
    "id": "workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4048826-1",
@@ -34,26 +34,6 @@
    "stipend": null,
    "skills": [
     "GCP"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:cigna:/job/India-Work-at-Home/Automation-Engineer-Associate-Analyst---Cigna-Healthcare_26013380",
-   "company": "Cigna Group",
-   "title": "Automation Engineer Associate Analyst - Cigna Healthcare",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "India Work at Home",
-   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/India-Work-at-Home/Automation-Engineer-Associate-Analyst---Cigna-Healthcare_26013380",
-   "posted_at": "2026-11-05T00:00:00Z",
-   "first_seen_at": "2026-11-05T13:01:51Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "Java",
-    "SQL"
    ],
    "source": "workday"
   },
@@ -151,26 +131,6 @@
     "LLMs"
    ],
    "source": "oracle"
-  },
-  {
-   "id": "workday:cigna:/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812",
-   "company": "Cigna Group",
-   "title": "Automation Engineer Associate Analyst",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bengaluru, India",
-   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812",
-   "posted_at": "2026-10-29T00:00:00Z",
-   "first_seen_at": "2026-10-29T15:51:20Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "C#",
-    "Azure"
-   ],
-   "source": "workday"
   },
   {
    "id": "greenhouse:stripe:8130876",
@@ -575,22 +535,6 @@
    "url": "https://ats.rippling.com/rippling/jobs/277b7caf-3092-44a7-9e8c-45769e5a3ea5",
    "posted_at": null,
    "first_seen_at": "2026-11-02T16:00:54Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [],
-   "source": "rippling"
-  },
-  {
-   "id": "rippling:rippling:acf82f7d-5595-47c4-8e08-45c9d9a93529",
-   "company": "Rippling",
-   "title": "Software Engineer I - FullStack",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bangalore, India",
-   "url": "https://ats.rippling.com/rippling/jobs/acf82f7d-5595-47c4-8e08-45c9d9a93529",
-   "posted_at": null,
-   "first_seen_at": "2026-10-27T15:50:48Z",
    "salary": null,
    "stipend": null,
    "skills": [],
