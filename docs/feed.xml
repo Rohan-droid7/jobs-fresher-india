@@ -5,7 +5,7 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-09T16:00:54Z</updated>
+  <updated>2026-11-09T18:53:49Z</updated>
   <entry>
     <id>urn:intern-engine:workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4048826-1</id>
     <title>GE Healthcare: Graduate Engineer Trainee</title>
@@ -13,14 +13,6 @@
     <updated>2026-11-06T15:48:19Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · Bengaluru</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:labcorp:/job/Bengaluru-India/Associate-Data-Analyst_2639837-1</id>
-    <title>LabCorp: Associate Data Analyst</title>
-    <link href="https://labcorp.wd1.myworkdayjobs.com/external/job/Bengaluru-India/Associate-Data-Analyst_2639837-1"/>
-    <updated>2026-11-06T12:58:17Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Data &amp; ML/AI · Bengaluru India · GCP</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cigna:/job/India-Work-at-Home/Automation-Engineer-Associate-Analyst---Cigna-Healthcare_26013380</id>
