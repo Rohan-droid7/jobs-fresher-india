@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks **full-time fresher & new-grad tech jobs** for the **2026 & 2027 batch** across India — so you don't have to. Instead of refreshing Naukri, LinkedIn, and a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**32 open roles · 6 new this week · 5,293 companies tracked · updated Nov 10, 2026 at 12:59 UTC**
+**32 open roles · 7 new this week · 5,293 companies tracked · updated Nov 10, 2026 at 15:45 UTC**
 
 **⭐ Star this repo ⭐** to save it and get notified when new roles land.
 
@@ -38,8 +38,8 @@ A self-updating engine that tracks **full-time fresher & new-grad tech jobs** fo
 | Coupa Software | Associate Security Engineer - 11925 | Software | 2+ Yrs<br>B.Tech/BS | Pune, India | Oct 09, 2026 | [Apply](https://jobs.lever.co/coupa/15c1666e-c0df-49b5-8296-8c664166413a) |
 | Priceline | Associate Software Engineer | Software | B.Tech/BS | Mumbai | Oct 09, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5712) |
 | Wabtec | System Engineer ( Doors) | Software | B.Tech/BS | Bengaluru, India | Oct 08, 2026 | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990015987115) |
-| Amazon | Software Development Engineer, Prime Video Live Events - Sports Data Platform | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Bengaluru, Karnataka, India | Sep 30, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10565511/software-development-engineer-prime-video-live-events-sports-data-platform) |
 | Amazon | SDE I FTC | Other | B.Tech/BS | Hyderabad, Telangana, India | Sep 29, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10563602/sde-i-ftc) |
+| Amazon | Software Development Engineer, Prime Video Live Events - Sports Data Platform 🆕 | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Bengaluru, Karnataka, India | Sep 22, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10556180/software-development-engineer-prime-video-live-events-sports-data-platform) |
 | Netomi | Data Engineer I | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Remote - India | Sep 21, 2026 | [Apply](https://jobs.lever.co/netomi/02b45afd-5a49-41b2-a244-b0ca76306692) |
 | Amazon | Software Dev Engineer I FTC | Software | B.Tech/BS | Bengaluru, Karnataka, India | Sep 17, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10551515/software-dev-engineer-i-ftc) |
 | R1 RCM | Software Engineer I | Software | B.Tech/BS | Noida, India | Aug 28, 2026 | [Apply](https://r1rcm.wd1.myworkdayjobs.com/R1RCM/job/Noida-India/Software-Engineer-I_R260000005491) |
@@ -129,10 +129,11 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _42 companies on the [full radar](https://rohan-droid7.github.io/jobs-fresher-india/#radar). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 40 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 39 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Amazon | Software Development Engineer, Prime Video Live Events - Sports Data Platform | new_grad | 2026-11-10 |
 | Edwards Lifesciences | Associate Developer, IT | new_grad | 2026-11-10 |
 | LabCorp | Associate Data Analyst | new_grad | 2026-11-09 |
 | Rippling | Software Engineer I - FullStack | new_grad | 2026-11-09 |
@@ -171,8 +172,6 @@ _42 companies on the [full radar](https://rohan-droid7.github.io/jobs-fresher-in
 | CommerceIQ | DevOps Engineer I | new_grad | 2026-10-28 |
 | GE Healthcare | Graduate Engineer Trainee | new_grad | 2026-10-27 |
 | Arctic Wolf | Developer 1 | new_grad | 2026-10-27 |
-| Amazon | Software Development Engineer -I, IESP Merchant Tech | new_grad | 2026-10-27 |
-| Amazon | SDE-1 (FTC) | new_grad | 2026-10-27 |
 
 </details>
 
@@ -191,7 +190,7 @@ Fresher job postings per week, from each role's real published date — redrawn 
 
 A Python engine reads public company hiring feeds directly, keeps the roles that match the fresher/new-grad scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions every 4 hours. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,293 companies across 18 ATS platforms · 99% fetch success · completed in 414.1s · median detection latency 781 min · real posted dates on 90% of open roles._
+_Engine (last run): 5,293 companies across 18 ATS platforms · 100% fetch success · completed in 257.7s · median detection latency 781 min · real posted dates on 90% of open roles._
 
 ## Platforms Monitored
 
