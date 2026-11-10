@@ -5,7 +5,15 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-10T15:45:09Z</updated>
+  <updated>2026-11-10T18:47:45Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:welocalize:/job/Gurgaon/Software-Engineer-I_R0008056</id>
+    <title>Welocalize: Software Engineer I</title>
+    <link href="https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Gurgaon/Software-Engineer-I_R0008056"/>
+    <updated>2026-11-10T18:47:45Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · Gurgaon · JavaScript</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10556180</id>
     <title>Amazon: Software Development Engineer, Prime Video Live Events - Sports Data Platform</title>

@@ -1,8 +1,26 @@
 {
- "generated_at": "2026-11-10T15:45:09Z",
+ "generated_at": "2026-11-10T18:47:45Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 32,
+ "count": 33,
  "jobs": [
+  {
+   "id": "workday:welocalize:/job/Gurgaon/Software-Engineer-I_R0008056",
+   "company": "Welocalize",
+   "title": "Software Engineer I",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Gurgaon",
+   "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Gurgaon/Software-Engineer-I_R0008056",
+   "posted_at": "2026-11-10T00:00:00Z",
+   "first_seen_at": "2026-11-10T18:47:45Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "JavaScript"
+   ],
+   "source": "workday"
+  },
   {
    "id": "workday:pentair:/job/Goa/Graduate-Engineer-Trainee_R24400",
    "company": "Pentair",
