@@ -1,8 +1,24 @@
 {
- "generated_at": "2026-11-10T09:56:17Z",
+ "generated_at": "2026-11-10T12:59:56Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 31,
+ "count": 32,
  "jobs": [
+  {
+   "id": "workday:pentair:/job/Goa/Graduate-Engineer-Trainee_R24400",
+   "company": "Pentair",
+   "title": "Graduate Engineer Trainee",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Goa",
+   "url": "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Goa/Graduate-Engineer-Trainee_R24400",
+   "posted_at": "2026-11-10T00:00:00Z",
+   "first_seen_at": "2026-11-10T12:59:56Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [],
+   "source": "workday"
+  },
   {
    "id": "oracle:efds.fa.em5.oraclecloud.com:72334",
    "company": "Ford Motor Company",
