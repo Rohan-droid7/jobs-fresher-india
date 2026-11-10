@@ -1,8 +1,24 @@
 {
- "generated_at": "2026-11-10T07:00:31Z",
+ "generated_at": "2026-11-10T09:56:17Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 30,
+ "count": 31,
  "jobs": [
+  {
+   "id": "oracle:efds.fa.em5.oraclecloud.com:72334",
+   "company": "Ford Motor Company",
+   "title": "Tax Technology Analyst",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Other",
+   "location": "Chennai, Tamil Nadu, India",
+   "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72334",
+   "posted_at": "2026-11-10",
+   "first_seen_at": "2026-11-10T09:56:16Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [],
+   "source": "oracle"
+  },
   {
    "id": "workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4048826-1",
    "company": "GE Healthcare",
