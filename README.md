@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks **full-time fresher & new-grad tech jobs** for the **2026 & 2027 batch** across India — so you don't have to. Instead of refreshing Naukri, LinkedIn, and a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**30 open roles · 7 new this week · 5,293 companies tracked · updated Nov 10, 2026 at 00:53 UTC**
+**31 open roles · 8 new this week · 5,293 companies tracked · updated Nov 10, 2026 at 03:49 UTC**
 
 **⭐ Star this repo ⭐** to save it and get notified when new roles land.
 
@@ -13,10 +13,11 @@ A self-updating engine that tracks **full-time fresher & new-grad tech jobs** fo
 **🔔 New roles in your inbox:** [subscribe by email](https://rohan-droid7.github.io/jobs-fresher-india/#subscribe) - one email a day, only when new jobs actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FRohan-droid7%2Fjobs-fresher-india%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## New Grad — Entry Level (All Batches)  (30 open)
+## New Grad — Entry Level (All Batches)  (31 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Edwards Lifesciences | Associate Developer, IT 🆕 | Software | B.Tech/BS | India-Pune | Nov 10, 2026 | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/India-Pune/Associate-Developer--IT_Req-49757) |
 | GE Healthcare | Graduate Engineer Trainee | Software | B.Tech/BS | Bengaluru | Nov 06, 2026 | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Graduate-Engineer-Trainee_R4048826-1) |
 | Cigna Group | Automation Engineer Associate Analyst - Cigna Healthcare | Software | B.Tech/BS | India Work at Home | Nov 05, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/India-Work-at-Home/Automation-Engineer-Associate-Analyst---Cigna-Healthcare_26013380) |
 | TriNet | Associate Data Analyst | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Hyderabad, Telangana, India | Nov 05, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004321) |
@@ -189,7 +190,7 @@ Fresher job postings per week, from each role's real published date — redrawn 
 
 A Python engine reads public company hiring feeds directly, keeps the roles that match the fresher/new-grad scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions every 4 hours. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,293 companies across 18 ATS platforms · 100% fetch success · completed in 309.6s · median detection latency 928 min · real posted dates on 90% of open roles._
+_Engine (last run): 5,293 companies across 18 ATS platforms · 99% fetch success · completed in 341.0s · median detection latency 855 min · real posted dates on 90% of open roles._
 
 ## Platforms Monitored
 

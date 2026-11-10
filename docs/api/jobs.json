@@ -1,8 +1,31 @@
 {
- "generated_at": "2026-11-10T00:53:27Z",
+ "generated_at": "2026-11-10T03:49:19Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 30,
+ "count": 31,
  "jobs": [
+  {
+   "id": "workday:edwards:/job/India-Pune/Associate-Developer--IT_Req-49757",
+   "company": "Edwards Lifesciences",
+   "title": "Associate Developer, IT",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "India-Pune",
+   "url": "https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/India-Pune/Associate-Developer--IT_Req-49757",
+   "posted_at": "2026-11-10T00:00:00Z",
+   "first_seen_at": "2026-11-10T03:49:19Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "TypeScript",
+    "SQL",
+    "Swift",
+    "Kotlin",
+    "Angular",
+    "Git"
+   ],
+   "source": "workday"
+  },
   {
    "id": "workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4048826-1",
    "company": "GE Healthcare",
