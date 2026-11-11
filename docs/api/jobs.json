@@ -1,8 +1,95 @@
 {
- "generated_at": "2026-11-11T03:52:21Z",
+ "generated_at": "2026-11-11T07:05:08Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 33,
+ "count": 39,
  "jobs": [
+  {
+   "id": "ashby:aiprise:4994f7fc-b974-420f-9823-32d6c493f5c2",
+   "company": "AiPrise",
+   "title": "Software Engineer I, Frontend (Bangalore, India)",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Bengaluru",
+   "url": "https://jobs.ashbyhq.com/aiprise/4994f7fc-b974-420f-9823-32d6c493f5c2",
+   "posted_at": "2026-11-11T06:28:29.997+00:00",
+   "first_seen_at": "2026-11-11T07:05:08Z",
+   "salary": "₹15L – ₹30L • Offers Bonus",
+   "stipend": null,
+   "skills": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Node.js"
+   ],
+   "source": "ashby"
+  },
+  {
+   "id": "ashby:aiprise:41af4efa-a550-484e-afde-a9f5f3807eca",
+   "company": "AiPrise",
+   "title": "Software Engineer I, Full Stack (Frontend Focused) (Bangalore, India)",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Bengaluru",
+   "url": "https://jobs.ashbyhq.com/aiprise/41af4efa-a550-484e-afde-a9f5f3807eca",
+   "posted_at": "2026-11-11T06:30:03.514+00:00",
+   "first_seen_at": "2026-11-11T07:05:08Z",
+   "salary": "₹15L – ₹30L • Offers Bonus",
+   "stipend": null,
+   "skills": [
+    "Python",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "AWS",
+    "Docker"
+   ],
+   "source": "ashby"
+  },
+  {
+   "id": "workday:gevernova:/job/Chennai/System-Engineer_R5058345-1",
+   "company": "Gevernova",
+   "title": "System Engineer",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Chennai",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Chennai/System-Engineer_R5058345-1",
+   "posted_at": "2026-11-11T00:00:00Z",
+   "first_seen_at": "2026-11-11T07:05:08Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "MATLAB"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:zebra:/job/Bengaluru-India/Data-engineer-1_JR103928",
+   "company": "Zebra Technologies",
+   "title": "Data engineer 1",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru, India",
+   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Data-engineer-1_JR103928",
+   "posted_at": "2026-11-11T00:00:00Z",
+   "first_seen_at": "2026-11-11T07:05:08Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Scala",
+    "LLMs",
+    "GCP",
+    "Azure",
+    "Spark"
+   ],
+   "source": "workday"
+  },
   {
    "id": "workday:welocalize:/job/Gurgaon/Software-Engineer-I_R0008056",
    "company": "Welocalize",
@@ -67,6 +154,25 @@
    "salary": null,
    "stipend": null,
    "skills": [],
+   "source": "workday"
+  },
+  {
+   "id": "workday:zebra:/job/Bengaluru-India/Software-Engineer--1_JR103559",
+   "company": "Zebra Technologies",
+   "title": "Software Engineer -1",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Bengaluru, India",
+   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Software-Engineer--1_JR103559",
+   "posted_at": "2026-11-06T00:00:00Z",
+   "first_seen_at": "2026-11-06T12:58:17Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Java",
+    "Kotlin"
+   ],
    "source": "workday"
   },
   {
@@ -505,6 +611,31 @@
    "stipend": null,
    "skills": [],
    "source": "amazon"
+  },
+  {
+   "id": "lever:aeratechnology:4860f299-72d8-41d5-97ff-ae063765f617",
+   "company": "Aera Technology",
+   "title": "Associate Data Scientist – Modeling, Analytics & Pipelines",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "Pune, India",
+   "url": "https://jobs.lever.co/aeratechnology/4860f299-72d8-41d5-97ff-ae063765f617",
+   "posted_at": "2026-09-17T08:47:49Z",
+   "first_seen_at": "2026-10-03T17:00:04Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "PyTorch",
+    "TensorFlow",
+    "Pandas",
+    "AWS",
+    "GCP",
+    "Azure"
+   ],
+   "source": "lever"
   },
   {
    "id": "workday:r1rcm:/job/Noida-India/Software-Engineer-I_R260000005491",
