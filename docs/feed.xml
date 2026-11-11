@@ -5,15 +5,7 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-11T07:05:08Z</updated>
-  <entry>
-    <id>urn:intern-engine:ashby:aiprise:4994f7fc-b974-420f-9823-32d6c493f5c2</id>
-    <title>AiPrise: Software Engineer I, Frontend (Bangalore, India)</title>
-    <link href="https://jobs.ashbyhq.com/aiprise/4994f7fc-b974-420f-9823-32d6c493f5c2"/>
-    <updated>2026-11-11T07:05:08Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Bengaluru · ₹15L – ₹30L • Offers Bonus · Python, TypeScript, JavaScript, React, Node.js</summary>
-  </entry>
+  <updated>2026-11-11T09:57:44Z</updated>
   <entry>
     <id>urn:intern-engine:ashby:aiprise:41af4efa-a550-484e-afde-a9f5f3807eca</id>
     <title>AiPrise: Software Engineer I, Full Stack (Frontend Focused) (Bangalore, India)</title>
@@ -21,6 +13,14 @@
     <updated>2026-11-11T07:05:08Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · Bengaluru · ₹15L – ₹30L • Offers Bonus · Python, TypeScript, React, Node.js, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:aiprise:4994f7fc-b974-420f-9823-32d6c493f5c2</id>
+    <title>AiPrise: Software Engineer I, Frontend (Bangalore, India)</title>
+    <link href="https://jobs.ashbyhq.com/aiprise/4994f7fc-b974-420f-9823-32d6c493f5c2"/>
+    <updated>2026-11-11T07:05:08Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · Bengaluru · ₹15L – ₹30L • Offers Bonus · Python, TypeScript, JavaScript, React, Node.js</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:gevernova:/job/Chennai/System-Engineer_R5058345-1</id>

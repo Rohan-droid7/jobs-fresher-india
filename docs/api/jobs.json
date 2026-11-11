@@ -1,30 +1,8 @@
 {
- "generated_at": "2026-11-11T07:05:08Z",
+ "generated_at": "2026-11-11T09:57:44Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
  "count": 39,
  "jobs": [
-  {
-   "id": "ashby:aiprise:4994f7fc-b974-420f-9823-32d6c493f5c2",
-   "company": "AiPrise",
-   "title": "Software Engineer I, Frontend (Bangalore, India)",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bengaluru",
-   "url": "https://jobs.ashbyhq.com/aiprise/4994f7fc-b974-420f-9823-32d6c493f5c2",
-   "posted_at": "2026-11-11T06:28:29.997+00:00",
-   "first_seen_at": "2026-11-11T07:05:08Z",
-   "salary": "₹15L – ₹30L • Offers Bonus",
-   "stipend": null,
-   "skills": [
-    "Python",
-    "TypeScript",
-    "JavaScript",
-    "React",
-    "Node.js"
-   ],
-   "source": "ashby"
-  },
   {
    "id": "ashby:aiprise:41af4efa-a550-484e-afde-a9f5f3807eca",
    "company": "AiPrise",
@@ -45,6 +23,28 @@
     "Node.js",
     "AWS",
     "Docker"
+   ],
+   "source": "ashby"
+  },
+  {
+   "id": "ashby:aiprise:4994f7fc-b974-420f-9823-32d6c493f5c2",
+   "company": "AiPrise",
+   "title": "Software Engineer I, Frontend (Bangalore, India)",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Bengaluru",
+   "url": "https://jobs.ashbyhq.com/aiprise/4994f7fc-b974-420f-9823-32d6c493f5c2",
+   "posted_at": "2026-11-11T06:28:29.997+00:00",
+   "first_seen_at": "2026-11-11T07:05:08Z",
+   "salary": "₹15L – ₹30L • Offers Bonus",
+   "stipend": null,
+   "skills": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Node.js"
    ],
    "source": "ashby"
   },
