@@ -5,7 +5,15 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-11T09:57:44Z</updated>
+  <updated>2026-11-11T13:01:16Z</updated>
+  <entry>
+    <id>urn:intern-engine:greenhouse:abnormalsecurity:8196521003</id>
+    <title>Abnormal Security: Software Engineer I - Backend</title>
+    <link href="https://abnormal.ai/careers/jobs/8196521003?gh_jid=8196521003"/>
+    <updated>2026-11-11T13:01:15Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · Hybrid - Bangalore, India · Python, Go, LLMs, AWS, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:aiprise:41af4efa-a550-484e-afde-a9f5f3807eca</id>
     <title>AiPrise: Software Engineer I, Full Stack (Frontend Focused) (Bangalore, India)</title>
@@ -135,28 +143,12 @@
     <summary>new_grad · Software · Mumbai · Python, Java, Kotlin, LLMs, React</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:rippling:rippling:277b7caf-3092-44a7-9e8c-45769e5a3ea5</id>
-    <title>Rippling: Software Engineer-1</title>
-    <link href="https://ats.rippling.com/rippling/jobs/277b7caf-3092-44a7-9e8c-45769e5a3ea5"/>
-    <updated>2026-11-02T16:00:54Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Bangalore, India</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:solarwinds:4743100005</id>
     <title>SolarWinds: Associate Software Engineer</title>
     <link href="https://jobs.solarwinds.com/job-detail/?gh_jid=4743100005&amp;gh_jid=4743100005"/>
     <updated>2026-11-02T09:59:05Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · Bangalore, India · Java, JavaScript, SQL, Angular</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004048</id>
-    <title>TriNet: Associate Data Scientist</title>
-    <link href="https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004048"/>
-    <updated>2026-11-02T07:15:31Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Data &amp; ML/AI · Hyderabad, Telangana, India · Python, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cigna:/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812</id>

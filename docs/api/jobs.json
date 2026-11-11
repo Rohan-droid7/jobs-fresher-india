@@ -1,8 +1,30 @@
 {
- "generated_at": "2026-11-11T09:57:44Z",
+ "generated_at": "2026-11-11T13:01:16Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 39,
+ "count": 38,
  "jobs": [
+  {
+   "id": "greenhouse:abnormalsecurity:8196521003",
+   "company": "Abnormal Security",
+   "title": "Software Engineer I - Backend",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Hybrid - Bangalore, India",
+   "url": "https://abnormal.ai/careers/jobs/8196521003?gh_jid=8196521003",
+   "posted_at": "2026-11-11T05:24:57-05:00",
+   "first_seen_at": "2026-11-11T13:01:15Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Python",
+    "Go",
+    "LLMs",
+    "AWS",
+    "Git"
+   ],
+   "source": "greenhouse"
+  },
   {
    "id": "ashby:aiprise:41af4efa-a550-484e-afde-a9f5f3807eca",
    "company": "AiPrise",
@@ -270,25 +292,6 @@
     "Angular"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004048",
-   "company": "TriNet",
-   "title": "Associate Data Scientist",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004048",
-   "posted_at": "2026-11-02",
-   "first_seen_at": "2026-11-02T07:15:31Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "LLMs"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:cigna:/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812",
@@ -726,22 +729,6 @@
     "Python"
    ],
    "source": "workday"
-  },
-  {
-   "id": "rippling:rippling:277b7caf-3092-44a7-9e8c-45769e5a3ea5",
-   "company": "Rippling",
-   "title": "Software Engineer-1",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bangalore, India",
-   "url": "https://ats.rippling.com/rippling/jobs/277b7caf-3092-44a7-9e8c-45769e5a3ea5",
-   "posted_at": null,
-   "first_seen_at": "2026-11-02T16:00:54Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [],
-   "source": "rippling"
   },
   {
    "id": "rippling:perle:f14c681e-5431-4677-8faa-a7ab38464863",
