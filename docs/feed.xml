@@ -5,7 +5,7 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-12T13:04:10Z</updated>
+  <updated>2026-11-12T15:58:39Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2435232</id>
     <title>Cummins: Data Engineer 1</title>
@@ -45,14 +45,6 @@
     <updated>2026-11-11T07:05:08Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · Bengaluru · ₹15L – ₹30L • Offers Bonus · Python, TypeScript, JavaScript, React, Node.js</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gevernova:/job/Chennai/System-Engineer_R5058345-1</id>
-    <title>Gevernova: System Engineer</title>
-    <link href="https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Chennai/System-Engineer_R5058345-1"/>
-    <updated>2026-11-11T07:05:08Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Chennai · MATLAB</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:zebra:/job/Bengaluru-India/Data-engineer-1_JR103928</id>
@@ -103,20 +95,20 @@
     <summary>new_grad · Software · Bengaluru, India · Java, Kotlin</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:cigna:/job/India-Work-at-Home/Automation-Engineer-Associate-Analyst---Cigna-Healthcare_26013380</id>
-    <title>Cigna Group: Automation Engineer Associate Analyst - Cigna Healthcare</title>
-    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/India-Work-at-Home/Automation-Engineer-Associate-Analyst---Cigna-Healthcare_26013380"/>
-    <updated>2026-11-05T13:01:51Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · India Work at Home · Python, Java, SQL</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004321</id>
     <title>TriNet: Associate Data Analyst</title>
     <link href="https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004321"/>
     <updated>2026-11-05T10:00:01Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Data &amp; ML/AI · Hyderabad, Telangana, India · Python, SQL, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cigna:/job/Bengaluru-India/Automation-Engineer-Associate-Analysts---Cigna-Healthcare_26013237</id>
+    <title>Cigna Group: Automation Engineer Associate Analyst - Cigna Healthcare</title>
+    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Automation-Engineer-Associate-Analysts---Cigna-Healthcare_26013237"/>
+    <updated>2026-11-04T12:59:50Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · Bengaluru, India · Python, C#, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:coupa:15c1666e-c0df-49b5-8296-8c664166413a</id>
@@ -143,12 +135,12 @@
     <summary>new_grad · Software · Pune, India</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5712</id>
-    <title>Priceline: Associate Software Engineer</title>
-    <link href="https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5712"/>
-    <updated>2026-11-03T07:02:29Z</updated>
+    <id>urn:intern-engine:rippling:rippling:277b7caf-3092-44a7-9e8c-45769e5a3ea5</id>
+    <title>Rippling: Software Engineer-1</title>
+    <link href="https://ats.rippling.com/rippling/jobs/277b7caf-3092-44a7-9e8c-45769e5a3ea5"/>
+    <updated>2026-11-02T16:00:54Z</updated>
     <category term="new_grad"/>
-    <summary>new_grad · Software · Mumbai · Python, Java, Kotlin, LLMs, React</summary>
+    <summary>new_grad · Software · Bangalore, India</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:solarwinds:4743100005</id>
@@ -245,14 +237,6 @@
     <updated>2026-10-27T13:03:51Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · Bengaluru, India</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cmegroup:/job/Bangalore---Bagmane-Tridib/Site-Reliability-Engineer-I----India_34762</id>
-    <title>CME Group: Site Reliability Engineer I -  India</title>
-    <link href="https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Site-Reliability-Engineer-I----India_34762"/>
-    <updated>2026-10-27T13:03:51Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Bangalore - Bagmane Tridib · Python, Java, AWS, GCP, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:thehartford:/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341</id>
