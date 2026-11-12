@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-12T07:07:26Z",
+ "generated_at": "2026-11-12T09:56:38Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 39,
+ "count": 40,
  "jobs": [
   {
    "id": "workday:ag:/job/Bangalore-Area/Technology-Analyst---Security-and-Authorizations_JR10456108",
@@ -732,6 +732,22 @@
     "Python"
    ],
    "source": "workday"
+  },
+  {
+   "id": "rippling:rippling:28e76743-13cf-4e30-94f2-bbaa021a2d9b",
+   "company": "Rippling",
+   "title": "Software Engineer I -Data Infrastructure",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "Bangalore, India",
+   "url": "https://ats.rippling.com/rippling/jobs/28e76743-13cf-4e30-94f2-bbaa021a2d9b",
+   "posted_at": null,
+   "first_seen_at": "2026-10-28T09:48:53Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [],
+   "source": "rippling"
   },
   {
    "id": "rippling:rippling:acf82f7d-5595-47c4-8e08-45c9d9a93529",

@@ -5,7 +5,7 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-12T07:07:26Z</updated>
+  <updated>2026-11-12T09:56:38Z</updated>
   <entry>
     <id>urn:intern-engine:workday:ag:/job/Bangalore-Area/Technology-Analyst---Security-and-Authorizations_JR10456108</id>
     <title>Airbus: Technology Analyst - Security and Authorizations</title>
@@ -165,6 +165,14 @@
     <updated>2026-10-28T09:48:53Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · Bangalore · Java, JavaScript, Scala</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:rippling:rippling:28e76743-13cf-4e30-94f2-bbaa021a2d9b</id>
+    <title>Rippling: Software Engineer I -Data Infrastructure</title>
+    <link href="https://ats.rippling.com/rippling/jobs/28e76743-13cf-4e30-94f2-bbaa021a2d9b"/>
+    <updated>2026-10-28T09:48:53Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Data &amp; ML/AI · Bangalore, India</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Eurofins:744000157805820</id>
