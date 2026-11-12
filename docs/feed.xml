@@ -5,7 +5,7 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-12T15:58:39Z</updated>
+  <updated>2026-11-12T18:52:28Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2435232</id>
     <title>Cummins: Data Engineer 1</title>
@@ -13,14 +13,6 @@
     <updated>2026-11-12T13:04:09Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Data &amp; ML/AI · Pune, Maharashtra, India · SQL, LLMs, Hadoop, MongoDB</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ag:/job/Bangalore-Area/Technology-Analyst---Security-and-Authorizations_JR10456108</id>
-    <title>Airbus: Technology Analyst - Security and Authorizations</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technology-Analyst---Security-and-Authorizations_JR10456108"/>
-    <updated>2026-11-12T07:07:26Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Other · Bangalore Area</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:crowe:/job/Hyderabad-Telangana-India/Junior-AI-Platform-Engineer_R-52641</id>
@@ -149,14 +141,6 @@
     <updated>2026-11-02T09:59:05Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · Bangalore, India · Java, JavaScript, SQL, Angular</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cigna:/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812</id>
-    <title>Cigna Group: Automation Engineer Associate Analyst</title>
-    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812"/>
-    <updated>2026-10-29T15:51:20Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Bengaluru, India · Python, C#, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:stripe:8130876</id>

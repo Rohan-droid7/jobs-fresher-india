@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-12T15:58:39Z",
+ "generated_at": "2026-11-12T18:52:28Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 39,
+ "count": 37,
  "jobs": [
   {
    "id": "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2435232",
@@ -23,22 +23,6 @@
     "MongoDB"
    ],
    "source": "oracle"
-  },
-  {
-   "id": "workday:ag:/job/Bangalore-Area/Technology-Analyst---Security-and-Authorizations_JR10456108",
-   "company": "Airbus",
-   "title": "Technology Analyst - Security and Authorizations",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Other",
-   "location": "Bangalore Area",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technology-Analyst---Security-and-Authorizations_JR10456108",
-   "posted_at": "2026-11-12T00:00:00Z",
-   "first_seen_at": "2026-11-12T07:07:26Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [],
-   "source": "workday"
   },
   {
    "id": "workday:crowe:/job/Hyderabad-Telangana-India/Junior-AI-Platform-Engineer_R-52641",
@@ -298,26 +282,6 @@
     "Angular"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "workday:cigna:/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812",
-   "company": "Cigna Group",
-   "title": "Automation Engineer Associate Analyst",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bengaluru, India",
-   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Automation-Engineer-Associate-Analyst_26012812",
-   "posted_at": "2026-10-29T00:00:00Z",
-   "first_seen_at": "2026-10-29T15:51:20Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "C#",
-    "Azure"
-   ],
-   "source": "workday"
   },
   {
    "id": "greenhouse:stripe:8130876",
