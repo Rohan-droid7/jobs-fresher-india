@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-11-12T09:56:38Z",
+ "generated_at": "2026-11-12T13:04:10Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 40,
+ "count": 41,
  "jobs": [
+  {
+   "id": "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2435232",
+   "company": "Cummins",
+   "title": "Data Engineer 1",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "Pune, Maharashtra, India",
+   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435232",
+   "posted_at": "2026-11-12",
+   "first_seen_at": "2026-11-12T13:04:09Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "SQL",
+    "LLMs",
+    "Hadoop",
+    "MongoDB"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "workday:ag:/job/Bangalore-Area/Technology-Analyst---Security-and-Authorizations_JR10456108",
    "company": "Airbus",

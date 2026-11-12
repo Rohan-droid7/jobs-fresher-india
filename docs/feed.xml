@@ -5,7 +5,15 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-12T09:56:38Z</updated>
+  <updated>2026-11-12T13:04:10Z</updated>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2435232</id>
+    <title>Cummins: Data Engineer 1</title>
+    <link href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435232"/>
+    <updated>2026-11-12T13:04:09Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Data &amp; ML/AI · Pune, Maharashtra, India · SQL, LLMs, Hadoop, MongoDB</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:ag:/job/Bangalore-Area/Technology-Analyst---Security-and-Authorizations_JR10456108</id>
     <title>Airbus: Technology Analyst - Security and Authorizations</title>
