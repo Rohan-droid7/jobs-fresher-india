@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T18:52:28Z",
+ "generated_at": "2026-11-12T21:46:57Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
  "count": 37,
  "jobs": [
@@ -669,22 +669,6 @@
    "source": "rippling"
   },
   {
-   "id": "rippling:rippling:28e76743-13cf-4e30-94f2-bbaa021a2d9b",
-   "company": "Rippling",
-   "title": "Software Engineer I -Data Infrastructure",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Bangalore, India",
-   "url": "https://ats.rippling.com/rippling/jobs/28e76743-13cf-4e30-94f2-bbaa021a2d9b",
-   "posted_at": null,
-   "first_seen_at": "2026-10-28T09:48:53Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [],
-   "source": "rippling"
-  },
-  {
    "id": "rippling:rippling:acf82f7d-5595-47c4-8e08-45c9d9a93529",
    "company": "Rippling",
    "title": "Software Engineer I - FullStack",
@@ -709,6 +693,22 @@
    "category": "Data & ML/AI",
    "location": "India (Remote)",
    "url": "https://ats.rippling.com/perle/jobs/f14c681e-5431-4677-8faa-a7ab38464863",
+   "posted_at": null,
+   "first_seen_at": "2026-10-27T13:03:51Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [],
+   "source": "rippling"
+  },
+  {
+   "id": "rippling:rippling:472ecc5e-9610-477b-bbb9-8b075c8f5a67",
+   "company": "Rippling",
+   "title": "Software Engineer I",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Bangalore, India",
+   "url": "https://ats.rippling.com/rippling/jobs/472ecc5e-9610-477b-bbb9-8b075c8f5a67",
    "posted_at": null,
    "first_seen_at": "2026-10-27T13:03:51Z",
    "salary": null,
