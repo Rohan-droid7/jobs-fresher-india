@@ -5,7 +5,15 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-12T03:51:48Z</updated>
+  <updated>2026-11-12T07:07:26Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:ag:/job/Bangalore-Area/Technology-Analyst---Security-and-Authorizations_JR10456108</id>
+    <title>Airbus: Technology Analyst - Security and Authorizations</title>
+    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technology-Analyst---Security-and-Authorizations_JR10456108"/>
+    <updated>2026-11-12T07:07:26Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Other · Bangalore Area</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:crowe:/job/Hyderabad-Telangana-India/Junior-AI-Platform-Engineer_R-52641</id>
     <title>Crowe: Junior AI Platform Engineer</title>
@@ -13,14 +21,6 @@
     <updated>2026-11-12T01:02:40Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Data &amp; ML/AI · Hyderabad Telangana India · Python, Java, C#, JavaScript, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:abnormalsecurity:8196521003</id>
-    <title>Abnormal Security: Software Engineer I - Backend</title>
-    <link href="https://abnormal.ai/careers/jobs/8196521003?gh_jid=8196521003"/>
-    <updated>2026-11-11T13:01:15Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Hybrid - Bangalore, India · Python, Go, LLMs, AWS, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:aiprise:41af4efa-a550-484e-afde-a9f5f3807eca</id>
@@ -173,6 +173,14 @@
     <updated>2026-10-27T21:33:10Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · Coimbatore, TN, India · Azure, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:rippling:rippling:acf82f7d-5595-47c4-8e08-45c9d9a93529</id>
+    <title>Rippling: Software Engineer I - FullStack</title>
+    <link href="https://ats.rippling.com/rippling/jobs/acf82f7d-5595-47c4-8e08-45c9d9a93529"/>
+    <updated>2026-10-27T15:50:48Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · Bangalore, India</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10580010</id>

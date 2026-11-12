@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks **full-time fresher & new-grad tech jobs** for the **2026 & 2027 batch** across India — so you don't have to. Instead of refreshing Naukri, LinkedIn, and a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**38 open roles · 13 new this week · 5,293 companies tracked · updated Nov 12, 2026 at 03:51 UTC**
+**39 open roles · 13 new this week · 5,293 companies tracked · updated Nov 12, 2026 at 07:07 UTC**
 
 **⭐ Star this repo ⭐** to save it and get notified when new roles land.
 
@@ -13,12 +13,12 @@ A self-updating engine that tracks **full-time fresher & new-grad tech jobs** fo
 **🔔 New roles in your inbox:** [subscribe by email](https://rohan-droid7.github.io/jobs-fresher-india/#subscribe) - one email a day, only when new jobs actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FRohan-droid7%2Fjobs-fresher-india%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## New Grad — Entry Level (All Batches)  (38 open)
+## New Grad — Entry Level (All Batches)  (39 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Airbus | Technology Analyst - Security and Authorizations 🆕 | Other | B.Tech/BS | Bangalore Area | Nov 12, 2026 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technology-Analyst---Security-and-Authorizations_JR10456108) |
 | Crowe | Junior AI Platform Engineer 🆕 | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Hyderabad Telangana India | Nov 12, 2026 | [Apply](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Hyderabad-Telangana-India/Junior-AI-Platform-Engineer_R-52641) |
-| Abnormal Security | Software Engineer I - Backend 🆕 | Software | B.Tech/BS | Hybrid - Bangalore, India | Nov 11, 2026 | [Apply](https://abnormal.ai/careers/jobs/8196521003?gh_jid=8196521003) |
 | AiPrise | Software Engineer I, Full Stack (Frontend Focused) (Bangalore, India) 🆕 | Software | ₹15L – ₹30L • Offers Bonus<br>2+ Yrs<br>B.Tech/BS | Bengaluru | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/aiprise/41af4efa-a550-484e-afde-a9f5f3807eca) |
 | AiPrise | Software Engineer I, Frontend (Bangalore, India) 🆕 | Software | ₹15L – ₹30L • Offers Bonus<br>2+ Yrs | Bengaluru | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/aiprise/4994f7fc-b974-420f-9823-32d6c493f5c2) |
 | Gevernova | System Engineer 🆕 | Software | B.Tech/BS | Chennai | Nov 11, 2026 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Chennai/System-Engineer_R5058345-1) |
@@ -53,6 +53,7 @@ A self-updating engine that tracks **full-time fresher & new-grad tech jobs** fo
 | ReliaQuest | Associate Software Engineer | Software | 0-1 Yr | Pune India Office | Aug 19, 2026 | [Apply](https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers/job/Pune-India-Office/Associate-Software-Engineer_R15032) |
 | AspenTech | Software Quality Engineer I | Software | B.Tech/BS | Noida | Jul 07, 2026 | [Apply](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Noida/Software-Quality-Engineer-I_R9206) |
 | Silicon Laboratories | Engineer I - Software QA | Software | B.Tech/BS | Hyderabad | Feb 17, 2026 | [Apply](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Hyderabad/Engineer-I---Software-QA_20641-1) |
+| Rippling | Software Engineer I - FullStack | Software | — | Bangalore, India | — | [Apply](https://ats.rippling.com/rippling/jobs/acf82f7d-5595-47c4-8e08-45c9d9a93529) |
 | Perle | Elite Research Scientist - Frontier AI Evaluation | Data & ML/AI | — | India (Remote) | — | [Apply](https://ats.rippling.com/perle/jobs/f14c681e-5431-4677-8faa-a7ab38464863) |
 | Mykaarma | Software Developer I | Software | — | NOIDA, India | — | [Apply](https://ats.rippling.com/mykaarma/jobs/854ee9f5-885b-4c76-8e6f-0330a11cdc54) |
 
@@ -139,13 +140,13 @@ _42 companies on the [full radar](https://rohan-droid7.github.io/jobs-fresher-in
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Abnormal Security | Software Engineer I - Backend | new_grad | 2026-11-12 |
 | Ford Motor Company | Tax Technology Analyst | new_grad | 2026-11-11 |
 | TriNet | Associate Data Scientist | new_grad | 2026-11-11 |
 | Rippling | Software Engineer-1 | new_grad | 2026-11-11 |
 | Amazon | Software Development Engineer, Prime Video Live Events - Sports Data Platform | new_grad | 2026-11-10 |
 | Edwards Lifesciences | Associate Developer, IT | new_grad | 2026-11-10 |
 | LabCorp | Associate Data Analyst | new_grad | 2026-11-09 |
-| Rippling | Software Engineer I - FullStack | new_grad | 2026-11-09 |
 | Arctic Wolf | Developer 1 | new_grad | 2026-11-09 |
 | Sophos | Software Engineer 1 (Java Developer) | new_grad | 2026-11-06 |
 | UiPath | Software Engineer I | new_grad | 2026-11-06 |
@@ -191,7 +192,7 @@ Fresher job postings per week, from each role's real published date — redrawn 
 
 A Python engine reads public company hiring feeds directly, keeps the roles that match the fresher/new-grad scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions every 4 hours. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,293 companies across 18 ATS platforms · 97% fetch success · completed in 285.7s · median detection latency 778 min · real posted dates on 94% of open roles._
+_Engine (last run): 5,293 companies across 18 ATS platforms · 98% fetch success · completed in 322.0s · median detection latency 778 min · real posted dates on 92% of open roles._
 
 ## Platforms Monitored
 
