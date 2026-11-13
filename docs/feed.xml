@@ -5,7 +5,15 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-13T03:52:41Z</updated>
+  <updated>2026-11-13T07:07:34Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:ag:/job/Bangalore-Area/Technology-Analyst---SAP-Enablenow---WalkMe_JR10457460</id>
+    <title>Airbus: Technology Analyst - SAP Enablenow &amp; WalkMe</title>
+    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technology-Analyst---SAP-Enablenow---WalkMe_JR10457460"/>
+    <updated>2026-11-13T07:07:34Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Other · Bangalore Area</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2435232</id>
     <title>Cummins: Data Engineer 1</title>
@@ -127,14 +135,6 @@
     <summary>new_grad · Software · Pune, India</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:rippling:rippling:277b7caf-3092-44a7-9e8c-45769e5a3ea5</id>
-    <title>Rippling: Software Engineer-1</title>
-    <link href="https://ats.rippling.com/rippling/jobs/277b7caf-3092-44a7-9e8c-45769e5a3ea5"/>
-    <updated>2026-11-02T16:00:54Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Bangalore, India</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:solarwinds:4743100005</id>
     <title>SolarWinds: Associate Software Engineer</title>
     <link href="https://jobs.solarwinds.com/job-detail/?gh_jid=4743100005&amp;gh_jid=4743100005"/>
@@ -237,14 +237,6 @@
     <updated>2026-10-03T17:00:04Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · Bengaluru, Karnataka, India</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10563602</id>
-    <title>Amazon: SDE I FTC</title>
-    <link href="https://www.amazon.jobs/en/jobs/10563602/sde-i-ftc"/>
-    <updated>2026-10-03T17:00:04Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Other · Hyderabad, Telangana, India</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:aeratechnology:4860f299-72d8-41d5-97ff-ae063765f617</id>
