@@ -5,7 +5,23 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-13T07:07:34Z</updated>
+  <updated>2026-11-13T09:58:47Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:crowe:/job/Hyderabad-Telangana-India/Junior-Software-Engineer-1_R-52653</id>
+    <title>Crowe: Junior Software Engineer 1</title>
+    <link href="https://crowe.wd12.myworkdayjobs.com/external_careers/job/Hyderabad-Telangana-India/Junior-Software-Engineer-1_R-52653"/>
+    <updated>2026-11-13T09:58:47Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · Hyderabad Telangana India · Python, Java, C#, TypeScript, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:crowe:/job/Hyderabad-Telangana-India/Junior-AI-Functional-Consultant_R-52650</id>
+    <title>Crowe: Junior AI Functional Consultant</title>
+    <link href="https://crowe.wd12.myworkdayjobs.com/external_careers/job/Hyderabad-Telangana-India/Junior-AI-Functional-Consultant_R-52650"/>
+    <updated>2026-11-13T09:58:47Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Data &amp; ML/AI · Hyderabad Telangana India · LLMs, Azure</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:ag:/job/Bangalore-Area/Technology-Analyst---SAP-Enablenow---WalkMe_JR10457460</id>
     <title>Airbus: Technology Analyst - SAP Enablenow &amp; WalkMe</title>
