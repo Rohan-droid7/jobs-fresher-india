@@ -5,7 +5,7 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-13T15:50:16Z</updated>
+  <updated>2026-11-13T18:49:41Z</updated>
   <entry>
     <id>urn:intern-engine:workday:crowe:/job/Hyderabad-Telangana-India/Junior-AI-Functional-Consultant_R-52650</id>
     <title>Crowe: Junior AI Functional Consultant</title>
@@ -87,14 +87,6 @@
     <summary>new_grad · Software · Goa</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:zebra:/job/Bengaluru-India/Software-Engineer--1_JR103559</id>
-    <title>Zebra Technologies: Software Engineer -1</title>
-    <link href="https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Software-Engineer--1_JR103559"/>
-    <updated>2026-11-06T12:58:17Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Bengaluru, India · Java, Kotlin</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004321</id>
     <title>TriNet: Associate Data Analyst</title>
     <link href="https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004321"/>
@@ -117,14 +109,6 @@
     <updated>2026-11-03T18:46:47Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · Pune, India · Python, JavaScript, AWS, GCP, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:boeing:/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1</id>
-    <title>The Boeing Company: Associate Software Engineer - Analytics</title>
-    <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1"/>
-    <updated>2026-11-03T12:58:37Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Data &amp; ML/AI · IND - Bangalore, India · Python, MATLAB</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:lnw:/job/Pune-India/Associate-QA-Engineer_R322953</id>

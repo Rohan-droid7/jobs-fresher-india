@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks **full-time fresher & new-grad tech jobs** for the **2026 & 2027 batch** across India — so you don't have to. Instead of refreshing Naukri, LinkedIn, and a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**35 open roles · 10 new this week · 5,293 companies tracked · updated Nov 13, 2026 at 15:50 UTC**
+**33 open roles · 10 new this week · 5,293 companies tracked · updated Nov 13, 2026 at 18:49 UTC**
 
 **⭐ Star this repo ⭐** to save it and get notified when new roles land.
 
@@ -13,7 +13,7 @@ A self-updating engine that tracks **full-time fresher & new-grad tech jobs** fo
 **🔔 New roles in your inbox:** [subscribe by email](https://rohan-droid7.github.io/jobs-fresher-india/#subscribe) - one email a day, only when new jobs actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FRohan-droid7%2Fjobs-fresher-india%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## New Grad — Entry Level (All Batches)  (35 open)
+## New Grad — Entry Level (All Batches)  (33 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -26,10 +26,8 @@ A self-updating engine that tracks **full-time fresher & new-grad tech jobs** fo
 | Zebra Technologies | Data engineer 1 | Data & ML/AI | B.Tech/BS | Bengaluru, India | Nov 11, 2026 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Data-engineer-1_JR103928) |
 | Welocalize | Software Engineer I | Software | — | Gurgaon | Nov 10, 2026 | [Apply](https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Gurgaon/Software-Engineer-I_R0008056) |
 | Pentair | Graduate Engineer Trainee | Software | B.Tech/BS | Goa | Nov 10, 2026 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Goa/Graduate-Engineer-Trainee_R24400) |
-| Zebra Technologies | Software Engineer -1 | Software | B.Tech/BS | Bengaluru, India | Nov 06, 2026 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Software-Engineer--1_JR103559) |
 | TriNet | Associate Data Analyst | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Hyderabad, Telangana, India | Nov 05, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004321) |
 | Cigna Group | Automation Engineer Associate Analyst - Cigna Healthcare | Software | B.Tech/BS | Bengaluru, India | Nov 04, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Automation-Engineer-Associate-Analysts---Cigna-Healthcare_26013237) |
-| The Boeing Company | Associate Software Engineer - Analytics | Data & ML/AI | B.Tech/BS | IND - Bangalore, India | Nov 03, 2026 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1) |
 | Light & Wonder | Associate QA Engineer | Software | B.Tech/BS | Pune, India | Nov 03, 2026 | [Apply](https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Pune-India/Associate-QA-Engineer_R322953) |
 | SolarWinds | Associate Software Engineer | Software | 2+ Yrs | Bangalore, India | Nov 02, 2026 | [Apply](https://jobs.solarwinds.com/job-detail/?gh_jid=4743100005&gh_jid=4743100005) |
 | Eurofins | IT Infrastructure System Engineer - Windows | Software | B.Tech/BS | Coimbatore, TN, India | Oct 26, 2026 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000157805820) |
@@ -132,10 +130,12 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _42 companies on the [full radar](https://rohan-droid7.github.io/jobs-fresher-india/#radar). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 38 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 40 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| The Boeing Company | Associate Software Engineer - Analytics | new_grad | 2026-11-13 |
+| Zebra Technologies | Software Engineer -1 | new_grad | 2026-11-13 |
 | Airbus | Technology Analyst - SAP Enablenow & WalkMe | new_grad | 2026-11-13 |
 | Stripe | Software Engineer, New Grad | new_grad | 2026-11-13 |
 | GE Healthcare | Graduate Engineer Trainee | new_grad | 2026-11-13 |
@@ -192,7 +192,7 @@ Fresher job postings per week, from each role's real published date — redrawn 
 
 A Python engine reads public company hiring feeds directly, keeps the roles that match the fresher/new-grad scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions every 4 hours. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,293 companies across 18 ATS platforms · 99% fetch success · completed in 460.7s · median detection latency 769 min · real posted dates on 88% of open roles._
+_Engine (last run): 5,293 companies across 18 ATS platforms · 100% fetch success · completed in 338.9s · median detection latency 769 min · real posted dates on 87% of open roles._
 
 ## Platforms Monitored
 
