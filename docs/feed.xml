@@ -5,15 +5,7 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-13T09:58:47Z</updated>
-  <entry>
-    <id>urn:intern-engine:workday:crowe:/job/Hyderabad-Telangana-India/Junior-Software-Engineer-1_R-52653</id>
-    <title>Crowe: Junior Software Engineer 1</title>
-    <link href="https://crowe.wd12.myworkdayjobs.com/external_careers/job/Hyderabad-Telangana-India/Junior-Software-Engineer-1_R-52653"/>
-    <updated>2026-11-13T09:58:47Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Hyderabad Telangana India · Python, Java, C#, TypeScript, JavaScript</summary>
-  </entry>
+  <updated>2026-11-13T13:00:49Z</updated>
   <entry>
     <id>urn:intern-engine:workday:crowe:/job/Hyderabad-Telangana-India/Junior-AI-Functional-Consultant_R-52650</id>
     <title>Crowe: Junior AI Functional Consultant</title>
@@ -21,6 +13,14 @@
     <updated>2026-11-13T09:58:47Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Data &amp; ML/AI · Hyderabad Telangana India · LLMs, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:crowe:/job/Hyderabad-Telangana-India/Junior-Software-Engineer-1_R-52653</id>
+    <title>Crowe: Junior Software Engineer 1</title>
+    <link href="https://crowe.wd12.myworkdayjobs.com/external_careers/job/Hyderabad-Telangana-India/Junior-Software-Engineer-1_R-52653"/>
+    <updated>2026-11-13T09:58:47Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · Hyderabad Telangana India · Python, Java, C#, TypeScript, JavaScript</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ag:/job/Bangalore-Area/Technology-Analyst---SAP-Enablenow---WalkMe_JR10457460</id>
@@ -95,14 +95,6 @@
     <summary>new_grad · Software · Goa</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:gehc:/job/Bengaluru/Graduate-Engineer-Trainee_R4048826-1</id>
-    <title>GE Healthcare: Graduate Engineer Trainee</title>
-    <link href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Graduate-Engineer-Trainee_R4048826-1"/>
-    <updated>2026-11-06T15:48:19Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Bengaluru</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:zebra:/job/Bengaluru-India/Software-Engineer--1_JR103559</id>
     <title>Zebra Technologies: Software Engineer -1</title>
     <link href="https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Software-Engineer--1_JR103559"/>
@@ -157,14 +149,6 @@
     <updated>2026-11-02T09:59:05Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · Bangalore, India · Java, JavaScript, SQL, Angular</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:stripe:8130876</id>
-    <title>Stripe: Software Engineer, New Grad</title>
-    <link href="https://stripe.com/jobs/search?gh_jid=8130876"/>
-    <updated>2026-10-28T09:48:53Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Bangalore · Java, JavaScript, Scala</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Eurofins:744000157805820</id>
