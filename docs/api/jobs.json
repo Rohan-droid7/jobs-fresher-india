@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T13:00:49Z",
+ "generated_at": "2026-11-13T15:50:16Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 36,
+ "count": 35,
  "jobs": [
   {
    "id": "workday:crowe:/job/Hyderabad-Telangana-India/Junior-AI-Functional-Consultant_R-52650",
@@ -45,22 +45,6 @@
     "LLMs",
     "React"
    ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:ag:/job/Bangalore-Area/Technology-Analyst---SAP-Enablenow---WalkMe_JR10457460",
-   "company": "Airbus",
-   "title": "Technology Analyst - SAP Enablenow & WalkMe",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Other",
-   "location": "Bangalore Area",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technology-Analyst---SAP-Enablenow---WalkMe_JR10457460",
-   "posted_at": "2026-11-13T00:00:00Z",
-   "first_seen_at": "2026-11-13T07:07:34Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [],
    "source": "workday"
   },
   {
