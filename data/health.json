@@ -1789,11 +1789,6 @@
     "last_attempt_at": "2026-07-23T23:21:05Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mlabs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
-  "workable:paxton-access": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-14T18:39:21Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/paxton-access/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
-  },
   "workable:perryhomes": {
     "consecutive_failures": 8,
     "last_attempt_at": "2026-11-13T15:50:16Z",
@@ -2113,11 +2108,6 @@
     "consecutive_failures": 5,
     "last_attempt_at": "2026-11-13T21:49:25Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/vortexa/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
-  },
-  "workable:wallstreetquants": {
-    "consecutive_failures": 10,
-    "last_attempt_at": "2026-11-11T18:54:15Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/wallstreetquants/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
   },
   "workable:we-are-social-1": {
     "consecutive_failures": 5,
