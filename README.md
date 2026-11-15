@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks **full-time fresher & new-grad tech jobs** for the **2026 & 2027 batch** across India — so you don't have to. Instead of refreshing Naukri, LinkedIn, and a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**32 open roles · 9 new this week · 5,293 companies tracked · updated Nov 15, 2026 at 09:46 UTC**
+**32 open roles · 9 new this week · 5,293 companies tracked · updated Nov 15, 2026 at 12:44 UTC**
 
 **⭐ Star this repo ⭐** to save it and get notified when new roles land.
 
@@ -17,8 +17,8 @@ A self-updating engine that tracks **full-time fresher & new-grad tech jobs** fo
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Crowe | Junior AI Functional Consultant 🆕 | Data & ML/AI | 2+ Yrs<br>M.Tech/MS | Hyderabad Telangana India | Nov 13, 2026 | [Apply](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Hyderabad-Telangana-India/Junior-AI-Functional-Consultant_R-52650) |
-| Crowe | Junior Software Engineer 1 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Hyderabad Telangana India | Nov 13, 2026 | [Apply](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Hyderabad-Telangana-India/Junior-Software-Engineer-1_R-52653) |
+| Crowe | Junior AI Functional Consultant | Data & ML/AI | 2+ Yrs<br>M.Tech/MS | Hyderabad Telangana India | Nov 13, 2026 | [Apply](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Hyderabad-Telangana-India/Junior-AI-Functional-Consultant_R-52650) |
+| Crowe | Junior Software Engineer 1 | Software | 2+ Yrs<br>B.Tech/BS | Hyderabad Telangana India | Nov 13, 2026 | [Apply](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Hyderabad-Telangana-India/Junior-Software-Engineer-1_R-52653) |
 | Cummins | Data Engineer 1 | Data & ML/AI | B.Tech/BS | Pune, Maharashtra, India | Nov 12, 2026 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435232) |
 | AiPrise | Software Engineer I, Full Stack (Frontend Focused) (Bangalore, India) | Software | ₹15L – ₹30L • Offers Bonus<br>2+ Yrs<br>B.Tech/BS | Bengaluru | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/aiprise/41af4efa-a550-484e-afde-a9f5f3807eca) |
 | AiPrise | Software Engineer I, Frontend (Bangalore, India) | Software | ₹15L – ₹30L • Offers Bonus<br>2+ Yrs | Bengaluru | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/aiprise/4994f7fc-b974-420f-9823-32d6c493f5c2) |
@@ -191,7 +191,7 @@ Fresher job postings per week, from each role's real published date — redrawn 
 
 A Python engine reads public company hiring feeds directly, keeps the roles that match the fresher/new-grad scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions every 4 hours. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,293 companies across 18 ATS platforms · 99% fetch success · completed in 365.6s · median detection latency 778 min · real posted dates on 87% of open roles._
+_Engine (last run): 5,293 companies across 18 ATS platforms · 99% fetch success · completed in 255.5s · median detection latency 778 min · real posted dates on 87% of open roles._
 
 ## Platforms Monitored
 
