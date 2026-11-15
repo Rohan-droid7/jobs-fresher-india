@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks **full-time fresher & new-grad tech jobs** for the **2026 & 2027 batch** across India — so you don't have to. Instead of refreshing Naukri, LinkedIn, and a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**33 open roles · 10 new this week · 5,293 companies tracked · updated Nov 15, 2026 at 07:00 UTC**
+**32 open roles · 9 new this week · 5,293 companies tracked · updated Nov 15, 2026 at 09:46 UTC**
 
 **⭐ Star this repo ⭐** to save it and get notified when new roles land.
 
@@ -13,14 +13,13 @@ A self-updating engine that tracks **full-time fresher & new-grad tech jobs** fo
 **🔔 New roles in your inbox:** [subscribe by email](https://rohan-droid7.github.io/jobs-fresher-india/#subscribe) - one email a day, only when new jobs actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FRohan-droid7%2Fjobs-fresher-india%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## New Grad — Entry Level (All Batches)  (33 open)
+## New Grad — Entry Level (All Batches)  (32 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Crowe | Junior AI Functional Consultant 🆕 | Data & ML/AI | 2+ Yrs<br>M.Tech/MS | Hyderabad Telangana India | Nov 13, 2026 | [Apply](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Hyderabad-Telangana-India/Junior-AI-Functional-Consultant_R-52650) |
 | Crowe | Junior Software Engineer 1 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Hyderabad Telangana India | Nov 13, 2026 | [Apply](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Hyderabad-Telangana-India/Junior-Software-Engineer-1_R-52653) |
 | Cummins | Data Engineer 1 | Data & ML/AI | B.Tech/BS | Pune, Maharashtra, India | Nov 12, 2026 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435232) |
-| Crowe | Junior AI Platform Engineer | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Hyderabad Telangana India | Nov 12, 2026 | [Apply](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Hyderabad-Telangana-India/Junior-AI-Platform-Engineer_R-52641) |
 | AiPrise | Software Engineer I, Full Stack (Frontend Focused) (Bangalore, India) | Software | ₹15L – ₹30L • Offers Bonus<br>2+ Yrs<br>B.Tech/BS | Bengaluru | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/aiprise/41af4efa-a550-484e-afde-a9f5f3807eca) |
 | AiPrise | Software Engineer I, Frontend (Bangalore, India) | Software | ₹15L – ₹30L • Offers Bonus<br>2+ Yrs | Bengaluru | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/aiprise/4994f7fc-b974-420f-9823-32d6c493f5c2) |
 | Zebra Technologies | Data engineer 1 | Data & ML/AI | B.Tech/BS | Bengaluru, India | Nov 11, 2026 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Data-engineer-1_JR103928) |
@@ -134,6 +133,7 @@ _42 companies on the [full radar](https://rohan-droid7.github.io/jobs-fresher-in
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Crowe | Junior AI Platform Engineer | new_grad | 2026-11-15 |
 | The Boeing Company | Associate Software Engineer - Analytics | new_grad | 2026-11-13 |
 | Zebra Technologies | Software Engineer -1 | new_grad | 2026-11-13 |
 | Airbus | Technology Analyst - SAP Enablenow & WalkMe | new_grad | 2026-11-13 |
@@ -173,7 +173,6 @@ _42 companies on the [full radar](https://rohan-droid7.github.io/jobs-fresher-in
 | Priceline | Associate Software Engineer | new_grad | 2026-11-03 |
 | Abnormal Security | Software Engineer 1 | new_grad | 2026-11-02 |
 | Point72 | 2027 Software Engineer - Campus Graduate Program - IIT Madras | new_grad | 2026-11-02 |
-| TriNet | Associate Data Scientist | new_grad | 2026-11-02 |
 
 </details>
 
@@ -192,7 +191,7 @@ Fresher job postings per week, from each role's real published date — redrawn 
 
 A Python engine reads public company hiring feeds directly, keeps the roles that match the fresher/new-grad scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions every 4 hours. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,293 companies across 18 ATS platforms · 99% fetch success · completed in 415.4s · median detection latency 778 min · real posted dates on 87% of open roles._
+_Engine (last run): 5,293 companies across 18 ATS platforms · 99% fetch success · completed in 365.6s · median detection latency 778 min · real posted dates on 87% of open roles._
 
 ## Platforms Monitored
 
