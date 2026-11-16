@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-11-16T04:07:30Z",
+ "generated_at": "2026-11-16T08:35:57Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 32,
+ "count": 30,
  "jobs": [
+  {
+   "id": "greenhouse:twilio:8319442",
+   "company": "Twilio",
+   "title": "Software Engineer (L1)",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Remote - India",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8319442",
+   "posted_at": "2026-11-16T01:27:58-05:00",
+   "first_seen_at": "2026-11-16T08:35:57Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Python",
+    "Java",
+    "Kubernetes",
+    "Docker"
+   ],
+   "source": "greenhouse"
+  },
   {
    "id": "workday:crowe:/job/Hyderabad-Telangana-India/Junior-AI-Functional-Consultant_R-52650",
    "company": "Crowe",
@@ -46,27 +67,6 @@
     "React"
    ],
    "source": "workday"
-  },
-  {
-   "id": "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2435232",
-   "company": "Cummins",
-   "title": "Data Engineer 1",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Pune, Maharashtra, India",
-   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435232",
-   "posted_at": "2026-11-12",
-   "first_seen_at": "2026-11-12T13:04:09Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "SQL",
-    "LLMs",
-    "Hadoop",
-    "MongoDB"
-   ],
-   "source": "oracle"
   },
   {
    "id": "ashby:aiprise:41af4efa-a550-484e-afde-a9f5f3807eca",
@@ -410,22 +410,6 @@
    "source": "smartrecruiters"
   },
   {
-   "id": "amazon:amazon:10556180",
-   "company": "Amazon",
-   "title": "Software Development Engineer, Prime Video Live Events - Sports Data Platform",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://www.amazon.jobs/en/jobs/10556180/software-development-engineer-prime-video-live-events-sports-data-platform",
-   "posted_at": "2026-09-22T00:00:00Z",
-   "first_seen_at": "2026-11-10T15:45:09Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [],
-   "source": "amazon"
-  },
-  {
    "id": "lever:netomi:02b45afd-5a49-41b2-a244-b0ca76306692",
    "company": "Netomi",
    "title": "Data Engineer I",
@@ -465,31 +449,6 @@
    "stipend": null,
    "skills": [],
    "source": "amazon"
-  },
-  {
-   "id": "lever:aeratechnology:4860f299-72d8-41d5-97ff-ae063765f617",
-   "company": "Aera Technology",
-   "title": "Associate Data Scientist – Modeling, Analytics & Pipelines",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Pune, India",
-   "url": "https://jobs.lever.co/aeratechnology/4860f299-72d8-41d5-97ff-ae063765f617",
-   "posted_at": "2026-09-17T08:47:49Z",
-   "first_seen_at": "2026-10-03T17:00:04Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "PyTorch",
-    "TensorFlow",
-    "Pandas",
-    "AWS",
-    "GCP",
-    "Azure"
-   ],
-   "source": "lever"
   },
   {
    "id": "workday:r1rcm:/job/Noida-India/Software-Engineer-I_R260000005491",

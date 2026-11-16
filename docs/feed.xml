@@ -5,7 +5,15 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-16T04:07:30Z</updated>
+  <updated>2026-11-16T08:35:57Z</updated>
+  <entry>
+    <id>urn:intern-engine:greenhouse:twilio:8319442</id>
+    <title>Twilio: Software Engineer (L1)</title>
+    <link href="https://job-boards.greenhouse.io/twilio/jobs/8319442"/>
+    <updated>2026-11-16T08:35:57Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · Remote - India · Python, Java, Kubernetes, Docker</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:crowe:/job/Hyderabad-Telangana-India/Junior-AI-Functional-Consultant_R-52650</id>
     <title>Crowe: Junior AI Functional Consultant</title>
@@ -21,14 +29,6 @@
     <updated>2026-11-13T09:58:47Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · Hyderabad Telangana India · Python, Java, C#, TypeScript, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2435232</id>
-    <title>Cummins: Data Engineer 1</title>
-    <link href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435232"/>
-    <updated>2026-11-12T13:04:09Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Data &amp; ML/AI · Pune, Maharashtra, India · SQL, LLMs, Hadoop, MongoDB</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:aiprise:41af4efa-a550-484e-afde-a9f5f3807eca</id>
@@ -61,14 +61,6 @@
     <updated>2026-11-10T18:47:45Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · Gurgaon · JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10556180</id>
-    <title>Amazon: Software Development Engineer, Prime Video Live Events - Sports Data Platform</title>
-    <link href="https://www.amazon.jobs/en/jobs/10556180/software-development-engineer-prime-video-live-events-sports-data-platform"/>
-    <updated>2026-11-10T15:45:09Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Data &amp; ML/AI · Bengaluru, Karnataka, India</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:pentair:/job/Goa/Graduate-Engineer-Trainee_R24400</id>
@@ -205,14 +197,6 @@
     <updated>2026-10-03T17:00:04Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · Bengaluru, Karnataka, India</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:aeratechnology:4860f299-72d8-41d5-97ff-ae063765f617</id>
-    <title>Aera Technology: Associate Data Scientist – Modeling, Analytics &amp; Pipelines</title>
-    <link href="https://jobs.lever.co/aeratechnology/4860f299-72d8-41d5-97ff-ae063765f617"/>
-    <updated>2026-10-03T17:00:04Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Data &amp; ML/AI · Pune, India · Python, SQL, PyTorch, TensorFlow, Pandas</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:netomi:02b45afd-5a49-41b2-a244-b0ca76306692</id>
