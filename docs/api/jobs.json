@@ -1,29 +1,8 @@
 {
- "generated_at": "2026-11-16T10:42:27Z",
+ "generated_at": "2026-11-16T15:01:44Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 31,
+ "count": 30,
  "jobs": [
-  {
-   "id": "greenhouse:twilio:8319442",
-   "company": "Twilio",
-   "title": "Software Engineer (L1)",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Remote - India",
-   "url": "https://job-boards.greenhouse.io/twilio/jobs/8319442",
-   "posted_at": "2026-11-16T01:27:58-05:00",
-   "first_seen_at": "2026-11-16T08:35:57Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "Java",
-    "Kubernetes",
-    "Docker"
-   ],
-   "source": "greenhouse"
-  },
   {
    "id": "workday:crowe:/job/Hyderabad-Telangana-India/Junior-AI-Functional-Consultant_R-52650",
    "company": "Crowe",

@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks **full-time fresher & new-grad tech jobs** for the **2026 & 2027 batch** across India — so you don't have to. Instead of refreshing Naukri, LinkedIn, and a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**31 open roles · 10 new this week · 5,293 companies tracked · updated Nov 16, 2026 at 10:42 UTC**
+**30 open roles · 9 new this week · 5,293 companies tracked · updated Nov 16, 2026 at 15:01 UTC**
 
 **⭐ Star this repo ⭐** to save it and get notified when new roles land.
 
@@ -13,11 +13,10 @@ A self-updating engine that tracks **full-time fresher & new-grad tech jobs** fo
 **🔔 New roles in your inbox:** [subscribe by email](https://rohan-droid7.github.io/jobs-fresher-india/#subscribe) - one email a day, only when new jobs actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FRohan-droid7%2Fjobs-fresher-india%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## New Grad — Entry Level (All Batches)  (31 open)
+## New Grad — Entry Level (All Batches)  (30 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Twilio | Software Engineer (L1) 🆕 | Software | 1-2 Yrs<br>B.Tech/BS | Remote - India | Nov 16, 2026 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8319442) |
 | Crowe | Junior AI Functional Consultant | Data & ML/AI | 2+ Yrs<br>M.Tech/MS | Hyderabad Telangana India | Nov 13, 2026 | [Apply](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Hyderabad-Telangana-India/Junior-AI-Functional-Consultant_R-52650) |
 | Crowe | Junior Software Engineer 1 | Software | 2+ Yrs<br>B.Tech/BS | Hyderabad Telangana India | Nov 13, 2026 | [Apply](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Hyderabad-Telangana-India/Junior-Software-Engineer-1_R-52653) |
 | AiPrise | Software Engineer I, Full Stack (Frontend Focused) (Bangalore, India) | Software | ₹15L – ₹30L • Offers Bonus<br>2+ Yrs<br>B.Tech/BS | Bengaluru | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/aiprise/41af4efa-a550-484e-afde-a9f5f3807eca) |
@@ -132,6 +131,7 @@ _42 companies on the [full radar](https://rohan-droid7.github.io/jobs-fresher-in
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Twilio | Software Engineer (L1) | new_grad | 2026-11-16 |
 | Amazon | Software Development Engineer I | new_grad | 2026-11-16 |
 | Amazon | Software Development Engineer, Prime Video Live Events - Sports Data Platform | new_grad | 2026-11-16 |
 | Aera Technology | Associate Data Scientist – Modeling, Analytics & Pipelines | new_grad | 2026-11-16 |
@@ -171,7 +171,6 @@ _42 companies on the [full radar](https://rohan-droid7.github.io/jobs-fresher-in
 | Dun & Bradstreet | Data Engineer I (R-20055) | new_grad | 2026-11-03 |
 | Philips | Apprentice Trainee (Software Developer Level 1) | new_grad | 2026-11-03 |
 | Point72 | 2027 Software Engineer - Campus Graduate Program - IIT Kanpur | new_grad | 2026-11-03 |
-| Point72 | 2027 Software Engineer - Campus Graduate Program - IIT BHU | new_grad | 2026-11-03 |
 
 </details>
 
@@ -190,7 +189,7 @@ Fresher job postings per week, from each role's real published date — redrawn 
 
 A Python engine reads public company hiring feeds directly, keeps the roles that match the fresher/new-grad scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions every 4 hours. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,293 companies across 18 ATS platforms · 72% fetch success · completed in 418.0s · median detection latency 778 min · real posted dates on 87% of open roles._
+_Engine (last run): 5,293 companies across 18 ATS platforms · 73% fetch success · completed in 490.8s · median detection latency 778 min · real posted dates on 86% of open roles._
 
 ## Platforms Monitored
 
