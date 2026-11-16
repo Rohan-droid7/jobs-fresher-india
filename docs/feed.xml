@@ -5,7 +5,15 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-16T08:35:57Z</updated>
+  <updated>2026-11-16T10:42:27Z</updated>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10580008</id>
+    <title>Amazon: Software Development Engineer I</title>
+    <link href="https://www.amazon.jobs/en/jobs/10580008/software-development-engineer-i"/>
+    <updated>2026-11-16T10:42:27Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · Hyderabad, Telangana, India</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:twilio:8319442</id>
     <title>Twilio: Software Engineer (L1)</title>
@@ -71,6 +79,14 @@
     <summary>new_grad · Software · Goa</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:oracle:efds.fa.em5.oraclecloud.com:72334</id>
+    <title>Ford Motor Company: Tax Technology Analyst</title>
+    <link href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72334"/>
+    <updated>2026-11-10T09:56:16Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Other · Chennai, Tamil Nadu, India</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004321</id>
     <title>TriNet: Associate Data Analyst</title>
     <link href="https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004321"/>
@@ -130,14 +146,6 @@
     <id>urn:intern-engine:amazon:amazon:10580010</id>
     <title>Amazon: Software Development Engineer I FTC</title>
     <link href="https://www.amazon.jobs/en/jobs/10580010/software-development-engineer-i-ftc"/>
-    <updated>2026-10-27T13:03:51Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Hyderabad, Telangana, India</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10580014</id>
-    <title>Amazon: Software Development Engineer I</title>
-    <link href="https://www.amazon.jobs/en/jobs/10580014/software-development-engineer-i"/>
     <updated>2026-10-27T13:03:51Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · Hyderabad, Telangana, India</summary>
