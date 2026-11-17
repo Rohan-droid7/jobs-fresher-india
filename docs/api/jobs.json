@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-17T18:54:41Z",
+ "generated_at": "2026-11-17T21:48:40Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 29,
+ "count": 27,
  "jobs": [
   {
    "id": "ashby:parspec:33854703-7d89-4bf1-9a08-9555f22cd21b",
@@ -148,42 +148,6 @@
    "stipend": null,
    "skills": [],
    "source": "workday"
-  },
-  {
-   "id": "oracle:efds.fa.em5.oraclecloud.com:72334",
-   "company": "Ford Motor Company",
-   "title": "Tax Technology Analyst",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Other",
-   "location": "Chennai, Tamil Nadu, India",
-   "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72334",
-   "posted_at": "2026-11-10",
-   "first_seen_at": "2026-11-10T09:56:16Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004321",
-   "company": "TriNet",
-   "title": "Associate Data Analyst",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004321",
-   "posted_at": "2026-11-05",
-   "first_seen_at": "2026-11-05T10:00:01Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "Tableau"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:cigna:/job/Bengaluru-India/Automation-Engineer-Associate-Analysts---Cigna-Healthcare_26013237",
