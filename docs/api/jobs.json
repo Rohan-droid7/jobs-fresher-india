@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-17T15:52:52Z",
+ "generated_at": "2026-11-17T18:54:41Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 30,
+ "count": 29,
  "jobs": [
   {
    "id": "ashby:parspec:33854703-7d89-4bf1-9a08-9555f22cd21b",
@@ -114,30 +114,6 @@
     "Node.js"
    ],
    "source": "ashby"
-  },
-  {
-   "id": "workday:zebra:/job/Bengaluru-India/Data-engineer-1_JR103928",
-   "company": "Zebra Technologies",
-   "title": "Data engineer 1",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, India",
-   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Data-engineer-1_JR103928",
-   "posted_at": "2026-11-11T00:00:00Z",
-   "first_seen_at": "2026-11-11T07:05:08Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "Scala",
-    "LLMs",
-    "GCP",
-    "Azure",
-    "Spark"
-   ],
-   "source": "workday"
   },
   {
    "id": "workday:welocalize:/job/Gurgaon/Software-Engineer-I_R0008056",
