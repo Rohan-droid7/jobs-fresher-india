@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-16T21:49:28Z",
+ "generated_at": "2026-11-17T00:55:18Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 30,
+ "count": 29,
  "jobs": [
   {
    "id": "workday:crowe:/job/Hyderabad-Telangana-India/Junior-AI-Functional-Consultant_R-52650",
@@ -428,22 +428,6 @@
     "Kafka"
    ],
    "source": "lever"
-  },
-  {
-   "id": "amazon:amazon:10551515",
-   "company": "Amazon",
-   "title": "Software Dev Engineer I FTC",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://www.amazon.jobs/en/jobs/10551515/software-dev-engineer-i-ftc",
-   "posted_at": "2026-09-17T00:00:00Z",
-   "first_seen_at": "2026-10-03T17:00:04Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [],
-   "source": "amazon"
   },
   {
    "id": "workday:r1rcm:/job/Noida-India/Software-Engineer-I_R260000005491",
