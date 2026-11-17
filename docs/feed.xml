@@ -5,7 +5,15 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-17T12:55:57Z</updated>
+  <updated>2026-11-17T15:52:52Z</updated>
+  <entry>
+    <id>urn:intern-engine:ashby:parspec:33854703-7d89-4bf1-9a08-9555f22cd21b</id>
+    <title>Parspec: Software Engineer - 1 (Backend)</title>
+    <link href="https://jobs.ashbyhq.com/parspec/33854703-7d89-4bf1-9a08-9555f22cd21b"/>
+    <updated>2026-11-17T15:52:52Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · Hybrid - Bangalore, India · Python, Go, LLMs, AWS, GCP</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10580008</id>
     <title>Amazon: Software Development Engineer I</title>

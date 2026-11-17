@@ -1,8 +1,31 @@
 {
- "generated_at": "2026-11-17T12:55:57Z",
+ "generated_at": "2026-11-17T15:52:52Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 29,
+ "count": 30,
  "jobs": [
+  {
+   "id": "ashby:parspec:33854703-7d89-4bf1-9a08-9555f22cd21b",
+   "company": "Parspec",
+   "title": "Software Engineer - 1 (Backend)",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Hybrid - Bangalore, India",
+   "url": "https://jobs.ashbyhq.com/parspec/33854703-7d89-4bf1-9a08-9555f22cd21b",
+   "posted_at": "2026-11-17T13:34:45.507+00:00",
+   "first_seen_at": "2026-11-17T15:52:52Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Python",
+    "Go",
+    "LLMs",
+    "AWS",
+    "GCP",
+    "Docker"
+   ],
+   "source": "ashby"
+  },
   {
    "id": "workday:crowe:/job/Hyderabad-Telangana-India/Junior-AI-Functional-Consultant_R-52650",
    "company": "Crowe",
