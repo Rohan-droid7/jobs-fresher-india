@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-11-18T07:07:23Z",
+ "generated_at": "2026-11-18T09:57:54Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 27,
+ "count": 28,
  "jobs": [
+  {
+   "id": "lever:weloglobal:0316fd7c-6dcd-455a-8f6c-cc2fb986be95",
+   "company": "Welo Global",
+   "title": "Associate Software Localization Engineer",
+   "season": "new_grad",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Gurgaon, India",
+   "url": "https://jobs.lever.co/weloglobal/0316fd7c-6dcd-455a-8f6c-cc2fb986be95",
+   "posted_at": "2026-11-18T07:49:44Z",
+   "first_seen_at": "2026-11-18T09:57:54Z",
+   "salary": null,
+   "stipend": null,
+   "skills": [
+    "Java",
+    "SQL",
+    "Spring",
+    "Git"
+   ],
+   "source": "lever"
+  },
   {
    "id": "ashby:parspec:33854703-7d89-4bf1-9a08-9555f22cd21b",
    "company": "Parspec",
