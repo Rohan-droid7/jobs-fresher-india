@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-19T07:06:38Z",
+ "generated_at": "2026-11-19T09:59:48Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 29,
+ "count": 28,
  "jobs": [
   {
    "id": "lever:weloglobal:0316fd7c-6dcd-455a-8f6c-cc2fb986be95",
@@ -407,31 +407,6 @@
    "stipend": null,
    "skills": [],
    "source": "smartrecruiters"
-  },
-  {
-   "id": "lever:netomi:02b45afd-5a49-41b2-a244-b0ca76306692",
-   "company": "Netomi",
-   "title": "Data Engineer I",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Remote - India",
-   "url": "https://jobs.lever.co/netomi/02b45afd-5a49-41b2-a244-b0ca76306692",
-   "posted_at": "2026-09-21T12:58:12Z",
-   "first_seen_at": "2026-10-03T17:00:04Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "LLMs",
-    "AWS",
-    "GCP",
-    "Kubernetes",
-    "Docker",
-    "Kafka"
-   ],
-   "source": "lever"
   },
   {
    "id": "workday:r1rcm:/job/Noida-India/Software-Engineer-I_R260000005491",
