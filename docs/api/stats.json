@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-19T03:54:29Z",
- "duration_seconds": 168.0,
+ "generated_at": "2026-11-19T07:06:38Z",
+ "duration_seconds": 154.0,
  "companies_total": 5293,
  "companies_by_source": {
   "greenhouse": 1127,
@@ -22,50 +22,48 @@
   "eightfold": 1,
   "wellfound": 1
  },
- "quarantined": 1769,
- "fetched_ok": 3381,
- "fetch_errors": 143,
+ "quarantined": 1825,
+ "fetched_ok": 3372,
+ "fetch_errors": 96,
  "errors_by_source": {
-  "workday": 129,
-  "ashby": 2,
-  "greenhouse": 5,
-  "rippling": 2,
-  "lever": 2,
-  "recruitee": 1,
+  "workday": 92,
+  "greenhouse": 1,
+  "ashby": 1,
   "workable": 2
  },
- "fetch_success_rate": 0.959,
- "roles_matched": 17,
+ "fetch_success_rate": 0.972,
+ "roles_matched": 19,
  "roles_cycle_inferred": 0,
- "dropped_no_year_in_title": 947,
+ "dropped_no_year_in_title": 950,
  "dropped_offcycle_by_text": 0,
  "roles_by_source": {
-  "greenhouse": 2,
+  "greenhouse": 3,
   "ashby": 3,
   "amazon": 2,
   "lever": 3,
   "smartrecruiters": 3,
-  "rippling": 4
+  "rippling": 4,
+  "workday": 1
  },
  "roles_by_cycle": {
-  "new_grad": 17
+  "new_grad": 19
  },
  "roles_by_region": {
-  "India": 17
+  "India": 19
  },
- "posted_date_coverage": 0.857,
+ "posted_date_coverage": 0.862,
  "enriched_this_run": 0,
  "enrichment_detail_fetches": 0,
  "purged_this_run": 0,
  "new_this_run": 0,
- "open_total": 28,
+ "open_total": 29,
  "detection_latency": {
   "median_minutes": 773.6,
   "sample_size": 78,
   "window_days": 7
  },
  "posting_lifetime": {
-  "median_days": 9.0,
-  "sample_size": 84
+  "median_days": 9,
+  "sample_size": 83
  }
 }
