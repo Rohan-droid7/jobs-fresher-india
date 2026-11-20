@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-20T07:07:27Z",
+ "generated_at": "2026-11-20T09:57:14Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 25,
+ "count": 24,
  "jobs": [
   {
    "id": "lever:weloglobal:0316fd7c-6dcd-455a-8f6c-cc2fb986be95",
@@ -486,22 +486,6 @@
    "url": "https://ats.rippling.com/perle/jobs/f14c681e-5431-4677-8faa-a7ab38464863",
    "posted_at": null,
    "first_seen_at": "2026-10-27T13:03:51Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [],
-   "source": "rippling"
-  },
-  {
-   "id": "rippling:mykaarma:854ee9f5-885b-4c76-8e6f-0330a11cdc54",
-   "company": "Mykaarma",
-   "title": "Software Developer I",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "NOIDA, India",
-   "url": "https://ats.rippling.com/mykaarma/jobs/854ee9f5-885b-4c76-8e6f-0330a11cdc54",
-   "posted_at": null,
-   "first_seen_at": "2026-10-03T17:00:04Z",
    "salary": null,
    "stipend": null,
    "skills": [],
