@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-20T13:01:01Z",
+ "generated_at": "2026-11-20T15:58:51Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 25,
+ "count": 24,
  "jobs": [
   {
    "id": "oracle:edbz.fa.us2.oraclecloud.com:25020389",
@@ -330,30 +330,6 @@
     "Git"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "smartrecruiters:Eurofins:744000156229723",
-   "company": "Eurofins",
-   "title": "IT Infrastructure System Engineer - Linux",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bengaluru, KA, India",
-   "url": "https://jobs.smartrecruiters.com/Eurofins/744000156229723",
-   "posted_at": "2026-10-19T05:34:59.347Z",
-   "first_seen_at": "2026-10-27T13:03:51Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Azure",
-    "Kubernetes",
-    "Docker",
-    "Terraform",
-    "Linux",
-    "Git",
-    "PostgreSQL"
-   ],
-   "source": "smartrecruiters"
   },
   {
    "id": "amazon:amazon:10580008",
