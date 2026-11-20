@@ -5,7 +5,7 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-20T03:50:14Z</updated>
+  <updated>2026-11-20T07:07:27Z</updated>
   <entry>
     <id>urn:intern-engine:lever:weloglobal:0316fd7c-6dcd-455a-8f6c-cc2fb986be95</id>
     <title>Welo Global: Associate Software Localization Engineer</title>
@@ -119,14 +119,6 @@
     <summary>new_grad · Software · Coimbatore, TN, India · Azure, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:rippling:rippling:acf82f7d-5595-47c4-8e08-45c9d9a93529</id>
-    <title>Rippling: Software Engineer I - FullStack</title>
-    <link href="https://ats.rippling.com/rippling/jobs/acf82f7d-5595-47c4-8e08-45c9d9a93529"/>
-    <updated>2026-10-27T15:50:48Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Bangalore, India</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:amazon:amazon:10580010</id>
     <title>Amazon: Software Development Engineer I FTC</title>
     <link href="https://www.amazon.jobs/en/jobs/10580010/software-development-engineer-i-ftc"/>
@@ -149,14 +141,6 @@
     <updated>2026-10-27T13:03:51Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Data &amp; ML/AI · India (Remote)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:rippling:rippling:472ecc5e-9610-477b-bbb9-8b075c8f5a67</id>
-    <title>Rippling: Software Engineer I</title>
-    <link href="https://ats.rippling.com/rippling/jobs/472ecc5e-9610-477b-bbb9-8b075c8f5a67"/>
-    <updated>2026-10-27T13:03:51Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Bangalore, India</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Eurofins:744000156229723</id>

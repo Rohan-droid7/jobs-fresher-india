@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-20T03:50:14Z",
+ "generated_at": "2026-11-20T07:07:27Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 27,
+ "count": 25,
  "jobs": [
   {
    "id": "lever:weloglobal:0316fd7c-6dcd-455a-8f6c-cc2fb986be95",
@@ -476,22 +476,6 @@
    "source": "workday"
   },
   {
-   "id": "rippling:rippling:acf82f7d-5595-47c4-8e08-45c9d9a93529",
-   "company": "Rippling",
-   "title": "Software Engineer I - FullStack",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bangalore, India",
-   "url": "https://ats.rippling.com/rippling/jobs/acf82f7d-5595-47c4-8e08-45c9d9a93529",
-   "posted_at": null,
-   "first_seen_at": "2026-10-27T15:50:48Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [],
-   "source": "rippling"
-  },
-  {
    "id": "rippling:perle:f14c681e-5431-4677-8faa-a7ab38464863",
    "company": "Perle",
    "title": "Elite Research Scientist - Frontier AI Evaluation",
@@ -500,22 +484,6 @@
    "category": "Data & ML/AI",
    "location": "India (Remote)",
    "url": "https://ats.rippling.com/perle/jobs/f14c681e-5431-4677-8faa-a7ab38464863",
-   "posted_at": null,
-   "first_seen_at": "2026-10-27T13:03:51Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [],
-   "source": "rippling"
-  },
-  {
-   "id": "rippling:rippling:472ecc5e-9610-477b-bbb9-8b075c8f5a67",
-   "company": "Rippling",
-   "title": "Software Engineer I",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bangalore, India",
-   "url": "https://ats.rippling.com/rippling/jobs/472ecc5e-9610-477b-bbb9-8b075c8f5a67",
    "posted_at": null,
    "first_seen_at": "2026-10-27T13:03:51Z",
    "salary": null,
