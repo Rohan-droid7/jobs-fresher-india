@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks **full-time fresher & new-grad tech jobs** for the **2026 & 2027 batch** across India — so you don't have to. Instead of refreshing Naukri, LinkedIn, and a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**24 open roles · 4 new this week · 5,293 companies tracked · updated Nov 23, 2026 at 10:09 UTC**
+**25 open roles · 3 new this week · 5,293 companies tracked · updated Nov 23, 2026 at 13:07 UTC**
 
 **⭐ Star this repo ⭐** to save it and get notified when new roles land.
 
@@ -13,7 +13,7 @@ A self-updating engine that tracks **full-time fresher & new-grad tech jobs** fo
 **🔔 New roles in your inbox:** [subscribe by email](https://rohan-droid7.github.io/jobs-fresher-india/#subscribe) - one email a day, only when new jobs actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FRohan-droid7%2Fjobs-fresher-india%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## New Grad — Entry Level (All Batches)  (24 open)
+## New Grad — Entry Level (All Batches)  (25 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -26,6 +26,7 @@ A self-updating engine that tracks **full-time fresher & new-grad tech jobs** fo
 | AiPrise | Software Engineer I, Frontend (Bangalore, India) | Software | ₹15L – ₹30L • Offers Bonus<br>2+ Yrs | Bengaluru | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/aiprise/4994f7fc-b974-420f-9823-32d6c493f5c2) |
 | Welocalize | Software Engineer I | Software | — | Gurgaon | Nov 10, 2026 | [Apply](https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Gurgaon/Software-Engineer-I_R0008056) |
 | Pentair | Graduate Engineer Trainee | Software | B.Tech/BS | Goa | Nov 10, 2026 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Goa/Graduate-Engineer-Trainee_R24400) |
+| New Relic | Software Engineer 1 | Software | B.Tech/BS | Hyderabad, India | Nov 05, 2026 | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5467941008) |
 | Cigna Group | Automation Engineer Associate Analyst - Cigna Healthcare | Software | B.Tech/BS | Bengaluru, India | Nov 04, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Automation-Engineer-Associate-Analysts---Cigna-Healthcare_26013237) |
 | Light & Wonder | Associate QA Engineer | Software | B.Tech/BS | Pune, India | Nov 03, 2026 | [Apply](https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Pune-India/Associate-QA-Engineer_R322953) |
 | SolarWinds | Associate Software Engineer | Software | 2+ Yrs | Bangalore, India | Nov 02, 2026 | [Apply](https://jobs.solarwinds.com/job-detail/?gh_jid=4743100005&gh_jid=4743100005) |
@@ -177,7 +178,7 @@ Fresher job postings per week, from each role's real published date — redrawn 
 
 A Python engine reads public company hiring feeds directly, keeps the roles that match the fresher/new-grad scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions every 4 hours. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,293 companies across 18 ATS platforms · 96% fetch success · completed in 158.9s · median detection latency 778 min · real posted dates on 95% of open roles._
+_Engine (last run): 5,293 companies across 18 ATS platforms · 97% fetch success · completed in 111.0s · median detection latency 778 min · real posted dates on 96% of open roles._
 
 ## Platforms Monitored
 
