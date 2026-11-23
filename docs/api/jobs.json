@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-23T16:00:47Z",
+ "generated_at": "2026-11-23T19:00:50Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 24,
+ "count": 23,
  "jobs": [
   {
    "id": "oracle:edbz.fa.us2.oraclecloud.com:25020389",
@@ -153,24 +153,6 @@
     "Node.js"
    ],
    "source": "ashby"
-  },
-  {
-   "id": "workday:welocalize:/job/Gurgaon/Software-Engineer-I_R0008056",
-   "company": "Welocalize",
-   "title": "Software Engineer I",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Gurgaon",
-   "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Gurgaon/Software-Engineer-I_R0008056",
-   "posted_at": "2026-11-10T00:00:00Z",
-   "first_seen_at": "2026-11-10T18:47:45Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "JavaScript"
-   ],
-   "source": "workday"
   },
   {
    "id": "workday:pentair:/job/Goa/Graduate-Engineer-Trainee_R24400",
