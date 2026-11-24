@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks **full-time fresher & new-grad tech jobs** for the **2026 & 2027 batch** across India — so you don't have to. Instead of refreshing Naukri, LinkedIn, and a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**23 open roles · 3 new this week · 5,293 companies tracked · updated Nov 24, 2026 at 03:56 UTC**
+**24 open roles · 3 new this week · 5,293 companies tracked · updated Nov 24, 2026 at 07:06 UTC**
 
 **⭐ Star this repo ⭐** to save it and get notified when new roles land.
 
@@ -13,7 +13,7 @@ A self-updating engine that tracks **full-time fresher & new-grad tech jobs** fo
 **🔔 New roles in your inbox:** [subscribe by email](https://rohan-droid7.github.io/jobs-fresher-india/#subscribe) - one email a day, only when new jobs actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FRohan-droid7%2Fjobs-fresher-india%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## New Grad — Entry Level (All Batches)  (23 open)
+## New Grad — Entry Level (All Batches)  (24 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -25,6 +25,7 @@ A self-updating engine that tracks **full-time fresher & new-grad tech jobs** fo
 | AiPrise | Software Engineer I, Full Stack (Frontend Focused) (Bangalore, India) | Software | ₹15L – ₹30L • Offers Bonus<br>2+ Yrs<br>B.Tech/BS | Bengaluru | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/aiprise/41af4efa-a550-484e-afde-a9f5f3807eca) |
 | AiPrise | Software Engineer I, Frontend (Bangalore, India) | Software | ₹15L – ₹30L • Offers Bonus<br>2+ Yrs | Bengaluru | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/aiprise/4994f7fc-b974-420f-9823-32d6c493f5c2) |
 | Pentair | Graduate Engineer Trainee | Software | B.Tech/BS | Goa | Nov 10, 2026 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Goa/Graduate-Engineer-Trainee_R24400) |
+| Ford Motor Company | Tax Technology Analyst | Other | — | Chennai, Tamil Nadu, India | Nov 10, 2026 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72334) |
 | Cigna Group | Automation Engineer Associate Analyst - Cigna Healthcare | Software | B.Tech/BS | Bengaluru, India | Nov 04, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Automation-Engineer-Associate-Analysts---Cigna-Healthcare_26013237) |
 | Light & Wonder | Associate QA Engineer | Software | B.Tech/BS | Pune, India | Nov 03, 2026 | [Apply](https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Pune-India/Associate-QA-Engineer_R322953) |
 | SolarWinds | Associate Software Engineer | Software | 2+ Yrs | Bangalore, India | Nov 02, 2026 | [Apply](https://jobs.solarwinds.com/job-detail/?gh_jid=4743100005&gh_jid=4743100005) |
@@ -120,7 +121,7 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _42 companies on the [full radar](https://rohan-droid7.github.io/jobs-fresher-india/#radar). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 35 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 33 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
@@ -132,7 +133,6 @@ _42 companies on the [full radar](https://rohan-droid7.github.io/jobs-fresher-in
 | Rippling | Software Engineer I - FullStack | new_grad | 2026-11-20 |
 | Coupa Software | Associate Security Engineer - 11925 | new_grad | 2026-11-19 |
 | Netomi | Data Engineer I | new_grad | 2026-11-19 |
-| Ford Motor Company | Tax Technology Analyst | new_grad | 2026-11-17 |
 | TriNet | Associate Data Analyst | new_grad | 2026-11-17 |
 | Zebra Technologies | Data engineer 1 | new_grad | 2026-11-17 |
 | Amazon | Software Dev Engineer I FTC | new_grad | 2026-11-17 |
@@ -158,7 +158,6 @@ _42 companies on the [full radar](https://rohan-droid7.github.io/jobs-fresher-in
 | Abnormal Security | Software Engineer I - Backend | new_grad | 2026-11-12 |
 | TriNet | Associate Data Scientist | new_grad | 2026-11-11 |
 | Amazon | Software Development Engineer, Prime Video Live Events - Sports Data Platform | new_grad | 2026-11-10 |
-| Edwards Lifesciences | Associate Developer, IT | new_grad | 2026-11-10 |
 
 </details>
 
@@ -177,7 +176,7 @@ Fresher job postings per week, from each role's real published date — redrawn 
 
 A Python engine reads public company hiring feeds directly, keeps the roles that match the fresher/new-grad scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions every 4 hours. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,293 companies across 18 ATS platforms · 95% fetch success · completed in 171.8s · median detection latency 778 min · real posted dates on 95% of open roles._
+_Engine (last run): 5,293 companies across 18 ATS platforms · 97% fetch success · completed in 182.0s · median detection latency 778 min · real posted dates on 95% of open roles._
 
 ## Platforms Monitored
 
