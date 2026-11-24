@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-24T10:02:18Z",
+ "generated_at": "2026-11-24T13:08:38Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 25,
+ "count": 24,
  "jobs": [
   {
    "id": "greenhouse:toast:8370624",
@@ -383,22 +383,6 @@
    "stipend": null,
    "skills": [],
    "source": "amazon"
-  },
-  {
-   "id": "smartrecruiters:Wabtec:3743990015987115",
-   "company": "Wabtec",
-   "title": "System Engineer ( Doors)",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bengaluru, India",
-   "url": "https://jobs.smartrecruiters.com/Wabtec/3743990015987115",
-   "posted_at": "2026-10-08T13:49:53.351Z",
-   "first_seen_at": "2026-10-27T13:03:51Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [],
-   "source": "smartrecruiters"
   },
   {
    "id": "workday:r1rcm:/job/Noida-India/Software-Engineer-I_R260000005491",
