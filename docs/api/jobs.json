@@ -1,31 +1,8 @@
 {
- "generated_at": "2026-11-24T21:54:26Z",
+ "generated_at": "2026-11-25T03:58:08Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 23,
+ "count": 22,
  "jobs": [
-  {
-   "id": "greenhouse:toast:8370624",
-   "company": "Toast",
-   "title": "Software Engineer-I",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bengaluru,Karnataka,India",
-   "url": "https://careers.toasttab.com/jobs?gh_jid=8370624",
-   "posted_at": "2026-11-23T05:11:25-05:00",
-   "first_seen_at": "2026-11-24T10:02:18Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Java",
-    "Kotlin",
-    "React",
-    "AWS",
-    "Spark",
-    "PostgreSQL"
-   ],
-   "source": "greenhouse"
-  },
   {
    "id": "oracle:edbz.fa.us2.oraclecloud.com:25020389",
    "company": "Texas Instruments",
