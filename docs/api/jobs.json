@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-25T13:12:44Z",
+ "generated_at": "2026-11-25T23:31:41Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 22,
+ "count": 20,
  "jobs": [
   {
    "id": "lever:aeratechnology:df1fa5a4-db11-4bd1-95a7-79c08b3109d2",
@@ -20,24 +20,6 @@
     "SQL"
    ],
    "source": "lever"
-  },
-  {
-   "id": "oracle:edbz.fa.us2.oraclecloud.com:25020389",
-   "company": "Texas Instruments",
-   "title": "System Engineer",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25020389",
-   "posted_at": "2026-11-20",
-   "first_seen_at": "2026-11-20T13:01:01Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "MATLAB"
-   ],
-   "source": "oracle"
   },
   {
    "id": "lever:weloglobal:0316fd7c-6dcd-455a-8f6c-cc2fb986be95",
@@ -242,26 +224,6 @@
     "JavaScript",
     "SQL",
     "Angular"
-   ],
-   "source": "greenhouse"
-  },
-  {
-   "id": "greenhouse:stripe:8130876",
-   "company": "Stripe",
-   "title": "Software Engineer, New Grad",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Bangalore",
-   "url": "https://stripe.com/jobs/search?gh_jid=8130876",
-   "posted_at": "2026-10-28T05:19:59-04:00",
-   "first_seen_at": "2026-10-28T09:48:53Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Java",
-    "JavaScript",
-    "Scala"
    ],
    "source": "greenhouse"
   },
