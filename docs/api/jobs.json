@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-25T07:09:53Z",
+ "generated_at": "2026-11-25T10:06:31Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 23,
+ "count": 22,
  "jobs": [
   {
    "id": "lever:aeratechnology:df1fa5a4-db11-4bd1-95a7-79c08b3109d2",
@@ -264,25 +264,6 @@
     "Scala"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "smartrecruiters:Eurofins:744000157805820",
-   "company": "Eurofins",
-   "title": "IT Infrastructure System Engineer - Windows",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Coimbatore, TN, India",
-   "url": "https://jobs.smartrecruiters.com/Eurofins/744000157805820",
-   "posted_at": "2026-10-26T12:53:05.339Z",
-   "first_seen_at": "2026-10-27T21:33:10Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Azure",
-    "Linux"
-   ],
-   "source": "smartrecruiters"
   },
   {
    "id": "workday:thehartford:/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341",
