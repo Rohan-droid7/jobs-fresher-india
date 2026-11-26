@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-26T07:24:46Z",
+ "generated_at": "2026-11-26T18:56:20Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 20,
+ "count": 19,
  "jobs": [
   {
    "id": "lever:aeratechnology:df1fa5a4-db11-4bd1-95a7-79c08b3109d2",
@@ -283,29 +283,6 @@
    "stipend": null,
    "skills": [],
    "source": "amazon"
-  },
-  {
-   "id": "greenhouse:shipbobinc:4737933005",
-   "company": "ShipBob",
-   "title": "Software Development Engineer I",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Remote - India",
-   "url": "https://job-boards.greenhouse.io/shipbobinc/jobs/4737933005",
-   "posted_at": "2026-10-08T03:30:48-04:00",
-   "first_seen_at": "2026-11-26T07:24:46Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "C#",
-    "JavaScript",
-    "SQL",
-    "Vue",
-    ".NET",
-    "Azure"
-   ],
-   "source": "greenhouse"
   },
   {
    "id": "workday:r1rcm:/job/Noida-India/Software-Engineer-I_R260000005491",
