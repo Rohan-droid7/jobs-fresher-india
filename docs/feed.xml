@@ -5,7 +5,15 @@
   <subtitle>Auto-detected fresher jobs, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/jobs-fresher-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/jobs-fresher-india"/>
-  <updated>2026-11-25T23:31:41Z</updated>
+  <updated>2026-11-26T07:24:46Z</updated>
+  <entry>
+    <id>urn:intern-engine:greenhouse:shipbobinc:4737933005</id>
+    <title>ShipBob: Software Development Engineer I</title>
+    <link href="https://job-boards.greenhouse.io/shipbobinc/jobs/4737933005"/>
+    <updated>2026-11-26T07:24:46Z</updated>
+    <category term="new_grad"/>
+    <summary>new_grad · Software · Remote - India · C#, JavaScript, SQL, Vue, .NET</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:aeratechnology:df1fa5a4-db11-4bd1-95a7-79c08b3109d2</id>
     <title>Aera Technology: Associate Developer Support Engineer</title>
@@ -109,14 +117,6 @@
     <updated>2026-10-27T13:03:51Z</updated>
     <category term="new_grad"/>
     <summary>new_grad · Software · Hyderabad, Telangana, India</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:abnormalsecurity:8016870003</id>
-    <title>Abnormal Security: Software Engineer 1 - Platform &amp; Infrastructure</title>
-    <link href="https://abnormal.ai/careers/jobs/8016870003?gh_jid=8016870003"/>
-    <updated>2026-10-27T13:03:51Z</updated>
-    <category term="new_grad"/>
-    <summary>new_grad · Software · Hybrid - Bangalore, India · Python, LLMs, Kubernetes, Docker, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:rippling:perle:f14c681e-5431-4677-8faa-a7ab38464863</id>
