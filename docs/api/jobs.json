@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-28T11:30:15Z",
+ "generated_at": "2026-11-28T19:43:02Z",
  "source": "https://github.com/Rohan-droid7/jobs-fresher-india",
- "count": 22,
+ "count": 21,
  "jobs": [
   {
    "id": "oracle:hdjq.fa.us2.oraclecloud.com:26014629",
@@ -18,27 +18,6 @@
    "stipend": null,
    "skills": [],
    "source": "oracle"
-  },
-  {
-   "id": "smartrecruiters:AccorCorpo:744000163966002",
-   "company": "Accor",
-   "title": "Junior AI Engineer",
-   "season": "new_grad",
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Gurugram, HR, India",
-   "url": "https://jobs.smartrecruiters.com/AccorCorpo/744000163966002",
-   "posted_at": "2026-11-27T06:24:25.540Z",
-   "first_seen_at": "2026-11-27T16:27:52Z",
-   "salary": null,
-   "stipend": null,
-   "skills": [
-    "Python",
-    "JavaScript",
-    "SQL",
-    "LLMs"
-   ],
-   "source": "smartrecruiters"
   },
   {
    "id": "lever:aeratechnology:df1fa5a4-db11-4bd1-95a7-79c08b3109d2",

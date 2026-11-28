@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks **full-time fresher & new-grad tech jobs** for the **2026 & 2027 batch** across India — so you don't have to. Instead of refreshing Naukri, LinkedIn, and a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**22 open roles · 4 new this week · 5,293 companies tracked · updated Nov 28, 2026 at 11:30 UTC**
+**21 open roles · 3 new this week · 5,293 companies tracked · updated Nov 28, 2026 at 19:43 UTC**
 
 **⭐ Star this repo ⭐** to save it and get notified when new roles land.
 
@@ -13,12 +13,11 @@ A self-updating engine that tracks **full-time fresher & new-grad tech jobs** fo
 **🔔 New roles in your inbox:** [subscribe by email](https://rohan-droid7.github.io/jobs-fresher-india/#subscribe) - one email a day, only when new jobs actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FRohan-droid7%2Fjobs-fresher-india%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## New Grad — Entry Level (All Batches)  (22 open)
+## New Grad — Entry Level (All Batches)  (21 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Emerson Electric | System Engineer 🆕 | Software | B.Tech/BS | PUNE, MAHARASHTRA, India | Nov 27, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014629) |
-| Accor | Junior AI Engineer 🆕 | Data & ML/AI | — | Gurugram, HR, India | Nov 27, 2026 | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000163966002) |
 | Aera Technology | Associate Developer Support Engineer | Software | 2+ Yrs<br>B.Tech/BS | Pune, India | Nov 25, 2026 | [Apply](https://jobs.lever.co/aeratechnology/df1fa5a4-db11-4bd1-95a7-79c08b3109d2) |
 | Meesho | Software Engineer I - Backend  (Kirana Club) 🆕 | Software | B.Tech/BS | Bangalore, Karnataka | Nov 18, 2026 | [Apply](https://jobs.lever.co/meesho/73db1822-f3de-4f9f-a2b3-944ea0b03702) |
 | Welo Global | Associate Software Localization Engineer | Software | — | Gurgaon, India | Nov 18, 2026 | [Apply](https://jobs.lever.co/weloglobal/0316fd7c-6dcd-455a-8f6c-cc2fb986be95) |
@@ -119,10 +118,11 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _42 companies on the [full radar](https://rohan-droid7.github.io/jobs-fresher-india/#radar). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 25 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 26 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Accor | Junior AI Engineer | new_grad | 2026-11-28 |
 | Ford Motor Company | Tax Technology Analyst | new_grad | 2026-11-28 |
 | ShipBob | Software Development Engineer I | new_grad | 2026-11-26 |
 | Abnormal Security | Software Engineer 1 - Platform & Infrastructure | new_grad | 2026-11-26 |
@@ -166,7 +166,7 @@ Fresher job postings per week, from each role's real published date — redrawn 
 
 A Python engine reads public company hiring feeds directly, keeps the roles that match the fresher/new-grad scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions every 4 hours. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,293 companies across 18 ATS platforms · 93% fetch success · completed in 176.4s · median detection latency 778 min · real posted dates on 95% of open roles._
+_Engine (last run): 5,293 companies across 18 ATS platforms · 94% fetch success · completed in 156.3s · median detection latency 778 min · real posted dates on 95% of open roles._
 
 ## Platforms Monitored
 
